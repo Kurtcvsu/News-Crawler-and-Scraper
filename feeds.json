@@ -1,0 +1,17 @@
+{
+  "ai": [
+    "https://feeds.techcrunch.com/feed.xml",
+    "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+    "https://www.artificialintelligence-news.com/feed/"
+  ],
+  "cybersecurity": [
+    "https://feeds.feedburner.com/TheHackersNews",
+    "https://feeds.bleepingcomputer.com/feed/",
+    "https://feeds.darkreading.com/feed/"
+  ],
+  "blockchain": [
+    "https://cointelegraph.com/rss",
+    "https://www.coindesk.com/arc/outboundfeeds/rss/",
+    "https://decrypt.co/feed"
+  ]
+}
