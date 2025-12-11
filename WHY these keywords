@@ -1,0 +1,40 @@
+AI Keywords + Explanations
+    "GPT",           # OpenAI's ChatGPT models (GPT-4o, GPT-5)
+    "Llama",         # Meta's open-source AI models (Llama 3.1)
+    "Gemini",        # Google's AI model family (Gemini 2.0)
+    "Claude",        # Anthropic's AI chatbot models
+    "ChatGPT",       # OpenAI's popular AI chatbot
+    "fine-tune",     # Training AI on specific data (custom AI)
+    "RAG",           # Retrieval-Augmented Generation (AI + search)
+    "transformer",   # Core AI architecture behind GPT/Llama
+    "LLM",           # Large Language Model (big AI brains)
+    "NAIS",          # National AI Strategy (Philippines)
+    "DOST AI"        # Department of Science & Tech AI projects (PH)
+
+CYBERSECURITY Keywords + Explanations
+    "LockBit",       # Famous ransomware gang (hits hospitals/banks)
+    "Conti",         # Another ransomware group (Russian hackers)
+    "Emotet",        # Banking malware (steals passwords)
+    "Qakbot",        # Malware used in ransomware attacks
+    "BlackCat",      # Ransomware group (ALPHV/BlackCat)
+    "zero-day",      # Unknown software bug hackers exploit first
+    "ransomware",    # Malware that locks files for ransom payment
+    "APT",           # Advanced Persistent Threat (state hackers)
+    "Cobalt Strike", # Hacker tool for infiltrating networks
+    "CIRT",          # Cybercrime Investigation Response Team (PH)
+    "DICT-CERT",     # Philippines CERT team (govt cybersecurity)
+    "PNP-ACG"        # PNP Anti-Cybercrime Group (PH police)
+
+BLOCKCHAIN Keywords + Explanations
+    "bitcoin",       # Original cryptocurrency (#1 by market cap)
+    "BTC",           # Bitcoin symbol/ticker
+    "Solana",        # Fast blockchain (Axie Infinity uses it)
+    "zkSync",        # Zero-knowledge scaling solution (Layer 2)
+    "Arbitrum",      # Ethereum Layer 2 scaling solution
+    "Optimism",      # Another Ethereum Layer 2
+    "Axie Infinity", # PH-famous blockchain game (P2E pioneer)
+    "P2E",           # Play-to-Earn gaming (huge in PH)
+    "BSP",           # Bangko Sentral ng Pilipinas (PH central bank)
+    "PDAX",          # Philippine Digital Asset Exchange
+    "Coins.ph",      # PH crypto exchange/wallet
+    "Maya crypto"    # Maya bank's crypto services
