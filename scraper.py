@@ -2,6 +2,7 @@ import requests
 import feedparser
 from bs4 import BeautifulSoup
 from typing import Dict, List, TypedDict
+from datetime import datetime, timedelta
 import time
 
 class Article(TypedDict):
@@ -12,9 +13,9 @@ class Article(TypedDict):
     body: str
 
 TOPIC_KEYWORDS = {
-    "ai": ["artificial intelligence", "AI", "machine learning", "neural", "GPT", "model", "LLM", "deep learning", "transformer"],
-    "cybersecurity": ["security", "vulnerability", "breach", "malware", "exploit", "ransomware", "hacking", "cyber", "threat"],
-    "blockchain": ["blockchain", "crypto", "bitcoin", "ethereum", "Web3", "NFT", "decentralized", "smart contract"]
+    "ai": ["artificial intelligence", "AI", "machine learning", "neural", "GPT", "model", "LLM", "deep learning", "transformer", "Philippines", "Llama", "Gemini", "Claude", "ChatGPT", "fine-tune", "RAG", "NAIS", "DOST AI"],
+    "cybersecurity": ["cybersecurity", "security", "vulnerability", "breach", "malware", "exploit", "ransomware", "hacking", "cyber", "threat", "Philippines", "LockBit", "Conti", "Emotet", "Qakbot", "BlackCat", "zero-day", "APT", "Cobalt Strike", "CIRT", "DICT-CERT", "PNP-ACG"],
+    "blockchain": ["blockchain", "crypto", "bitcoin", "ethereum", "Web3", "NFT", "decentralized", "smart contract", "Philippines", "BTC", "Solana", "zkSync", "Arbitrum", "Optimism", "Axie Infinity", "P2E", "BSP", "PDAX", "Coins.ph", "Maya crypto"]
 }
 
 def fetch_rss_items(feeds_dict: Dict[str, List[str]]) -> List[Dict]:
@@ -31,11 +32,25 @@ def fetch_rss_items(feeds_dict: Dict[str, List[str]]) -> List[Dict]:
                 for entry in feed.entries[:20]:
                     title = entry.get("title", "").lower()
                     summary = entry.get("summary", "").lower()
+                    published_date =  entry.get("published", "").lower()
+
+                    cutoff = datetime.now() - timedelta(days=7).strftime("%Y-%m-%d")
                     
                     has_keyword = any(keyword.lower() in title or keyword.lower() in summary 
                                      for keyword in keywords)
                     
-                    if has_keyword:
+                    latest_date = any(date_str in published_date for date_str in[
+                        datetime.now().strfttime("%Y-%m-%d")
+                        (datetime.now() - timedelta(days=1)).strftime("%Y-%m-%d"),
+                        (datetime.now() - timedelta(days=2)).strftime("%Y-%m-%d"),
+                        (datetime.now() - timedelta(days=3)).strftime("%Y-%m-%d"),
+                        (datetime.now() - timedelta(days=4)).strftime("%Y-%m-%d"),
+                        (datetime.now() - timedelta(days=5)).strftime("%Y-%m-%d"),
+                        (datetime.now() - timedelta(days=6)).strftime("%Y-%m-%d"),
+                        cutoff
+                    ])
+                    
+                    if has_keyword and latest_date:
                         items.append({
                             "topic": topic,
                             "title": entry.get("title", ""),
