@@ -1,40 +1,65 @@
 AI Keywords + Explanations
-    "GPT",           # OpenAI's ChatGPT models (GPT-4o, GPT-5)
-    "Llama",         # Meta's open-source AI models (Llama 3.1)
-    "Gemini",        # Google's AI model family (Gemini 2.0)
-    "Claude",        # Anthropic's AI chatbot models
-    "ChatGPT",       # OpenAI's popular AI chatbot
-    "fine-tune",     # Training AI on specific data (custom AI)
-    "RAG",           # Retrieval-Augmented Generation (AI + search)
-    "transformer",   # Core AI architecture behind GPT/Llama
-    "LLM",           # Large Language Model (big AI brains)
-    "NAIS",          # National AI Strategy (Philippines)
-    "DOST AI"        # Department of Science & Tech AI projects (PH)
+    "artificial intelligence",  # General AI term (broad coverage)
+    "AI",                       # Short AI acronym (appears everywhere)
+    "machine learning",         # AI subset (data training)
+    "neural",                   # Neural networks (AI brain structure)
+    "GPT",                      # OpenAI's ChatGPT models (GPT-4o, GPT-5)
+    "model",                    # AI trained system (broad but common)
+    "LLM",                      # Large Language Model (big AI brains)
+    "deep learning",            # Advanced neural networks
+    "transformer",              # Core AI architecture behind GPT/Llama
+    "Philippines",              # PH location filter
+    "Llama",                    # Meta's open-source AI models (Llama 3.1)
+    "Gemini",                   # Google's AI model family (Gemini 2.0)
+    "Claude",                   # Anthropic's AI chatbot models
+    "ChatGPT",                  # OpenAI's popular AI chatbot
+    "fine-tune",                # Training AI on specific data (custom AI)
+    "RAG",                      # Retrieval-Augmented Generation (AI + search)
+    "NAIS",                     # National AI Strategy (Philippines)
+    "DOST AI"                   # Department of Science & Tech AI projects (PH)
 
 CYBERSECURITY Keywords + Explanations
-    "LockBit",       # Famous ransomware gang (hits hospitals/banks)
-    "Conti",         # Another ransomware group (Russian hackers)
-    "Emotet",        # Banking malware (steals passwords)
-    "Qakbot",        # Malware used in ransomware attacks
-    "BlackCat",      # Ransomware group (ALPHV/BlackCat)
-    "zero-day",      # Unknown software bug hackers exploit first
-    "ransomware",    # Malware that locks files for ransom payment
-    "APT",           # Advanced Persistent Threat (state hackers)
-    "Cobalt Strike", # Hacker tool for infiltrating networks
-    "CIRT",          # Cybercrime Investigation Response Team (PH)
-    "DICT-CERT",     # Philippines CERT team (govt cybersecurity)
-    "PNP-ACG"        # PNP Anti-Cybercrime Group (PH police)
+   "cybersecurity",            # General cybersecurity term
+    "security",                 # Broad security term (needs context)
+    "vulnerability",            # Software weakness hackers exploit
+    "breach",                   # Data leak/exposure incident
+    "malware",                  # Malicious software (viruses, trojans)
+    "exploit",                  # Hacker code using vulnerabilities
+    "ransomware",               # Malware locking files for ransom
+    "hacking",                  # Unauthorized system access
+    "cyber",                    # Cyber prefix (cyber attack, cyber war)
+    "threat",                   # Security danger/risk
+    "Philippines",              # PH location filter
+    "LockBit",                  # Famous ransomware gang (hospitals/banks)
+    "Conti",                    # Ransomware group (Russian hackers)
+    "Emotet",                   # Banking malware (steals passwords)
+    "Qakbot",                   # Malware used in ransomware attacks
+    "BlackCat",                 # Ransomware group (ALPHV/BlackCat)
+    "zero-day",                 # Unknown software bug (first exploit)
+    "APT",                      # Advanced Persistent Threat (state hackers)
+    "Cobalt Strike",            # Hacker tool for network infiltration
+    "CIRT",                     # Cybercrime Investigation Response Team (PH)
+    "DICT-CERT",                # Philippines CERT team (govt cybersecurity)
+    "PNP-ACG"                   # PNP Anti-Cybercrime Group (PH police)
 
 BLOCKCHAIN Keywords + Explanations
-    "bitcoin",       # Original cryptocurrency (#1 by market cap)
-    "BTC",           # Bitcoin symbol/ticker
-    "Solana",        # Fast blockchain (Axie Infinity uses it)
-    "zkSync",        # Zero-knowledge scaling solution (Layer 2)
-    "Arbitrum",      # Ethereum Layer 2 scaling solution
-    "Optimism",      # Another Ethereum Layer 2
-    "Axie Infinity", # PH-famous blockchain game (P2E pioneer)
-    "P2E",           # Play-to-Earn gaming (huge in PH)
-    "BSP",           # Bangko Sentral ng Pilipinas (PH central bank)
-    "PDAX",          # Philippine Digital Asset Exchange
-    "Coins.ph",      # PH crypto exchange/wallet
-    "Maya crypto"    # Maya bank's crypto services
+    "blockchain",               # Distributed ledger technology
+    "crypto",                   # Cryptocurrency shorthand
+    "bitcoin",                  # Original cryptocurrency (#1 market cap)
+    "ethereum",                 # #2 blockchain/smart contracts
+    "Web3",                     # Decentralized web (blockchain apps)
+    "NFT",                      # Non-Fungible Token (digital collectibles)
+    "decentralized",            # No central authority (blockchain core)
+    "smart contract",           # Self-executing blockchain code
+    "Philippines",              # PH location filter
+    "BTC",                      # Bitcoin symbol/ticker
+    "Solana",                   # Fast blockchain (Axie uses it)
+    "zkSync",                   # Zero-knowledge scaling (Layer 2)
+    "Arbitrum",                 # Ethereum Layer 2 scaling solution
+    "Optimism",                 # Ethereum Layer 2 scaling solution
+    "Axie Infinity",            # PH-famous blockchain game (P2E pioneer)
+    "P2E",                      # Play-to-Earn gaming (huge in PH)
+    "BSP",                      # Bangko Sentral ng Pilipinas (PH central bank)
+    "PDAX",                     # Philippine Digital Asset Exchange
+    "Coins.ph",                 # PH crypto exchange/wallet
+    "Maya crypto"               # Maya bank's crypto services
