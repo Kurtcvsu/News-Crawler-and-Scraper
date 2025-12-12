@@ -33,8 +33,6 @@ def fetch_rss_items(feeds_dict: Dict[str, List[str]]) -> List[Dict]:
                     title = entry.get("title", "").lower()
                     summary = entry.get("summary", "").lower()
                     published_date =  entry.get("published", "").lower()
-
-                    cutoff = datetime.now() - timedelta(days=7).strftime("%Y-%m-%d")
                     
                     counter = sum(
                                 int(keyword.lower() in title or keyword.lower() in summary) 
@@ -42,17 +40,10 @@ def fetch_rss_items(feeds_dict: Dict[str, List[str]]) -> List[Dict]:
 
                     has_keyword = counter >= 2
                     
-                    latest_date = any(date_str in published_date for date_str in[
-                        datetime.now().strfttime("%Y-%m-%d")
-                        (datetime.now() - timedelta(days=1)).strftime("%Y-%m-%d"),
-                        (datetime.now() - timedelta(days=2)).strftime("%Y-%m-%d"),
-                        (datetime.now() - timedelta(days=3)).strftime("%Y-%m-%d"),
-                        (datetime.now() - timedelta(days=4)).strftime("%Y-%m-%d"),
-                        (datetime.now() - timedelta(days=5)).strftime("%Y-%m-%d"),
-                        (datetime.now() - timedelta(days=6)).strftime("%Y-%m-%d"),
-                        cutoff
-                    ])
-                    
+                    date_released = datetime.strptime(published_date, "%Y=%m-%d")
+                    cutoff = datetime.now() - timedelta(days=7)
+                    latest_date = date_released >= cutoff
+
                     if has_keyword and latest_date:
                         items.append({
                             "topic": topic,
