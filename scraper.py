@@ -36,8 +36,11 @@ def fetch_rss_items(feeds_dict: Dict[str, List[str]]) -> List[Dict]:
 
                     cutoff = datetime.now() - timedelta(days=7).strftime("%Y-%m-%d")
                     
-                    has_keyword = any(keyword.lower() in title or keyword.lower() in summary 
-                                     for keyword in keywords)
+                    counter = sum(
+                                int(keyword.lower() in title or keyword.lower() in summary) 
+                                for keyword in keywords)
+
+                    has_keyword = counter >= 2
                     
                     latest_date = any(date_str in published_date for date_str in[
                         datetime.now().strfttime("%Y-%m-%d")
