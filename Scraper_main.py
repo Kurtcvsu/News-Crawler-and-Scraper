@@ -1,6 +1,7 @@
 import json
 from scraper import fetch_rss_items, enrich_articles
 
+
 def main():
     """Main orchestration function."""
     print("Loading feeds from feeds.json...")
@@ -16,9 +17,22 @@ def main():
     print("Enriching articles with full text...")
     enriched = enrich_articles(raw_items, url_cache)
 
-    print("Saving raw articles to output.txt...")
-    with open("output.txt", "w", encoding="utf-8") as f:
+    # Open one file per topic
+    topic_files = {
+        "ai": open("ai_articles.txt", "w", encoding="utf-8"),
+        "cybersecurity": open("cybersecurity_articles.txt", "w", encoding="utf-8"),
+        "blockchain": open("blockchain_articles.txt", "w", encoding="utf-8"),
+    }
+
+    try:
+        print("Saving articles to topic files...")
         for article in enriched:
+            topic = article["topic"]
+            # Skip topics you don't handle
+            if topic not in topic_files:
+                continue
+
+            f = topic_files[topic]
             f.write(f"=== {article['topic'].upper()} ===\n")
             f.write(f"Title: {article['title']}\n")
             f.write(f"Link: {article['link']}\n")
@@ -26,7 +40,12 @@ def main():
             f.write(article["body"])
             f.write("\n\n" + "=" * 80 + "\n\n")
 
-    print("✅ Raw articles saved to output.txt")
+        print("✅ Articles saved to ai_articles.txt, cybersecurity_articles.txt, blockchain_articles.txt")
+    finally:
+        # Make sure files are closed even if something crashes
+        for f in topic_files.values():
+            f.close()
+
 
 if __name__ == "__main__":
     main()

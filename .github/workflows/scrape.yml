@@ -1,0 +1,39 @@
+name: Daily News Scraper
+
+on:
+  schedule:
+    # Run daily at 7 AM UTC (adjust the cron as needed)
+    - cron: '0 7 * * *'
+  # Optional: allow manual trigger from GitHub UI
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    
+    steps:
+      # Step 1: Check out your repo code
+      - uses: actions/checkout@v4
+      
+      # Step 2: Set up Python
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      # Step 3: Install dependencies
+      - run: pip install -r requirements.txt
+      
+      # Step 4: Run your scraper
+      - name: Run scraper and summarizer
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python main.py
+      
+      # Optional Step 5: Commit and push results (if you want to save output)
+      - name: Commit results
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add output.txt 2>/dev/null || true
+          git commit -m "Daily scrape results" 2>/dev/null || true
+          git push 2>/dev/null || true

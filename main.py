@@ -9,7 +9,7 @@ def main():
     with open("feeds.json", "r") as f:
         feeds = json.load(f)
     
-    print("Fetching RSS feeds...")
+    print("Fetching RSS feeds...") # the prints shows in the terminal 
     raw_items = fetch_rss_items(feeds)
     print(f"Found {len(raw_items)} items from RSS")
     
