@@ -4,7 +4,7 @@
 Tue, 16 Dec 2025 08:13:48 +0000
 
 
-Yashu Gola 3 hours ago Bitcoin sharks stack at fastest pace in 13 years, with BTC down 30% Past
+Yashu Gola 4 hours ago Bitcoin sharks stack at fastest pace in 13 years, with BTC down 30% Past
 record spikes in Bitcoin accumulation preceded major rallies, including a 900% surge in 2012 and a
 350% rise in 2011. Listen 0:00 Market Analysis COINTELEGRAPH IN YOUR SOCIAL FEED Bitcoin ( BTC ) is
 down 30% from its $126,200 peak, trading just above the $85,000 support and fueling concerns of a
@@ -57,7 +57,7 @@ https://cointelegraph.com/news/bitcoin-sharks-accumulate-fastest-pace-in-13-year
 Tue, 16 Dec 2025 06:10:26 +0000
 
 
-Martin Young 5 hours ago Most crypto sectors lagged Bitcoin over past 3 months: Glassnode Bitcoin
+Martin Young 6 hours ago Most crypto sectors lagged Bitcoin over past 3 months: Glassnode Bitcoin
 fell 26% in three months but outperformed most crypto sectors as Ether dropped 36%, AI tokens fell
 48%, and memecoins dipped 56%. Listen 0:00 News COINTELEGRAPH IN YOUR SOCIAL FEED Despite a decline
 from all-time highs, Bitcoin has still performed better than most other cryptocurrency sectors in
@@ -97,7 +97,7 @@ https://cointelegraph.com/news/nearly-all-crypto-sectors-underperformed-btc-over
 Tue, 16 Dec 2025 05:53:18 +0000
 
 
-Stephen Katte 5 hours ago Ripple pilots RLUSD on Ethereum L2s in multichain push Ripple is testing
+Stephen Katte 6 hours ago Ripple pilots RLUSD on Ethereum L2s in multichain push Ripple is testing
 RLUSD on layer 2s Optimism, Base, Ink, and Unichain, after the token initially launched on the XRP
 Ledger and Ethereum in 2024. Listen 0:00 News COINTELEGRAPH IN YOUR SOCIAL FEED Ripple Labs is
 expanding its US dollar-backed stablecoin RLUSD to Ethereum layer-2 blockchains as part of a pilot
@@ -141,7 +141,7 @@ https://cointelegraph.com/news/ripple-rlusd-multichain-ethereum-l2s-wormhole?utm
 Tue, 16 Dec 2025 04:47:18 +0000
 
 
-Brian Quarmby 6 hours ago MetaMask adds Bitcoin support after teasing it 10 months ago Users can now
+Brian Quarmby 7 hours ago MetaMask adds Bitcoin support after teasing it 10 months ago Users can now
 buy, swap, send, and receive Bitcoin directly within the popular Ethereum-focused wallet, expanding
 its multichain reach. Listen 0:00 News COINTELEGRAPH IN YOUR SOCIAL FEED Crypto wallet giant
 MetaMask has announced it has added support for Bitcoin, hinting that more blockchain integrations
@@ -171,7 +171,7 @@ https://cointelegraph.com/news/metamask-adds-bitcoin-support-after-teasing-febru
 Tue, 16 Dec 2025 04:10:13 +0000
 
 
-Jesse Coghlan 7 hours ago Crypto urges SEC to see the good in blockchain privacy tools US Securities
+Jesse Coghlan 8 hours ago Crypto urges SEC to see the good in blockchain privacy tools US Securities
 and Exchange Commission chair Paul Atkins says the agency must find how to allow people to use
 blockchain privacy tools “without immediately falling under suspicion.” Listen 0:00 News
 COINTELEGRAPH IN YOUR SOCIAL FEED Crypto industry executives have urged the US Securities and
@@ -230,7 +230,7 @@ https://cointelegraph.com/news/crypto-urges-sec-see-good-in-blockchain-privacy-t
 Tue, 16 Dec 2025 00:17:35 +0000
 
 
-Marcel Pechman 11 hours ago Bitcoin, altcoins sell off as Fed chair switch-up, AI bubble fears spook
+Marcel Pechman 12 hours ago Bitcoin, altcoins sell off as Fed chair switch-up, AI bubble fears spook
 markets Crypto markets slid as traders turned risk-averse amid renewed Fed leadership speculation,
 tightening liquidity and broader macro uncertainty. Listen 0:00 Market Analysis COINTELEGRAPH IN
 YOUR SOCIAL FEED Key takeaways: Leverage surged in the crypto market, with $527 million in
@@ -299,7 +299,7 @@ https://cointelegraph.com/news/bitcoin-altcoins-sell-off-as-fed-chair-switch-up-
 Mon, 15 Dec 2025 21:54:06 +0000
 
 
-Cointelegraph 13 hours ago Here’s what happened in crypto today Need to know what happened in crypto
+Cointelegraph 14 hours ago Here’s what happened in crypto today Need to know what happened in crypto
 today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi,
 NFTs, Web3 and crypto regulation. Listen 0:00 News COINTELEGRAPH IN YOUR SOCIAL FEED Today in
 crypto: Crypto executives urged the SEC to shift its thinking on privacy tools, crypto ETFs had
@@ -360,60 +360,68 @@ https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed
 
 ================================================================================
 
-"Bitcoin drops under $86K as $2.78B in BTC whale selling overwhelms active dip buyers"
-Mon, 15 Dec 2025 20:30:00 +0000
+"U.S. bitcoin, ether ETFs see largest outflows since Nov. 20 as BTC declines"
+Tue, 16 Dec 2025 11:33:38 +0000
 
 
-Biraajmaan Tamuly 15 hours ago Bitcoin drops under $86K as $2.78B in BTC whale selling overwhelms
-active dip buyers Data shows traders bought the Bitcoin price dip, but $2.78 billion in selling by
-larger entities overshadowed the bulls. Can BTC hold above $86,000? Listen 0:00 Market Analysis
-COINTELEGRAPH IN YOUR SOCIAL FEED Bitcoin ( BTC ) dropped below $86,000 on Monday, continuing to
-expand on a liquidity imbalance as smaller participants continued to buy dips. Still, large holders
-were using the demand to exit positions, keeping downside pressure firmly in place. Key takeaways:
-Retail and mid-sized Bitcoin wallets purchased $474 million in cumulative buy-side volume, while
-whales sold $2.78 billion during the same period. Short-term BTC holders continued to sell at a
-loss, a sign of capitulation, but a reversal has not been confirmed. Bitcoin could re-test quarterly
-lows at $80,600 after invalidating its short-term bull trend. Whales dominate the sell-side as
-retail bets on a bottom Order flow data from Hyblock Capital highlighted a sharp divergence in
-behavior across participant classes. Retail traders or wallets ($0–$10,000) have accumulated a
-cumulative volume delta of $169 million, consistently bidding into the downtrend. Mid-sized
-participants ($1,000–$100,000) also built a $305 million net spot position as they attempted to
-front-run a recovery. BTC price and volume delta (cumulative) between different wallet sizes.
-Source: Hyblock Whale wallets ($100,000–$10 million) remained the dominant force, with a negative
-$2.78 billion in cumulative volume delta. The combined buying power of retail and mid-sized traders
-was insufficient to absorb institutional-scale distribution. This results in a liquidity mismatch
-where smaller players interpret sub-$100,000 prices as a discount, while large holders treat the
-same zone as an opportunity to reduce exposure. Onchain analyst Axel Adler Jr pointed to the short-
-term holder spent output profit-ratio (seven-day SMA) slipping below 1, currently hovering near
-0.99. This indicated that coins held for less than 155 days are, on average, being sold at a loss.
-Historically, such conditions have aligned with local capitulation phases, when selling pressure
-peaks. Still, Adler emphasized that stress alone is not a reversal signal. A sustained recovery can
-begin after SOPR reclaims and holds above 1, confirming that demand has started to absorb supply.
-Bitcoin short-term holder SOPR. Source: Axel Adler Jr. Related: Bitcoin sees ‘pure manipulation’ as
-US sell-off liquidates $200M in an hour Bitcoin open to revisit lower liquidity targets From a
-technical standpoint, Bitcoin’s structure has weakened further. BTC’s price has broken down from a
-rising wedge pattern, sweeping the monthly VWAP (volume-weighted average price) before printing a
-bearish break of structure (BOS) below $87,600. Bitcoin four-hour chart analysis. Source:
-Cointelegraph/TradingView With the short-term bullish trend invalidated, BTC now faces downside
-targets near prior liquidity pools or external liquidity. The immediate targets remain the $83,800
-swing low, with a deeper retracement toward the $80,600 quarterly lows possible if sell pressure
-persists. For now, both order flow and onchain signals suggest that patience is required before
-declaring a durable bottom. Related: Bitcoin parabola breakdown raises chance for 80% correction:
-Veteran trader This article does not contain investment advice or recommendations. Every investment
-and trading move involves risk, and readers should conduct their own research when making a
-decision. While we strive to provide accurate and timely information, Cointelegraph does not
-guarantee the accuracy, completeness, or reliability of any information in this article. This
-article may contain forward-looking statements that are subject to risks and uncertainties.
-Cointelegraph will not be liable for any loss or damage arising from your reliance on this
-information. This article does not contain investment advice or recommendations. Every investment
-and trading move involves risk, and readers should conduct their own research when making a
-decision. While we strive to provide accurate and timely information, Cointelegraph does not
-guarantee the accuracy, completeness, or reliability of any information in this article. This
-article may contain forward-looking statements that are subject to risks and uncertainties.
-Cointelegraph will not be liable for any loss or damage arising from your reliance on this
-information. # Bitcoin # Cryptocurrencies # Bitcoin Price # Markets # Cryptocurrency Exchange #
-Price Analysis # Market Analysis # Liquidity # Whale Add reaction
-https://cointelegraph.com/news/bitcoin-slips-below-86k-as-2-78b-whale-selling-overwhelms-dip-buyers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+Markets Share Share this article Copy link X icon X (Twitter) LinkedIn Facebook Email U.S. bitcoin,
+ether ETFs see largest outflows since Nov. 20 as BTC declines Monday once again emerges as a
+pressure point for bitcoin, aligning ETF outflows with recurring bitcoin lows. By James Van Straten
+| Edited by Sheldon Reback Updated Dec 16, 2025, 12:28 p.m. Published Dec 16, 2025, 11:33 a.m.
+Crypto bears dominated Monday as U.S. spot ETFs suffered net withdrawals (Rawpixel modified by
+CoinDesk) What to know : U.S. spot bitcoin and ether ETFs recorded the largest net outflows since
+Nov. 20. Monday has been a consistent pressure point for bitcoin this year, with several major local
+lows occurring on that day, and Velo data showing Monday as the third-worst performing day over the
+past 12 months. U.S. spot bitcoin BTC $ 87,169.78 and ether ETH $ 2,951.71 exchange-traded funds
+lost a combined $582 million in net outflows on Monday, the most since Nov. 20, as crypto markets
+fell, taking bitcoin to as low as $85,100. The bitcoin ETFs recorded $357.6 million in outflows, the
+most in nearly two weeks, with ether ETFs saw $224.8 million exit in a third day of withdrawals,
+according to data from Farside. STORY CONTINUES BELOW Don't miss another story. Subscribe to the
+Crypto Daybook Americas Newsletter today . See all newsletters Sign me up By signing up, you will
+receive emails about CoinDesk products and you agree to our terms of use and privacy policy .
+According to Velo data , Monday is the third-worst performing weekday for bitcoin over the past 12
+months, trailing only Thursday and Friday in terms of average returns. Throughout 2025, several of
+bitcoin’s major local lows have occurred on Mondays, a pattern highlighted in the chart below.
+BTCUSD (TradingView) A key level to monitor for potential bitcoin support is the U.S. ETF cost basis
+. This metric represents the average entry price of bitcoin held by spot ETFs and is calculated by
+combining daily ETF inflows with bitcoin’s price at the time of each deposit to form a running
+average. See also: XRP ETFs pass $1 billion mark with no outflow days since launch The aggregate
+cost basis for U.S. bitcoin ETFs currently sits near $83,000, according to Glassnode data, a level
+that bitcoin has rebounded from during the previous lows on Nov. 21 and Dec. 1. Among BTC ETFs,
+Fidelity Wise Origin Bitcoin Fund (FBTC) suffered $230.1 million in redemptions. Bitwise Bitcoin ETF
+(BITB) and ARK 21Shares Bitcoin ETF (ARKB) posted notable outflows of $44.3 million and $34.3
+million, respectively. BlackRock's iShares Bitcoin Trust (IBIT) reported no net flows on the day,
+according to data from Farside . In contrast, the iShares Ethereum Trust (ETHA) accounted for the
+majority of redemptions from ETH ETFs, at $139.1 million. Bitcoin News Bitcoin ETF ether ETF More
+For You Protocol Research: GoPlus Security By CoinDesk Research Nov 14, 2025 Commissioned by GoPlus
+What to know : As of October 2025, GoPlus has generated $4.7M in total revenue across its product
+lines. The GoPlus App is the primary revenue driver, contributing $2.5M (approx. 53%), followed by
+the SafeToken Protocol at $1.7M. GoPlus Intelligence's Token Security API averaged 717 million
+monthly calls year-to-date in 2025 , with a peak of nearly 1 billion calls in February 2025. Total
+blockchain-level requests, including transaction simulations, averaged an additional 350 million per
+month. Since its January 2025 launch , the $GPS token has registered over $5B in total spot volume
+and $10B in derivatives volume in 2025. Monthly spot volume peaked in March 2025 at over $1.1B ,
+while derivatives volume peaked the same month at over $4B. View Full Report More For You Crypto
+Markets Today: Bitcoin, ether extend pullback amid thin liquidity, macro jitters By Oliver Knight ,
+Omkar Godbole | Edited by Sheldon Reback 59 minutes ago Bitcoin and ether extended losses alongside
+weak equities, while oversold signals offered a tentative glimmer of hope for battered altcoins.
+What to know : Bitcoin fell 4% to $86,100, ether slid 6.7% to below $3,000. Crypto is tracking
+equities lower as concerns the AI bubble may collapse and weak U.S. jobs expectations hit the
+Nasdaq. Tokens like XRP, SOL and ADA are nearing key support levels, raising the chances of a short-
+term bounce. Read full story Latest Crypto News Crypto bank Custodia files petition for a rehearing
+by all appellate judges 11 minutes ago Brace for volatility as U.S. jobs data loom: Crypto Daybook
+Americas 14 minutes ago UK regulators start major consultation on crypto listings, DeFi, and staking
+36 minutes ago Crypto Markets Today: Bitcoin, ether extend pullback amid thin liquidity, macro
+jitters 59 minutes ago XRP ETFs pass $1 billion mark with no outflow days since launch 1 hour ago
+KindlyMD faces Nasdaq delisting risk after failing to meet minimum share price levels 2 hours ago
+Top Stories Bitcoin slump deepens as most of top 100 tokens fall below key trading signals 4 hours
+ago Brace for volatility as U.S. jobs data loom: Crypto Daybook Americas 14 minutes ago Visa brings
+Circle's USDC settlement to U.S. banks following $3.5 billion stablecoin pilot 29 minutes ago Axelar
+token falls 15% after Circle deal takes the developer team, leaves AXL behind 5 hours ago Crypto
+Markets Today: Bitcoin, ether extend pullback amid thin liquidity, macro jitters 59 minutes ago
+Cathie Wood's Ark goes on massive $59 million stock buying spree amid crypto carnage 7 hours ago In
+this article BTC BTC $ 87,169.78 ◢ 2.85 % ETH ETH $ 2,951.71 ◢ 6.51 %
+https://www.coindesk.com/markets/2025/12/16/u-s-bitcoin-ether-etfs-see-largest-outflows-since-nov-20-as-btc-declines
 
 ================================================================================
 
@@ -429,7 +437,7 @@ a.m. Crypto market extends pullback amid macro weakness (Shutterstock modified b
 know : Bitcoin fell 4% to $86,100, ether slid 6.7% to below $3,000. Crypto is tracking equities
 lower as concerns the AI bubble may collapse and weak U.S. jobs expectations hit the Nasdaq. Tokens
 like XRP, SOL and ADA are nearing key support levels, raising the chances of a short-term bounce.
-The crypto market failed to recover from Monday's sell-off, with bitcoin BTC $ 87,070.70 trading 4%
+The crypto market failed to recover from Monday's sell-off, with bitcoin BTC $ 87,169.78 trading 4%
 lower at $86,100 and ether dropping back below $3,000 after slumping 6.7% in 24 hours. The slide
 sent the CoinDesk 20 Index down 4.3%, with all members of the index lower, alongside a move to the
 downside in traditional markets. The Nasdaq Composite fell for a second straight day on Monday,
@@ -473,26 +481,25 @@ billion calls in February 2025. Total blockchain-level requests, including trans
 averaged an additional 350 million per month. Since its January 2025 launch , the $GPS token has
 registered over $5B in total spot volume and $10B in derivatives volume in 2025. Monthly spot volume
 peaked in March 2025 at over $1.1B , while derivatives volume peaked the same month at over $4B.
-View Full Report More For You KindlyMD faces Nasdaq delisting risk after failing to meet minimum
-share price levels By James Van Straten , AI Boost | Edited by Sheldon Reback 1 hour ago The health-
-care and bitcoin treasury firm has six months to lift its share price above $1 for 10 consecutive
-days. What to know : The Nasdaq exchange told KindlyMD (NAKA) that it faces being delisted after its
-share price dropped below $1 for 30 consecutive business days. The health-care company that is
-building a bitcoin treasury has until June 8 to regain compliance, which requires the stock to close
-at or above $1 for at least 10 consecutive business days. The shares first fell below $1 in late
-October, and closed Monday at $0.38. Read full story Latest Crypto News KindlyMD faces Nasdaq
-delisting risk after failing to meet minimum share price levels 1 hour ago Bitcoin slump deepens as
-most of top 100 tokens fall below key trading signals 3 hours ago Axelar token falls 15% after
-Circle deal takes the developer team, leaves AXL behind 4 hours ago StraitsX to debut Singapore and
-U.S. dollar stablecoins on Solana for quick currency exchange 4 hours ago New React bug that can
-drain all your tokens is impacting 'thousands of' websites 6 hours ago Cathie Wood's Ark goes on
-buying spree as crypto stocks extend multiday sell-off 6 hours ago Top Stories Bitcoin slump deepens
-as most of top 100 tokens fall below key trading signals 3 hours ago Axelar token falls 15% after
-Circle deal takes the developer team, leaves AXL behind 4 hours ago Why bitcoin ETFs look like
-they’re falling short, even as their role grows: Asia Morning Briefing 8 hours ago Why Dogecoin’s
-drop below $0.13 is drawing institutional attention 7 hours ago Cathie Wood's Ark goes on buying
-spree as crypto stocks extend multiday sell-off 6 hours ago Bitcoin, ether and XRP extend losses as
-year-end caution builds 6 hours ago In this article BTC BTC $ 87,070.70 ◢ 2.91 %
+View Full Report More For You U.S. bitcoin, ether ETFs see largest outflows since Nov. 20 as BTC
+declines By James Van Straten | Edited by Sheldon Reback 56 minutes ago Monday once again emerges as
+a pressure point for bitcoin, aligning ETF outflows with recurring bitcoin lows. What to know : U.S.
+spot bitcoin and ether ETFs recorded the largest net outflows since Nov. 20. Monday has been a
+consistent pressure point for bitcoin this year, with several major local lows occurring on that
+day, and Velo data showing Monday as the third-worst performing day over the past 12 months. Read
+full story Latest Crypto News Crypto bank Custodia files petition for a rehearing by all appellate
+judges 11 minutes ago Brace for volatility as U.S. jobs data loom: Crypto Daybook Americas 14
+minutes ago UK regulators start major consultation on crypto listings, DeFi, and staking 36 minutes
+ago U.S. bitcoin, ether ETFs see largest outflows since Nov. 20 as BTC declines 56 minutes ago XRP
+ETFs pass $1 billion mark with no outflow days since launch 1 hour ago KindlyMD faces Nasdaq
+delisting risk after failing to meet minimum share price levels 2 hours ago Top Stories Bitcoin
+slump deepens as most of top 100 tokens fall below key trading signals 4 hours ago Brace for
+volatility as U.S. jobs data loom: Crypto Daybook Americas 14 minutes ago Visa brings Circle's USDC
+settlement to U.S. banks following $3.5 billion stablecoin pilot 29 minutes ago U.S. bitcoin, ether
+ETFs see largest outflows since Nov. 20 as BTC declines 56 minutes ago Axelar token falls 15% after
+Circle deal takes the developer team, leaves AXL behind 5 hours ago Cathie Wood's Ark goes on
+massive $59 million stock buying spree amid crypto carnage 7 hours ago In this article BTC BTC $
+87,185.81 ◢ 2.83 %
 https://www.coindesk.com/markets/2025/12/16/crypto-markets-today-bitcoin-ether-extend-pullback-amid-thin-liquidity-macro-jitters
 
 ================================================================================
@@ -501,60 +508,60 @@ https://www.coindesk.com/markets/2025/12/16/crypto-markets-today-bitcoin-ether-e
 Mon, 15 Dec 2025 23:39:51 +0000
 
 
-Coin Prices BTC $87,042.00 -3.08% ETH $2,953.68 -6.51% BNB $864.12 -2.85% XRP $1.91 -3.87% USDC
-$1.00 0.01% SOL $128.39 -3.25% TRX $0.279346 -0.82% STETH $2,950.08 -6.54% DOGE $0.131515 -3.97%
-FIGR_HELOC $1.031 1.88% ADA $0.38712 -4.34% WBT $58.01 -3.66% WSTETH $3,605.94 -6.54% WBTC
-$86,911.00 -3.05% BCH $539.06 -4.91% WBETH $3,204.13 -6.53% USDS $0.999847 0.07% LINK $12.89 -5.56%
-BSC-USD $0.999628 -0.03% WEETH $3,198.57 -6.51% LEO $9.24 -0.31% XMR $416.43 0.30% WETH $2,951.46
--6.53% HYPE $27.08 -7.70% XLM $0.221899 -4.48% ZEC $395.90 -3.28% USDE $0.999026 -0.04% CBBTC
-$87,005.00 -3.17% LTC $78.59 -3.04% SUI $1.49 -4.90% AVAX $12.33 -7.11% HBAR $0.115395 -2.94% USDT0
-$0.999869 0.03% SUSDS $1.079 -0.07% SHIB $0.00000796 -2.94% MNT $1.25 -2.33% PYUSD $0.999776 0.01%
-TON $1.52 -3.20% WLFI $0.133417 -4.71% CRO $0.095332 -1.93% SUSDE $1.21 -0.03% UNI $5.14 -5.20% DOT
-$1.92 -3.87% M $1.69 0.97% AAVE $187.71 -3.94% USD1 $0.999003 -0.05% CC $0.073893 3.54% RAIN
-$0.00780711 -2.81% TAO $262.92 -6.49% BGB $3.54 -0.92% OKB $107.58 -2.67% XAUT $4,277.89 -1.38% USDF
-$0.998146 -0.09% NEAR $1.54 -5.10% ETC $12.47 -5.50% ASTER $0.815816 -10.80% BUIDL $1.00 0.00%
-JITOSOL $160.32 -3.23% WETH $2,952.09 -6.57% PEPE $0.00000408 -5.80% ENA $0.220521 -7.19% ICP $3.06
--4.11% PI $0.196218 -4.36% HASH $0.03057654 12.26% JLP $4.55 -2.28% SOL $128.30 -3.34% SYRUPUSDC
-$1.14 0.00% HTX $0.00000164 -0.78% PAXG $4,287.54 -1.52% PUMP $0.00244005 -9.15% USDG $0.999798
-0.02% USYC $1.11 0.00% KCS $10.35 -3.46% SYRUPUSDT $1.11 0.07% SKY $0.057739 1.67% WLD $0.537848
--7.37% BFUSD $0.999275 -0.01% RLUSD $0.99941 -0.01% ONDO $0.412747 -8.57% USDC $0.999801 0.00% RETH
-$3,394.82 -6.59% BNSOL $139.50 -3.24% GT $10.20 -2.93% POL $0.1133 -5.81% APT $1.59 -3.62% WBNB
-$863.63 -2.89% KAS $0.04296678 -3.49% ARB $0.199769 -5.81% QNT $75.62 -1.94% RSETH $3,132.59 -6.35%
-TRUMP $5.25 -4.16% ALGO $0.116281 -2.94% ATOM $2.06 -3.84% FBTC $86,839.00 -3.60% LSETH $3,150.82
--6.70% LBTC $87,168.00 -2.95% SOLVBTC $86,927.00 -3.03% FIL $1.28 -3.80% VET $0.01079015 -3.80% NEXO
-$0.925 -3.52% FLR $0.01146908 -5.17% NIGHT $0.055631 -12.12% XDC $0.04905533 4.05% USTB $10.92 0.01%
-USDTB $0.999793 -0.08% OUSG $113.64 0.02% USDD $0.999735 -0.02% WM $0.999949 -0.00% SEI $0.119172
--3.88% JAAA $1.017 0.06% RENDER $1.41 -6.47% KHYPE $27.26 -7.59% BONK $0.00000871 -4.99% WBTC
-$86,818.00 -3.23% METH $3,198.72 -6.38% USDY $1.11 0.33% BDX $0.09112 1.37% CAKE $2.03 -6.86% CLBTC
-$86,967.00 -3.85% USDC.E $0.999802 0.00% USDAI $1.006 0.59% EZETH $3,152.79 -6.44% MYX $3.42 -1.95%
-WFLR $0.01146735 -5.23% PENGU $0.01026865 -4.66% DAI $0.999762 -0.02% JUPSOL $148.51 -3.21% JUP
-$0.192225 -1.01% WETH $2,950.94 -6.58% MORPHO $1.097 -1.76% IP $1.72 -6.54% FET $0.223626 -6.88%
-OSETH $3,103.77 -6.07% OP $0.294198 -5.38% ULTIMA $5,481.28 -9.89% USD0 $0.997035 -0.17% WETH
-$2,953.55 -6.46% TBTC $87,004.00 -2.75% CRV $0.366712 -4.07% DASH $41.69 -2.23% WETH $35,382,014.00
-0.00% FDUSD $0.9987 -0.01% LDO $0.557565 -7.46% INJ $4.98 -6.07% XTZ $0.462398 -4.58% TUSD $0.996355
-0.02% CGETH.HASHKEY $2,460.42 0.00% AERO $0.537191 -5.99% STX $0.266197 -4.99% ETHFI $0.795214
--3.50% EUTBL $1.23 0.06% SPX $0.51586 -8.18% STRK $0.095303 -9.11% GTETH $2,954.99 -6.44% VIRTUAL
-$0.719519 -8.46% GHO $0.999653 -0.05% PIPPIN $0.458805 19.87% AB $0.00500628 -6.87% MSOL $172.79
--3.24% ETHX $3,178.76 -6.56% TIA $0.513249 -6.76% WAPE $0.214493 -4.06% LIQUIDETH $3,127.03 -6.31%
-MERL $0.39823 -16.82% FLOKI $0.00004277 -5.68% GRT $0.03882492 -4.10% KAIA $0.070212 -6.34% USDB
-$1.009 1.33% TWT $0.9719 -2.52% STEAKUSDC $1.11 0.05% SWETH $3,237.72 -6.63% JST $0.03967336 1.92%
-TEL $0.00410346 -10.70% ENZOBTC $90,454.00 0.00% BTT $0.0000004 -2.08% SUN $0.02024892 -0.95% IOTA
-$0.092281 -1.28% SBTC $87,073.00 -3.21% 2Z $0.109469 -3.63% CBETH $3,286.08 -6.54% ENS $9.87 -7.01%
-WIF $0.375672 -5.41% CFX $0.071407 -4.67% BSV $18.35 -5.05% OHM $22.07 -0.55% BTC.B $86,925.00
--3.19% NFT $0.00000035 -3.54% PYTH $0.059474 -5.52% EURC $1.17 0.04% BAT $0.224872 -8.14% DOGE
-$0.131205 -4.16% FARTCOIN $0.333656 -5.66% PENDLE $2.00 -6.25% THETA $0.328133 -3.77% BEAT $2.36
--17.03% KAU $137.45 -1.44% USX $0.999189 0.02% CRVUSD $0.999888 -0.07% DCR $18.49 -4.29% SAND
-$0.121367 -5.09% EETH $2,950.74 -6.53% HNT $1.69 -7.61% CUSD $1.002 0.20% S $0.083127 -7.50% BUSD
-$0.997434 -0.01% GALA $0.00664953 -4.39% GNO $116.98 -6.70% CHZ $0.0303486 -6.62% FLOW $0.188608
--2.17% SAVAX $15.23 -7.13% USR $0.999106 -0.11% JASMY $0.00615069 -1.70% SYRUP $0.265101 -1.29%
-WEETH $3,198.40 -6.52% VSN $0.086692 -4.91% WSTUSR $1.12 -0.14% BORG $0.295758 -1.13% ZRO $1.42
--2.81% FRXETH $2,908.71 -6.77% UBTC $87,027.00 -3.11% CMETH $3,195.00 -6.49% FRAX $0.992694 -0.04%
-ASBNB $914.78 -2.89% WSTX $0.275046 -3.45% WETH $2,951.31 -6.57% WHYPE $27.08 -7.72% STABLE
-$0.01476997 -2.38% XPL $0.135119 -6.43% NEO $3.78 -4.41% FDIT $1.00 0.00% A $0.164133 -2.65% JTRSY
-$1.089 0.03% COMP $27.13 -5.13% GTBTC $87,144.00 -3.07% MANA $0.134459 -4.78% MWC $23.07 -8.65% RAY
-$0.954633 -6.94% APEPE $0.00000121 5.31% ZK $0.02963575 -4.15% BBTC $87,115.00 -2.52% WETH $2,949.73
--6.54% ZBCN $0.00252426 -2.02% FF $0.10336 -3.37% AR $3.63 -2.70% WAETHUSDC $1.16 0.02% KAG $62.99
--1.34% WSTETH $3,607.17 -6.55% USDC.N $1.003 0.15% Price data by
+Coin Prices BTC $87,139.00 -2.75% ETH $2,950.61 -6.31% BNB $866.73 -2.37% XRP $1.93 -2.95% USDC
+$1.00 0.01% SOL $128.43 -2.88% TRX $0.279899 -0.57% STETH $2,950.25 -6.32% DOGE $0.131405 -3.99%
+FIGR_HELOC $1.031 1.88% ADA $0.387644 -3.81% WBT $58.05 -3.42% WSTETH $3,604.89 -6.42% WBTC
+$86,877.00 -2.74% BCH $543.58 -3.83% WBETH $3,202.12 -6.33% USDS $1.00 0.04% LINK $12.90 -5.38% BSC-
+USD $0.999274 -0.07% WEETH $3,197.49 -6.36% LEO $9.26 0.36% XMR $417.61 0.80% WETH $2,950.45 -6.39%
+HYPE $27.30 -6.91% XLM $0.222673 -3.73% ZEC $394.43 -4.40% USDE $0.999104 -0.02% CBBTC $87,118.00
+-2.77% LTC $78.94 -2.58% SUI $1.52 -2.92% AVAX $12.32 -6.65% HBAR $0.115667 -2.85% USDT0 $0.99981
+0.01% SHIB $0.00000796 -3.08% SUSDS $1.079 -0.16% MNT $1.25 -2.77% PYUSD $0.999701 0.01% TON $1.53
+-2.33% WLFI $0.133482 -4.65% CRO $0.095455 -1.69% SUSDE $1.21 -0.03% UNI $5.14 -4.77% DOT $1.92
+-3.74% M $1.69 0.92% AAVE $188.10 -3.73% USD1 $0.999419 0.00% RAIN $0.00781138 -2.66% CC $0.073224
+3.03% TAO $263.07 -6.09% BGB $3.55 -0.67% OKB $108.49 -1.28% XAUT $4,289.12 -1.17% USDF $0.999051
+-0.04% NEAR $1.54 -4.82% ETC $12.47 -4.94% ASTER $0.816626 -9.43% BUIDL $1.00 0.00% JITOSOL $160.33
+-2.83% WETH $2,949.47 -6.39% PEPE $0.00000407 -5.31% ENA $0.222034 -5.87% ICP $3.07 -3.22% PI
+$0.196813 -3.97% HASH $0.03103145 16.99% JLP $4.55 -1.96% SOL $128.39 -2.85% SYRUPUSDC $1.14 0.01%
+HTX $0.00000164 -0.70% PAXG $4,302.83 -1.32% PUMP $0.00245433 -8.39% USDG $0.999912 0.03% USYC $1.11
+0.00% KCS $10.34 -3.84% SKY $0.058201 2.56% SYRUPUSDT $1.11 -0.07% WLD $0.536108 -7.22% BFUSD
+$0.99928 -0.00% RLUSD $0.99954 -0.05% ONDO $0.412919 -8.29% USDC $0.999781 0.00% RETH $3,394.10
+-6.37% BNSOL $139.51 -2.92% POL $0.113507 -5.34% GT $10.19 -3.11% APT $1.58 -3.81% KAS $0.04355553
+-1.81% WBNB $866.82 -2.37% ARB $0.198551 -6.51% QNT $75.79 -1.92% RSETH $3,125.15 -6.50% TRUMP $5.26
+-4.01% ALGO $0.116687 -2.52% FBTC $87,171.00 -3.34% ATOM $2.06 -3.50% LSETH $3,156.41 -6.49% LBTC
+$87,319.00 -2.87% SOLVBTC $86,971.00 -2.71% FIL $1.28 -4.17% NEXO $0.924681 -2.79% VET $0.01077843
+-3.73% NIGHT $0.055539 -10.07% FLR $0.01149793 -4.77% XDC $0.04912312 4.41% USTB $10.92 0.01% USDTB
+$0.999894 -0.04% OUSG $113.64 0.02% USDD $0.999785 -0.01% WM $1.00 0.02% SEI $0.119444 -4.09% JAAA
+$1.017 0.06% RENDER $1.42 -6.28% KHYPE $27.47 -7.40% BONK $0.00000871 -4.46% WBTC $86,921.00 -2.91%
+METH $3,195.11 -6.41% CAKE $2.04 -5.26% USDY $1.11 0.33% BDX $0.091399 1.58% CLBTC $87,114.00 -3.44%
+USDC.E $0.999899 0.02% USDAI $1.001 0.07% EZETH $3,151.71 -6.24% WFLR $0.01149737 -4.74% MYX $3.38
+-1.15% PENGU $0.01021519 -4.68% DAI $0.999883 -0.00% JUPSOL $148.65 -2.69% JUP $0.196007 0.77% WETH
+$2,950.00 -6.37% MORPHO $1.095 -2.38% FET $0.224217 -6.07% IP $1.71 -6.53% OSETH $3,101.67 -6.02% OP
+$0.29484 -5.31% ULTIMA $5,462.32 -10.12% USD0 $0.997622 -0.05% WETH $2,950.70 -6.38% DASH $42.35
+-0.83% TBTC $86,653.00 -3.22% CRV $0.367943 -3.71% WETH $35,382,014.00 0.00% FDUSD $0.998799 -0.00%
+INJ $4.99 -5.52% LDO $0.555897 -7.28% XTZ $0.463936 -4.00% PIPPIN $0.494419 27.53% EUTBL $1.23 0.12%
+TUSD $0.995826 -0.05% CGETH.HASHKEY $2,460.42 0.00% AERO $0.537932 -5.67% STX $0.264722 -5.62% SPX
+$0.516332 -7.33% ETHFI $0.789583 -3.39% VIRTUAL $0.724498 -7.21% STRK $0.095233 -8.72% GTETH
+$2,951.64 -6.33% GHO $0.999897 0.02% AB $0.00500891 -6.63% MSOL $173.01 -2.70% ETHX $3,177.23 -6.31%
+TIA $0.512457 -6.74% WAPE $0.213852 -4.27% LIQUIDETH $3,141.95 -5.72% MERL $0.398357 -16.29% FLOKI
+$0.00004289 -5.05% GRT $0.03889741 -3.63% KAIA $0.070005 -6.27% USDB $1.008 1.53% TWT $0.973622
+-3.46% STEAKUSDC $1.11 0.03% JST $0.03981629 1.92% SWETH $3,234.16 -6.50% TEL $0.00411632 -9.19%
+ENZOBTC $90,454.00 0.00% BTT $0.00000039 -2.12% SUN $0.02020043 -1.20% IOTA $0.092291 -1.39% SBTC
+$86,900.00 -2.64% CBETH $3,283.61 -6.49% 2Z $0.108934 -4.14% ENS $9.88 -6.78% WIF $0.37468 -5.22%
+CFX $0.071419 -4.20% BSV $18.33 -5.07% OHM $22.04 -0.13% BTC.B $87,164.00 -2.65% NFT $0.00000035
+-3.73% PYTH $0.059774 -4.90% BAT $0.227203 -6.77% EURC $1.18 0.13% DOGE $0.131535 -3.86% FARTCOIN
+$0.331629 -5.41% PENDLE $2.01 -5.88% THETA $0.32771 -3.54% KAU $137.45 -1.48% USX $0.99931 0.02% HNT
+$1.73 -4.63% CRVUSD $0.999591 0.10% SAND $0.121539 -4.82% DCR $18.44 -4.02% S $0.083376 -7.02% EETH
+$2,950.65 -6.39% CUSD $1.00 0.03% GALA $0.00667387 -3.72% BUSD $0.999513 0.24% GNO $117.07 -6.44%
+CHZ $0.03029258 -6.79% FLOW $0.188842 -2.05% SAVAX $15.23 -6.50% USR $0.999428 -0.08% JASMY
+$0.00615493 -1.79% WEETH $3,195.37 -6.41% SYRUP $0.264308 -0.89% BEAT $2.12 -22.41% VSN $0.085982
+-5.65% WSTUSR $1.12 0.00% BORG $0.298372 0.27% ZRO $1.44 -2.10% FRXETH $2,902.95 -6.76% UBTC
+$87,248.00 -2.64% CMETH $3,199.99 -6.45% FRAX $0.992447 -0.06% ASBNB $917.59 -2.52% WSTX $0.275071
+-3.51% WETH $2,949.25 -6.48% WHYPE $27.27 -7.45% XPL $0.134253 -6.31% NEO $3.77 -4.50% STABLE
+$0.01481474 -0.42% A $0.164287 -2.34% FDIT $1.00 0.00% JTRSY $1.089 0.03% COMP $27.11 -5.16% GTBTC
+$87,318.00 -2.77% MANA $0.134723 -4.08% RAY $0.955796 -6.58% MWC $23.23 -10.16% APEPE $0.00000121
+4.13% ZK $0.02964561 -4.52% BBTC $86,525.00 -3.60% WETH $2,956.99 -6.21% FF $0.102926 -2.70% ZBCN
+$0.00248254 -2.99% AR $3.63 -2.93% KAG $63.09 -1.60% WAETHUSDC $1.16 0.04% WSTETH $3,604.09 -6.44%
+USDC.N $0.998681 0.05% Price data by
 https://decrypt.co/352459/quantum-computing-bitcoin-crypto-prices-2026-grayscale
 
 ================================================================================

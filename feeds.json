@@ -3,17 +3,20 @@
     "https://techcrunch.com/feed/",
     "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
     "https://www.artificialintelligence-news.com/feed/",
-     "https://www.abs-cbn.com/feeds"
+    "https://www.rappler.com/rss",
+    "https://mb.com.ph/feed/"
   ],
   "cybersecurity": [
     "https://feeds.feedburner.com/TheHackersNews",
     "https://bleepingcomputer.com/feed/",
-     "https://www.abs-cbn.com/feeds"
+    "https://www.rappler.com/rss",
+    "https://mb.com.ph/feed/"
   ],
   "blockchain": [
     "https://cointelegraph.com/rss",
     "https://www.coindesk.com/arc/outboundfeeds/rss/",
     "https://decrypt.co/feed",
-    "https://www.abs-cbn.com/feeds"
+    "https://www.rappler.com/rss",
+    "https://mb.com.ph/feed/"
   ]
 }
