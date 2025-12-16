@@ -1,6 +1,6 @@
 import json
 from scraper import fetch_rss_items, enrich_articles
-
+import textwrap
 
 def main():
     """Main orchestration function."""
@@ -17,6 +17,14 @@ def main():
     print("Enriching articles with full text...")
     enriched = enrich_articles(raw_items, url_cache)
 
+    print("Grouping articles by topic")
+    articles_by_topic: dict[str, list[dict]] = {}
+    for article in enriched:
+        topic = article["topic"]
+        if topic not in articles_by_topic:
+            articles_by_topic[topic] = []
+        articles_by_topic[topic].append(article)
+
     # Open one file per topic
     topic_files = {
         "ai": open("ai_articles.txt", "w", encoding="utf-8"),
@@ -26,19 +34,22 @@ def main():
 
     try:
         print("Saving articles to topic files...")
-        for article in enriched:
-            topic = article["topic"]
-            # Skip topics you don't handle
-            if topic not in topic_files:
-                continue
+        
+        for topic, f in topic_files.items():
+            f.write(f"=== {topic.upper()} ===\n\n")
 
-            f = topic_files[topic]
-            f.write(f"=== {article['topic'].upper()} ===\n")
-            f.write(f"Title: {article['title']}\n")
-            f.write(f"Link: {article['link']}\n")
-            f.write(f"Published: {article['published']}\n\n")
-            f.write(article["body"])
-            f.write("\n\n" + "=" * 80 + "\n\n")
+            for article in articles_by_topic.get(topic, []):   
+                f.write(f"\"{article.upper(['title'])}\"\n")
+                f.write(f"{article['published']}\n\n")
+                
+                wrapped_lines = textwrap.wrap(article['body'], width=100)
+                f.write("\n")
+                for line in wrapped_lines:
+                    f.write(line + "\n")
+                
+                f.write(f"{article['link']}\n")
+                f.write("\n" + "=" *80 + "\n\n")
+
 
         print("✅ Articles saved to ai_articles.txt, cybersecurity_articles.txt, blockchain_articles.txt")
     finally:
