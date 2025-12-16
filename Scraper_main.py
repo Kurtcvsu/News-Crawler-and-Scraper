@@ -39,7 +39,7 @@ def main():
             f.write(f"=== {topic.upper()} ===\n\n")
 
             for article in articles_by_topic.get(topic, []):   
-                f.write(f"\"{article.upper(['title'])}\"\n")
+                f.write(f"\"{article['title']}\"\n")
                 f.write(f"{article['published']}\n\n")
                 
                 wrapped_lines = textwrap.wrap(article['body'], width=100)

@@ -1,81 +1,561 @@
 === BLOCKCHAIN ===
-Title: Senior Vanguard analyst says Bitcoin is no better than a plush toy
-Link: https://cointelegraph.com/news/senior-vanguard-analyst-bitcoin-no-better-toy?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-Published: Fri, 12 Dec 2025 21:58:46 +0000
 
-Vince Quill 10 hours ago Senior Vanguard analyst says Bitcoin is no better than a plush toy The comments followed the asset management company’s policy change allowing its clients to trade crypto exchange-traded funds. Listen 0:00 News COINTELEGRAPH IN YOUR SOCIAL FEED Bitcoin is a purely speculative asset and is akin to a collectible toy, according to John Ameriks, the global head of quantitative equity at asset management company Vanguard. “It’s difficult for me to think about Bitcoin as anything more than a digital Labubu,” Ameriks said at Bloomberg’s ETFs in Depth conference in New York City. Labulus are collectible plush toys featuring animals with anthropomorphic features. Despite Ameriks’ criticism, he said that Bitcoin ( BTC ) may have value beyond financial speculation in the future under certain circumstances. The cryptocurrency could find real-world use cases beyond market speculation in scenarios of high fiat currency inflation or political instability, Ameriks said. These forces drive the adoption of alternative currencies . Bitcoin’s price action from 2012 to 2025. Source: CoinMarketCap The comments followed Vanguard’s announcement in December, allowing its clients to trade cryptocurrency funds for the first time, and highlight the doubts of analysts and executives in traditional finance about Bitcoin, even as its price hovers above $90,000, with 16 years of network uptime. Related: Bitcoin first, crypto at scale: Inside the UAE’s layered digital asset strategy Vanguard finally makes the crypto leap Vanguard was the last of the three major asset management companies, which include BlackRock and State Street, to allow clients to hold crypto investment vehicles. “We allow people to hold and buy these ETFs on our platform if they wish to do so, but they do so with discretion,” Ameriks said , adding that Vanguard won’t offer investors “advice as to whether to buy or sell or which crypto tokens they ought to hold.” ETFs remain a significant source of capital inflows into the digital asset markets. Source: Farside Investors The policy change gives Vanguard’s over 50 million clients exposure to crypto markets and creates yet another bridge between traditional finance and digital assets, funneling money into crypto networks. The fresh capital injections from Vanguard’s clients could boost prices for cryptocurrencies tied to exchange-traded funds. Magazine: Quantum attacking Bitcoin would be a waste of time: Kevin O’Leary # Bitcoin # Bitcoin Price # Adoption # Market Release # Bitcoin Adoption # Bitcoin ETF # ETF Add reaction
+"Bitcoin sharks stack at fastest pace in 13 years, with BTC down 30%"
+Tue, 16 Dec 2025 08:13:48 +0000
 
-================================================================================
 
-=== BLOCKCHAIN ===
-Title: Here’s what happened in crypto today
-Link: https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-Published: Fri, 12 Dec 2025 21:40:12 +0000
-
-Cointelegraph 10 hours ago Here’s what happened in crypto today Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, NFTs, Web3 and crypto regulation. Listen 0:00 News COINTELEGRAPH IN YOUR SOCIAL FEED Today in crypto: NYDIG says tokenization won’t hugely benefit crypto until assets are freed up, the OCC approved several crypto-related bank charter applications and Phantom Wallet partnered with Kalshi to bring prediction markets into its app. Tokenization benefits ‘light at first,’ but could improve: NYDIG The tokenization of stocks will be “light at first” and not immediately of great benefit to the crypto market , but that could change if the assets “interoperability and composability increase,” NYDIG global head of research Greg Cipolaro said on Friday. He said the initial benefits of tokenized assets will be the transaction fees charged for using them and the hosting blockchain would see “increasing network effects,” but more favorable regulations should result in an expanded reach and access “should become more democratized.” Cipolaro said that making interoperable tokenized assets isn’t straightforward, as they “differ greatly” and are hosted on public and non-public blockchains. Most also still need traditional financial structures to remain legal. Tokenizing assets such as US stocks has become popular this year with major exchanges wanting to launch tokenized stock platforms. Securities and Exchange Commission chair Paul Atkins has also said that the US financial system could embrace tokenization in a “couple of years.” Paxos, Ripple, Circle and others secure US trust bank approvals The US Office of the Comptroller of the Currency has conditionally approved five national bank charter applications for companies tied to the digital assets industry. In a Friday notice, the OCC said it had conditionally approved BitGo, Fidelity Digital Assets and Paxos to convert their existing state-level trust companies into federally chartered national trust banks. In the same announcement, the regulator said it had conditionally approved new applications from Circle and Ripple for national trust bank charters. “New entrants into the federal banking sector are good for consumers, the banking industry and the economy,” said Jonathan Gould, the Comptroller of the Currency, adding: “The OCC will continue to provide a path for both traditional and innovative approaches to financial services to ensure the federal banking system keeps pace with the evolution of finance and supports a modern economy.” The five crypto companies are just a few of the many in the industry seeking regulatory approval from the OCC to expand their presence in the banking sector. Cryptocurrency exchange Coinbase said in October it had filed an application but had “no intention of becoming a bank.” Although the wording of each applicant’s letter was slightly different, the companies said they would utilize the charters to provide digital asset custody services to clients. Though Paxos’ application permitted the bank to issue stablecoins, Ripple’s explicitly said its charter would “not be a stablecoin issuer” for its US dollar-pegged coin, RLUSD ( RLUSD ). “Paxos’ federally regulated platform will allow businesses to issue, custody, trade and settle digital assets with clarity and confidence,” said Paxos in a Friday statement. Friday letter approving Circle’s national trust bank charter application. Source: OCC Phantom taps Kalshi to offer regulated prediction markets in wallet Crypto wallet application Phantom has partnered with regulated prediction market Kalshi to bring event-based trading directly into its wallet interface, signaling a deeper convergence between onchain finance and real-world outcome betting. The companies said on Friday that the integration would allow Phantom users to discover trending events, track live odds and place bets without leaving their wallets. A new feature called Phantom Prediction Markets will allow users to trade tokenized positions that reference Kalshi’s event markets across politics, economics, sports and culture. “By integrating a layer of tokenized positions referencing Kalshi’s regulated event markets with Phantom, users can trade what they care about in real time,” said Phantom CEO Brandon Millman. Source: Phantom # Business # Banking # Regulation # Tokenization # Prediction Markets Add reaction
-
-================================================================================
-
-=== BLOCKCHAIN ===
-Title: Short-term Bitcoin traders were profitable for 66% of 2025: Will profits rise in 2026?
-Link: https://cointelegraph.com/news/bitcoin-holders-were-in-profit-for-66percent-of-2025-what-will-next-year-bring?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-Published: Fri, 12 Dec 2025 20:38:38 +0000
-
-Biraajmaan Tamuly 11 hours ago Short-term Bitcoin traders were profitable for 66% of 2025: Will profits rise in 2026? Short-term Bitcoin traders were profitable for 229 days this year despite the recent 30% correction in BTC price. Will this trend carry over into 2026? Listen 0:00 Market Analysis COINTELEGRAPH IN YOUR SOCIAL FEED Bitcoin’s ( BTC ) short-term holders (STHs) have spent 229 out of 345 days in profit, an outcome that appears contradictory given that BTC is at a negative year-to-date (YTD) return and struggles to trade above $100,000. However, beneath the weak headline performance, the structure of onchain positioning tells a different story. Key takeaways: Bitcoin short-term holders logged profits for 66% of 2025, even while BTC traded below its yearly open. The STH realized price at $81,000 acted as a sentiment pivot, which divided phases of panic and recovery. Unrealized losses narrowed to -12% from -28%, signaling fading capitulation. Bitcoin trades near its realized price The volatility of 2025 can be explained through the lens of the one– to three-month STH cohort. As illustrated in the chart, Bitcoin’s price repeatedly interacted with its realized price, producing alternating waves of green net-unrealized profit/loss (NUPL) profitability and red NUPL losses. Bitcoin STH realized price and NUPL range. Source: CryptoQuant Early in 2025, BTC stayed above this cost basis for nearly two months, giving STHs their first pocket of sustained profits. But the shift into February and March saw prices fall below the cohort’s realized price, dragging STH NUPL into deep red and marking one of the year’s longest loss stretches. However, momentum reversed sharply from late April through mid-October, where the chart’s broad green zones align with Bitcoin’s 172-day period of predominantly profitable STH activity. Even though the broader trend was softening, these recoveries pushed STH profitability far higher than the market narrative implied. Only in late October did the market slip back beneath the realized price again, triggering the ongoing 45-day period of STH losses that coincides with the swelling red NUPL region. Bitcoin STH realized price against BTC. Source: CryptoQuant In effect, STH profitability in 2025 was driven less by Bitcoin’s directional trend and more by the frequency with which BTC reclaimed its cost basis. Those repeat rebounds, even within a negative YTD environment, allowed short-term holders to finish with a two-thirds profit ratio. Related: Bitcoin decouples from stocks in second half of 2025 The BTC cost basis shift may define the next phase again Bitcoin’s rebound toward $92,500 compressed STH unrealized losses to -12% from -28%, a sign that forced selling is easing and emotional exhaustion is setting in. The STH realized rice at $81,000 remains the psychological fulcrum, as each reclaim historically marks the transition from capitulation into stability. BTC age-band unrealized P&L distribution. Source: CryptoQuant New money and investors entering within days to weeks hover near breakeven, reinforcing this stabilizing structure. If BTC continued to improve STH profitability while holding above this $81,000 foundation, the late-year correction could already be nearing completion, setting the stage for the next expansion phase. Related: Bitcoin new year bear flag sparks $76K BTC price target next This article does not contain investment advice or recommendations. Every investment and trading move involves risk, and readers should conduct their own research when making a decision. While we strive to provide accurate and timely information, Cointelegraph does not guarantee the accuracy, completeness, or reliability of any information in this article. This article may contain forward-looking statements that are subject to risks and uncertainties. Cointelegraph will not be liable for any loss or damage arising from your reliance on this information. This article does not contain investment advice or recommendations. Every investment and trading move involves risk, and readers should conduct their own research when making a decision. While we strive to provide accurate and timely information, Cointelegraph does not guarantee the accuracy, completeness, or reliability of any information in this article. This article may contain forward-looking statements that are subject to risks and uncertainties. Cointelegraph will not be liable for any loss or damage arising from your reliance on this information. # Bitcoin # Cryptocurrencies # Bitcoin Price # Bitcoin Analysis # Markets # Cryptocurrency Exchange # Price Analysis # Market Analysis Add reaction
-
-================================================================================
-
-=== BLOCKCHAIN ===
-Title: Price predictions 12/12: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, HYPE, LINK
-Link: https://cointelegraph.com/news/price-predictions-12-12-btc-eth-bnb-xrp-sol-doge-ada-bch-hype-link?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-Published: Fri, 12 Dec 2025 19:26:16 +0000
-
-Rakesh Upadhyay 12 hours ago Price predictions 12/12: BTC, ETH, BNB, XRP, SOL, DOGE, ADA, BCH, HYPE, LINK Bitcoin and several major altcoins have turned down from their respective overhead resistance levels, indicating that the bears are still very active at the range highs. Listen 0:00 Price Analysis COINTELEGRAPH IN YOUR SOCIAL FEED Key points: The failure of the bulls to maintain Bitcoin above $94,050 has renewed selling, opening the doors for a fall to $87,700 and then to $84,000. Most major altcoins remain under pressure and are threatening to challenge their recent lows. Bitcoin ( BTC ) is stuck inside a narrow range between $94,588 and $89,260, indicating indecision between the bulls and the bears. The prediction markets do not expect the bulls to take charge in the near term, giving only a 30% chance of BTC hitting $100,000 before Jan. 1. According to crypto analyst Darkfost, BTC is struggling to recover due to a lack of incoming liquidity, specifically from stablecoins. The crypto markets will have to attract new liquidity for BTC to start a “genuine bullish trend.” Crypto market data daily view. Source: TradingView Some analysts expect BTC to fall below the recent low of $80,600. Trader Roman said in a post on X that BTC is likely to drop to $76,000 , and that falling interest rates will not be able to prevent it. What are the crucial support and resistance levels to watch out for in BTC and major altcoins? Let’s analyze the charts of the top 10 cryptocurrencies to find out. Bitcoin price prediction BTC’s recovery is facing resistance at the 50% Fibonacci retracement level of $94,050, indicating that the bears are active at higher levels. BTC/USDT daily chart. Source: Cointelegraph/ TradingView There is support at $87,700 and then at $84,000. A break below the $84,000 level opens the gates for a retest of the Nov. 21 low of $80,600. Buyers will need to push the Bitcoin price above the $94,050 resistance level to signal strength. The BTC/USDT pair may then climb to the 50-day simple moving average (SMA)($97,411). The up move is expected to face significant selling in the zone between the 50-day SMA and the psychological level of $100,000. A close above $100,000 indicates that the bulls are back in the game. Ether price prediction Ether ( ETH ) turned down from the $3,350 level on Thursday, and the bears are attempting to sustain the price below the 20-day exponential moving average (EMA) ($3,125). ETH/USDT daily chart. Source: Cointelegraph/TradingView If they succeed, it indicates that the bears remain sellers on rallies. The Ether price may drop to $2,907 and later to $2,716. The ETH/USDT pair could resume its downtrend on a close below $2,623. Conversely, if the price turns up from the current level and breaks above the $3,350 resistance, it signals the start of a new upward move. The pair may rise to $3,918 and then to $4,250. BNB price prediction BNB ( BNB ) has been trading near the 20-day EMA ($892) for the past few days, indicating equilibrium between buyers and sellers. BNB/USDT daily chart. Source: Cointelegraph/TradingView The flattish 20-day EMA and the RSI just below the midFpoint suggest a range-bound action between $791 and $1,020 for the next few days. Sellers will have to sink the BNB price below the $791 level to start the next leg of the downtrend. The BNB/USDT pair may then collapse to $730. On the upside, a close above $1,020 indicates that the correction may be over. The pair could then rally to $1,182, which may act as a resistance. XRP price prediction XRP ( XRP ) remains stuck inside the descending channel pattern, indicating that the bears are in control. XRP/USDT daily chart. Source: Cointelegraph/TradingView The bulls will have to propel the XRP price above the 50-day SMA ($2.25) to indicate strength. The XRP/USDT pair may then rally to the downtrend line, which is a vital level to watch out for. A close above the downtrend line signals that the bulls are back in the driver’s seat. The bears will have to sink the price below the $1.98 level to clear the path for a drop to the support line and then to the critical level at $1.61. Solana price prediction The long tail on Solana’s ( SOL ) Thursday candlestick shows that the bulls are aggressively defending the $126 level. SOL/USDT daily chart. Source: Cointelegraph/TradingView The bulls will have to propel the Solana price above the 50-day SMA ($152) to signal a potential trend change in the near term. The SOL/USDT pair could then ascend to $172 and subsequently to $190. On the other hand, a break and close below the $126 level signals the resumption of the downward move. The pair may plummet to $100 and, after that, to the strong support at $95. Dogecoin price prediction Dogecoin ( DOGE ) turned down from the 20-day EMA ($0.14) on Wednesday, indicating that the bears are selling on every minor rally. DOGE/USDT daily chart. Source: Cointelegraph/TradingView If the price continues lower and closes below the $0.13 support, it signals the start of a new downward move. The DOGE/USDT pair could then plunge to the Oct. 10 low of $0.10, which is likely to attract buyers. The first sign of strength will be a break and close above the 20-day EMA. That shows the bulls are fiercely defending the $0.14 level. The Dogecoin price may climb to the 50-day SMA ($0.16) and later to $0.19. Cardano price prediction Cardano ( ADA ) turned down from the breakdown level of $0.50 on Wednesday, indicating that the bears are trying to flip the level into resistance. ADA/USDT daily chart. Source: Cointelegraph/TradingView The flattish 20-day EMA ($0.44) and the relative strength index (RSI) in the negative territory indicate a slight edge to the bears. There is support at $0.40 and then at $0.37. If sellers pull the Cardano price below $0.37, the ADA/USDT pair could tumble to $0.31 and potentially to the Oct. 10 intraday low of $0.27. Buyers will have to push and maintain the price above the $0.50 level to signal a comeback. The pair could then rally to $0.60 and later to $0.70. Related: Ether price rallied 260% last time this happened: Can ETH reach $5K? Bitcoin Cash price prediction Bitcoin Cash ( BCH ) turned up from the 20-day EMA ($560) on Thursday, indicating a positive sentiment. BCH/USDT daily chart. Source: Cointelegraph/TradingView The bulls will strive to drive the Bitcoin Cash price above the $607 level and challenge the overhead resistance at $651. Sellers are expected to defend the $651 level with all their might, as a break above it opens the doors for a rally to $720. The bears will have to sink the price below the moving averages to gain the upper hand. If they manage to do that, it suggests that the BCH/USDT pair could range between $607 and $443 for some time. Hyperliquid price prediction Sellers attempted to pull Hyperliquid (HYPE) lower on Thursday, but the long tail on the candlestick shows buying by the bulls. HYPE/USDT daily chart. Source: Cointelegraph/TradingView The HYPE/USDT pair could reach the 20-day EMA ($31.91), which is a critical level to watch out for. If the price turns down sharply from the 20-day EMA, the bears will again attempt to resume the downtrend. On the contrary, a break above the 20-day EMA signals that the selling pressure is reducing. The Hyperliquid price could then rise to the 50-day SMA ($37.23). A close above the 50-day SMA suggests the corrective phase may be over. Chainlink price prediction Chainlink ( LINK ) has been trading between the moving averages for the past few days, indicating a balance between supply and demand. LINK/USDT daily chart. Source: Cointelegraph/TradingView The tight range trading is likely to be followed by a range expansion. If the price breaks and closes above the 50-day SMA ($14.71), it signals that the bulls have overpowered the bears. The LINK/USDT pair could then climb to $19.06. Alternatively, a sharp dip below the 20-day EMA ($13.84) indicates that the bears remain in control. The Chainlink price could then plummet to the solid support at $10.94, where the buyers are expected to step in. This article does not contain investment advice or recommendations. Every investment and trading move involves risk, and readers should conduct their own research when making a decision. While we strive to provide accurate and timely information, Cointelegraph does not guarantee the accuracy, completeness, or reliability of any information in this article. This article may contain forward-looking statements that are subject to risks and uncertainties. Cointelegraph will not be liable for any loss or damage arising from your reliance on this information. This article does not contain investment advice or recommendations. Every investment and trading move involves risk, and readers should conduct their own research when making a decision. While we strive to provide accurate and timely information, Cointelegraph does not guarantee the accuracy, completeness, or reliability of any information in this
-
-================================================================================
-
-=== BLOCKCHAIN ===
-Title: Bitcoin swings above $94K as crypto faces ‘Netscape’ moment: Finance Redefined
-Link: https://cointelegraph.com/news/bitcoin-swings-94k-crypto-netscape-moment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-Published: Fri, 12 Dec 2025 19:00:00 +0000
-
-Zoltan Vardai 13 hours ago Bitcoin swings above $94K as crypto faces ‘Netscape’ moment: Finance Redefined Bitcoin briefly topped $94,000 following Strategy’s largest investment since July, but investor risk appetite remained muted even after the widely expected US interest rate cut. Listen 0:00 Newsletter COINTELEGRAPH IN YOUR SOCIAL FEED Cryptocurrency markets saw another week of downside, as investors eagerly anticipated the year’s last Federal Open Market Committee (FOMC) meeting. Bitcoin ( BTC ) rose to a weekly high of $94,330 on Tuesday as investor morale was bolstered by Strategy’s $962 million Bitcoin acquisition, the company’s largest investment since July 2025. On Wednesday, the US Federal Reserve delivered a widely anticipated 25-basis-point interest rate cut. Crypto markets saw a temporary bounce, as lower rates and cheaper borrowing costs typically increase risk appetite and capital entering risk assets such as crypto. However, the market’s upside was temporary, as the Fed’s latest interest rate cut was “widely expected and pretty much priced in,” CoinEx exchange’s chief analyst, Jeff Ko, told Cointelegraph. Despite the lack of investor appetite, fundamental developments such as the increasing number of crypto exchange-traded funds (ETFs) and the improving usability of onchain products are ushering in a potential “Netscape” moment for the crypto industry, analysts told Cointelegraph. Historic sentiment and price patterns follow Fed rate cuts. Source: Santiment Crypto nears its “Netscape” moment as industry approaches inflection point The cryptocurrency industry is approaching its “Netscape” moment, as steady progress in blockchain infrastructure and the rise of regulated investment products drive a new wave of institutional adoption, according to Paradigm co-founder Matt Huang. The crypto sector is “facing its ‘Netscape’ or ‘iPhone’ moment,” Huang wrote Sunday in a post on X. “It’s working bigger than ever before, far beyond our wildest dreams. Both the institutional parts and the cypherpunk parts.” Netscape launched the first easy-to-use web browser for mainstream users in 1994 before going public with a successful initial public offering (IPO) in August 1995, marking the first building block that triggered the internet’s mass adoption. However, Microsoft saw the large-scale interest and capitalized on it on it by freely bundling Internet Explorer as a pre-installed component of the Windows operating system, outcompeting Netscape to become the most widely used internet browser. Source: Matt Huang Continue reading Bubblemaps challenges PEPE’s fair launch, alleges 30% of genesis supply bundled Blockchain data is casting doubt on the “for the people” launch narrative of memecoin Pepe, with new analysis suggesting that almost a third of the initial supply was held by a single entity and contributed to heavy early selling pressure. About 30% of the Pepe ( PEPE ) token supply was bundled at launch in April 2023, blockchain data visualization platform Bubblemaps claimed on Wednesday in a post on X, adding that investors were “lied to.” The same wallet cluster sold $2 million worth of PEPE tokens the day after launch, adding significant sell pressure that stopped the token from surpassing the $12 billion milestone, according to Bubblemaps. That concentration of the genesis supply contrasts with Pepe’s original branding as a “coin for the people.” The project’s website said the token launched “in stealth” with no presale allocations. Source: Bubblemaps Continue reading “Elite” traders hunt dopamine-seeking retail on prediction markets: 10x Research Prediction markets are emerging as a new battleground in the crypto economy, where the best-informed traders are competing against casual retail bettors for profits. Most users are behaving more like sports bettors than disciplined traders, according to a Tuesday report from research firm 10x Research, which said they are trading “dopamine and narrative for discipline and edge.” It added: “Accuracy and profit are driven not by the crowd, but by a tiny, informed elite who price probability, hedge exposure, and extract premium from retail-driven longshots.” The rising liquidity and retail participation are incentivizing professional trading desks to increase their prediction market activity and capture the spread and “misinformation asymmetry” arising from this market structure, 10x said. Polymarket active users, weekly, Bitcoin left-hand-side price, year-to-date chart. Source: 10x Research The report is a concerning sign for casual traders looking to make easy money on prediction markets, as blockchain data suggests that most users lose their initial investment. Polymarket, positive/negative wallet balances. Source: Dune.com Only about 16.7% of wallets on Polymarket are in profit, while the remaining 83% have incurred losses, according to blockchain data from Dune. Continue reading Coinbase opens Solana DEX access as CeFi and DeFi converge Coinbase is moving deeper into the Solana ecosystem, letting users trade native Solana tokens through a decentralized exchange integration rather than traditional listings. Andrew Allen, Coinbase protocol specialist, said in an X post that Coinbase now allows its users to trade all Solana ( SOL ) tokens through a decentralized exchange (DEX) integration, “without listings,” he noted, adding that “very soon you will be able to open the Coinbase app and see native Solana assets on Coinbase.” “For issuers and builders, if your token has sufficient liquidity, this means you can be accessible to the millions of users on Coinbase without getting listed,” Allen said. The announcement follows Coinbase’s integrati on of tokens from its Base blockchain through a similar DEX integration in early August. The announcement noted that the exchange planned to “expand DEX support to include additional networks, starting with Solana.” Source: Andrew Allen/Solana Continue reading Mantra CEO tells OM holders to withdraw from OKX over “inaccurate” migration plan Tensions between blockchain platform Mantra and crypto exchange OKX are rising after Mantra accused the exchange of posting incorrect information about its token migration. In a Monday X post , Mantra CEO John Patrick Mullin urged users of centralized cryptocurrency exchange (CEX) OKX to withdraw their Mantra ( OM ) tokens and cut their “dependency” on the platform. “Users should consider withdrawing their OM tokens from OKX[...]. Avoid OKX Exchange Dependency: Complete migration without relying on potentially negligent or malicious intermediaries,” said Mullin. His warning came in response to a Friday announcement from OKX about supporting the incoming OM token migration. Source: JP Mullin According to Mullin, the OKX post contained multiple inaccuracies, including false migration and implementation dates. OKX said the migration would occur between Dec. 22 and Dec. 25. Mantra’s governance proposal, by contrast, states that the migration will only take place after the Jan. 15 deprecation of the Ethereum-based ERC-20 OM token. Mullin also said OKX’s post referenced “arbitrary dates throughout December 2025,” while Mantra has not yet announced an official implementation date. He claimed OKX had not communicated with Mantra since “the events” of April 13, while Mantra has “helpfully [been] communicating with all other major exchanges regarding our migration.” OKX’s OM Crypto Migration post. Source: okx.com During the forthcoming migration, the OM token will migrate from an Ethereum-native ERC-20 token to a Mantra Chain-native token. Cointelegraph has contacted OKX for comment, but had not received a response by publication time. OKX has since reached out to Mantra and corrected the inaccuracies in the announcement, the exchange wrote in a Wednesday X post Continue reading DeFi market overview According to data from Cointelegraph Markets Pro and TradingView, most of the 100 largest cryptocurrencies by market capitalization ended the week in the red. The Kaspa ( KAS ) token fell over 13%, marking the biggest decline in the top 100, followed by the Story ( IP ) token, also down 13% during the past week. Total value locked in DeFi. Source: DefiLlama Thanks for reading our summary of this week’s most impactful DeFi developments. Join us next Friday for more stories, insights and education regarding this dynamically advancing space. # Bitcoin # Blockchain # Cryptocurrencies # Altcoins # Business # Decentralization # Ethereum # Bitcoin Price # Technology # Investments # Internet # Adoption # Cryptocurrency Exchange # Tokens # DeFi # Trading # Cryptocurrency Investment # Memecoin # Pepe # Web3 Decentralization Initiatives # Mantra Add reaction
-
-================================================================================
-
-=== BLOCKCHAIN ===
-Title: Figure Technology files ‘second IPO’ to bring native equity issuance to Solana
-Link: https://cointelegraph.com/news/figure-technology-solana-onchain-equity-second-ipo?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
-Published: Fri, 12 Dec 2025 16:57:28 +0000
-
-Sam Bourgi 15 hours ago Figure Technology files ‘second IPO’ to bring native equity issuance to Solana Figure is planning a second IPO to issue blockchain-native equity on Solana, enabling onchain trading and DeFi use cases beyond traditional stock markets. Listen 0:00 News COINTELEGRAPH IN YOUR SOCIAL FEED Figure Technology, a blockchain-based financial services company focused on tokenized assets and lending, has filed for a second public offering aimed at issuing native equity directly on a public blockchain. The move, which follows the company’s recent Nasdaq listing, is designed to expand decentralized finance (DeFi) use cases on Solana. Speaking at the Solana Breakpoint conference, Figure executive chairman Mike Cagney said the company has submitted a filing with the US Securities and Exchange Commission (SEC) to launch what he described as “a new version of Figure equity on a public blockchain,” specifically Solana. Cagney said the blockchain-native equity would not trade on traditional exchanges such as Nasdaq or the New York Stock Exchange, nor would it rely on introducing brokers like Robinhood or prime brokers such as Goldman Sachs. Source: Solana Instead, the security would be issued and traded natively onchain via Figure’s alternative trading system , which he characterized as “effectively a decentralized exchange.” By issuing equity directly on Solana, investors would be able to take the tokenized security into DeFi protocols , where it could be borrowed against or lent out, Cagney said. He added that the company’s broader goal extends beyond tokenizing its own shares, with plans to support native equity issuance for other companies directly within the Solana ecosystem: “One of the focus points that we have is not only bringing that equity over to the Solana ecosystem but allowing for native Solana equity issuance as well.” Related: Figure Technology boosts IPO size, total deal could reach $800M Tokenization on Solana is gaining momentum Already one of the largest public blockchains by activity, Solana is increasingly emerging as a hub for tokenized assets, with its share of the real-world asset (RWA) market expanding steadily over the past year. While Ethereum continues to dominate tokenization today, Solana is likely to become the financial industry’s preferred network for stablecoins and tokenized assets over time, according to Matt Hougan , chief investment officer at Bitwise. As Wall Street evaluates the long-term viability of tokenized assets, attention is expected to shift toward blockchains that offer high speed, throughput and fast transaction finality, areas where Solana holds a competitive advantage over many rival networks, Hougan said. Research from RedStone identified Solana as a “high-performance challenger” in the RWA space, particularly in tokenized US Treasury markets. Solana’s RWA metrics, excluding stablecoins. Source: RWA.xyz Related: Scaramucci predicts ‘exponential opportunity’ for crypto at LONGITUDE # Blockchain # Business # IPO # DeFi # Solana # RWA # RWA Tokenization Add reaction
-
-================================================================================
-
-=== BLOCKCHAIN ===
-Title: Bitcoin Plunges Below $90K as AI Worries Drag Nasdaq, Crypto Stocks Down
-Link: https://www.coindesk.com/markets/2025/12/12/bitcoin-plunges-below-usd90k-as-ai-worries-drag-nasdaq-crypto-stocks-down
-Published: Fri, 12 Dec 2025 16:04:27 +0000
-
-Markets Share Share this article Copy link X icon X (Twitter) LinkedIn Facebook Email Bitcoin Plunges Below $90K as AI Worries Drag Nasdaq, Crypto Stocks Down Chipmaker Broadcom's 10% slide weighs on the market as Chicago Fed's Goolsbee signals more cuts than the median for 2026. By Helene Braun , James Van Straten , Krisztian Sandor | Edited by Oliver Knight Updated Dec 12, 2025, 4:04 p.m. Published Dec 12, 2025, 4:04 p.m. Bitcoin (BTC) price (CoinDesk) What to know : Bitcoin drops below $90,000 as ongoing AI related jitters weighed on U.S. stock market indices. Broadcom shares fell 10% on Friday after earnings outlook disappointed investors' high expectations. Chicago Fed President Austan Goolsbee, who opposed a rate cut in December, said he is projecting more interest rate cuts in 2026 than the current median outlook. Artificial intelligence-focused stocks are coming under pressure on Friday, dragging tech-related equities and bitcoin BTC $ 90,378.26 lower during the early U.S. session. Chipmaker Broadcom (AVGO), the ninth largest asset by market cap, tumbled 10% despite strong earnings as its outlook disappointed investors' lofty expectations. STORY CONTINUES BELOW Don't miss another story. Subscribe to the Crypto Daybook Americas Newsletter today . See all newsletters Sign me up By signing up, you will receive emails about CoinDesk products and you agree to our terms of use and privacy policy . The Nasdaq index was down over 1% in the first hour of the session. Adding that to Oracle's 10% slump on Thursday and a further 3% decline on Friday, as investor concerns are mounting that the red-hot AI theme that fueled much of this year's stock market gains might be fizzling out. Bitcoin, trading around $92,500 overnight, plunged 2% following the U.S. stock market open to $89,800 recently, extending the choppy action through the week. A consistent theme this week has been bitcoin setting intraday lows during U.S. trading hours, a pattern that has led to the filing of the proposed AfterDark Hours ETF . Bitcoin miners, some of which have been increasingly leaning into AI for diversification, showed a similar reaction to Broadcom’s miss. Hut 8 (HUT) fell more than 5%. Iren (RIEN) and Riot (RIOT) dropped about 4%, while Cipher(CIFR) and Iren (IREN) both were down about 2% over the past day. Crypto-related stocks also fell alongside the Nasdaq. Robinhood (HOOD) and Strategy (MSTR) were both down nearly 2%. Stablecoin issuer Circle (CRCL) was hit hard and fell more than 5%. Coinbase (COIN) dropped slightly. Markets had already been under pressure after Federal Reserve chair Jerome Powell's speech on Wednesday, which hinted at a possible rate cut pause in January. As a result, markets now expect only two rate cuts in 2026 instead of three. Chicago Fed President Austan Goolsbee , who was against a December rate cut, however, said he expects more in 2026 than the current median projection. Several other members of the Federal Reserve will also speak over the course of today as the central bank's blackout period following its December meeting on Wednesday has ended. Traders will be looking for any guidance on whether Fed officials agree with Powell on potentially holding rates steady in January. Market Wrap Bitcoin News Nasdaq Bitcoin Mining More For You Protocol Research: GoPlus Security By CoinDesk Research Nov 14, 2025 Commissioned by GoPlus What to know : As of October 2025, GoPlus has generated $4.7M in total revenue across its product lines. The GoPlus App is the primary revenue driver, contributing $2.5M (approx. 53%), followed by the SafeToken Protocol at $1.7M. GoPlus Intelligence's Token Security API averaged 717 million monthly calls year-to-date in 2025 , with a peak of nearly 1 billion calls in February 2025. Total blockchain-level requests, including transaction simulations, averaged an additional 350 million per month. Since its January 2025 launch , the $GPS token has registered over $5B in total spot volume and $10B in derivatives volume in 2025. Monthly spot volume peaked in March 2025 at over $1.1B , while derivatives volume peaked the same month at over $4B. View Full Report More For You DOT Sinks 2% After Breaking Key Support By CD Analytics , Will Canny | Edited by Oliver Knight 14 hours ago The Polkadot token erased earlier gains amid elevated volume, falling from a high of $2.09 to $1.97. What to know : DOT collapsed through ascending trendline support around the $2.05 level on a massive 284% volume surge. The token broke decisively below the support level to trade 2% lower over the last 24 hours. Read full story Latest Crypto News Citadel Securities and DeFi Waging War of Words Through SEC Correspondence 9 hours ago Crypto Firm Tether Says It Wants to Take Over Italian Football Club Juventus 11 hours ago Interactive Brokers Now Accepts Stablecoins in a Bid to Remain Competitive 13 hours ago DOT Sinks 2% After Breaking Key Support 14 hours ago Hedera Tumbles 4% as Altcoins Continue to Suffer 14 hours ago Five Crypto Firms Win Initial Approvals as Trust Banks, Including Ripple, Circle, BitGo 15 hours ago Top Stories Crypto Firm Tether Says It Wants to Take Over Italian Football Club Juventus 11 hours ago Five Crypto Firms Win Initial Approvals as Trust Banks, Including Ripple, Circle, BitGo 15 hours ago U.S. SEC Gives Implicit Nod for Tokenized Stocks 19 hours ago Most Influential: Tom Lee 17 hours ago Ripple Payments Lands First European Bank Client in AMINA 20 hours ago YouTube Now Allows U.S. Content Creators to Get Paid in PayPal’s Stablecoin: Fortune 19 hours ago In this article BTC BTC $ 90,378.26 ◢ 2.25 %
+Yashu Gola 3 hours ago Bitcoin sharks stack at fastest pace in 13 years, with BTC down 30% Past
+record spikes in Bitcoin accumulation preceded major rallies, including a 900% surge in 2012 and a
+350% rise in 2011. Listen 0:00 Market Analysis COINTELEGRAPH IN YOUR SOCIAL FEED Bitcoin ( BTC ) is
+down 30% from its $126,200 peak, trading just above the $85,000 support and fueling concerns of a
+deeper pullback toward the $70,000 region . Still, onchain data showed institutions and high-net-
+worth individuals were accumulating BTC. Key takeaways : Bitcoin sharks accumulated aggressively at
+2012-level speeds, signaling a dip-buying trend. Heavy selling by long-term and OG whales continued
+to cap upside, keeping near-term downside risks elevated. BTC/USDT daily chart. Source: TradingView
+Mid-sized Bitcoin traders add 54,000 BTC in a week Bitcoin “sharks,” entities holding between 100
+and 1,000 BTC, increased their collective holdings to about 3.575 million BTC from 3.521 million BTC
+over the past seven days, absorbing 54,000 BTC from smaller holders, according to Glassnode . BTC
+shark net position change. Source: Glassnode The move marked the fastest pace of shark accumulation
+since 2012, suggesting strong bullish conviction among higher-net-worth individuals and
+institutional players despite BTC’s 30% drawdown. Related: Bitcoin to hit new all-time high within 6
+months: Grayscale In 2012, a comparable surge in Bitcoin accumulation preceded one of its earliest
+major rallies, with BTC climbing to above $100 from about $10 within a year, marking a 900%
+increase. BTC shark net position change. Source: Glassnode A similar pattern played out in 2011,
+when aggressive accumulation by mid-sized holders followed Bitcoin’s 350% rise to over $14 from
+below $3. A repetition of this historical fractal would favor further upside. Bitcoin faces sell
+pressure from long-term holders Whales with holdings over 10,000 BTC have emerged as the major
+driver behind the sell-off over the past two months, highlighting that the buying power of sharks
+was insufficient. BTC supply held by entities with a balance of over 10,000 tokens. Source:
+Glassnode That imbalance aligned with Capriole Investments’ assessment that record institutional
+buying has been met by equally historic long-term holder distribution. Founder Charles Edwards wrote
+in a Tuesday post : “While institutional buying on Coinbase has reached unprecedented levels
+(Z-score 15.7), it is being absorbed by 'OG' whales and long-term holders selling at rates not seen
+in years (Hodler Growth Rate at 0.6th percentile).” BTC/USD daily chart. Source: TradingView/Charles
+Edwards The price appreciation may be capped until the heavy distribution from older coins subsides,
+he added. Adding to the downside outlook, veteran trader Peter Brandt highlighted Bitcoin’s recent
+breakdown below its parabolic support , a move that historically led prices down by around 80%. In
+other words, BTC price could reach as low as $25,000 if the fractal repeats. BTC/USD weekly chart.
+Source: TradingView/Peter Brandt This article does not contain investment advice or recommendations.
+Every investment and trading move involves risk, and readers should conduct their own research when
+making a decision. While we strive to provide accurate and timely information, Cointelegraph does
+not guarantee the accuracy, completeness, or reliability of any information in this article. This
+article may contain forward-looking statements that are subject to risks and uncertainties.
+Cointelegraph will not be liable for any loss or damage arising from your reliance on this
+information. This article does not contain investment advice or recommendations. Every investment
+and trading move involves risk, and readers should conduct their own research when making a
+decision. While we strive to provide accurate and timely information, Cointelegraph does not
+guarantee the accuracy, completeness, or reliability of any information in this article. This
+article may contain forward-looking statements that are subject to risks and uncertainties.
+Cointelegraph will not be liable for any loss or damage arising from your reliance on this
+information. # Bitcoin # Bitcoin Price # Bitcoin Analysis # Markets # Price Analysis # Market
+Analysis # Whale Add reaction
+https://cointelegraph.com/news/bitcoin-sharks-accumulate-fastest-pace-in-13-years-btc-down?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 
 ================================================================================
 
-=== BLOCKCHAIN ===
-Title: Vanguard Exec Calls Bitcoin a 'Digital Labubu', Even as Firm Offers Crypto ETF Trading
-Link: https://decrypt.co/352201/vanguard-exec-calls-bitcoin-digital-labubu-firm-offers-crypto-etf-trading
-Published: Fri, 12 Dec 2025 21:59:32 +0000
+"Most crypto sectors lagged Bitcoin over past 3 months: Glassnode"
+Tue, 16 Dec 2025 06:10:26 +0000
 
-Coin Prices BTC $90,332.00 -2.26% ETH $3,095.08 -4.71% XRP $2.03 -0.46% BNB $886.36 -0.37% USDC $0.999851 0.01% SOL $132.92 -4.57% STETH $3,094.17 -4.64% TRX $0.273369 -1.95% DOGE $0.137781 -2.03% ADA $0.410532 -3.66% FIGR_HELOC $1.031 0.05% WBT $60.55 -1.70% WSTETH $3,780.24 -4.66% BCH $573.65 -0.83% WBTC $90,258.00 -1.92% WBETH $3,357.42 -4.71% USDS $1.00 0.02% LINK $13.78 -1.97% WEETH $3,351.88 -4.68% BSC-USD $0.99998 0.00% LEO $9.52 0.16% WETH $3,094.39 -4.65% XLM $0.238433 -2.52% ZEC $464.93 1.68% HYPE $28.01 -5.11% XMR $410.28 0.52% CBBTC $90,324.00 -2.32% USDE $0.999183 0.00% LTC $81.79 -1.99% SUI $1.59 -4.26% AVAX $13.33 -2.59% HBAR $0.124364 -4.61% SHIB $0.00000836 -1.05% SUSDS $1.079 0.07% USDT0 $1.00 0.02% MNT $1.24 2.55% TON $1.61 -0.98% WLFI $0.144081 -1.51% PYUSD $0.999756 -0.01% CRO $0.100004 -1.73% SUSDE $1.21 0.10% UNI $5.43 -2.53% DOT $2.04 -0.99% AAVE $195.23 -4.44% TAO $291.91 -2.98% M $1.62 5.06% USD1 $0.99924 0.01% CC $0.070711 -3.28% BGB $3.60 -0.19% RAIN $0.00742787 -4.89% OKB $114.84 -1.49% XAUT $4,309.62 0.68% USDF $0.998962 -0.04% NEAR $1.65 -3.13% ETC $13.15 -0.77% ASTER $0.949525 -0.92% ENA $0.249605 -4.98% WETH $3,095.73 -4.65% JITOSOL $165.90 -4.44% PEPE $0.00000441 -3.68% BUIDL $1.00 0.00% ICP $3.25 -4.46% PI $0.20839 -0.25% SOL $132.88 -4.49% JLP $4.66 -2.47% PUMP $0.0027609 -3.74% SYRUPUSDC $1.14 0.01% HASH $0.03030378 5.04% HTX $0.00000163 -1.30% PAXG $4,317.02 0.46% ONDO $0.461055 -2.98% WLD $0.585334 -2.25% USDG $0.999791 0.00% KCS $10.66 -1.56% USYC $1.11 -0.02% SYRUPUSDT $1.11 -0.01% SKY $0.057498 2.22% BFUSD $0.999271 0.00% RLUSD $0.999613 -0.01% RETH $3,555.94 -4.59% USDC $0.999789 -0.00% POL $0.120764 -0.79% APT $1.66 -2.57% KAS $0.04600878 -3.04% GT $10.37 -0.93% QNT $82.06 -0.85% WBNB $886.25 -0.35% ARB $0.208239 -2.55% BNSOL $144.50 -4.40% RSETH $3,280.65 -4.66% TRUMP $5.58 -1.89% ALGO $0.122356 -5.95% FBTC $90,008.00 -1.83% ATOM $2.17 -0.71% LSETH $3,315.38 -4.66% VET $0.01175615 -2.46% FLR $0.01248769 -1.45% LBTC $90,346.00 -2.19% SOLVBTC $90,225.00 -2.07% FIL $1.34 -3.29% NEXO $0.973827 -1.25% XDC $0.04918216 -2.08% NIGHT $0.051485 2.71% USDTB $0.99981 0.03% USTB $10.92 0.01% SEI $0.129356 -3.04% OUSG $113.62 0.02% RENDER $1.55 -4.57% WM $0.999964 0.02% BONK $0.00000934 -2.38% KHYPE $28.23 -4.96% JAAA $1.017 0.01% CAKE $2.22 -1.99% USDD $1.00 -0.00% WBTC $90,119.00 -2.26% METH $3,338.47 -4.64% WFLR $0.0124809 -1.50% CLBTC $90,593.00 -2.66% FDUSD $0.998807 -0.03% PENGU $0.01095305 -3.15% USDY $1.10 1.57% ULTIMA $6,783.58 1.56% USDC.E $0.999807 -0.00% BDX $0.087888 1.25% EZETH $3,299.10 -4.79% USDAI $0.999794 0.00% JUP $0.205223 -4.30% IP $1.89 -5.86% JUPSOL $153.72 -4.51% DAI $1.00 0.01% FET $0.240357 -1.22% WETH $3,094.66 -4.68% MORPHO $1.15 -9.04% OP $0.311566 -1.12% OSETH $3,206.12 -4.47% MYX $3.10 0.89% DASH $46.22 -2.78% CRV $0.400411 -0.14% SPX $0.593995 -5.54% AERO $0.607445 -3.59% USD0 $0.99619 -0.16% TBTC $90,196.00 -1.99% WETH $3,094.64 -4.71% INJ $5.40 -4.20% XTZ $0.499554 -0.28% LDO $0.596194 -3.59% VIRTUAL $0.806219 -4.37% WETH $35,382,014.00 0.00% STX $0.287932 -3.13% STRK $0.10531 -1.28% TIA $0.586656 -0.96% GTETH $3,094.35 -4.74% TUSD $0.996475 -0.08% CGETH.HASHKEY $2,460.42 0.00% ETHFI $0.806259 -2.39% EUTBL $1.23 0.02% AB $0.0052568 12.50% MSOL $178.71 -4.57% TEL $0.00489876 -2.14% WAPE $0.230644 -2.14% ETHX $3,331.44 -4.73% GHO $0.999888 0.03% MERL $0.435555 16.76% FLOKI $0.0000467 -2.62% LIQUIDETH $3,275.64 -4.51% GRT $0.04127871 -7.44% KAIA $0.074783 -2.04% IOTA $0.100706 -1.28% BAT $0.281632 1.14% 2Z $0.121377 -3.44% ENS $10.89 -1.72% SWETH $3,404.74 -4.67% BTT $0.00000041 -1.79% SBTC $93,008.00 0.63% USDB $1.00 0.55% TWT $0.965383 -2.34% WIF $0.398496 0.88% CBETH $3,444.71 -4.81% STEAKUSDC $1.11 0.01% BSV $19.76 -1.72% SUN $0.02035796 -1.99% ENZOBTC $90,454.00 0.00% JST $0.03804879 -0.92% PYTH $0.064658 0.58% CFX $0.071868 -1.41% FARTCOIN $0.366264 -5.29% BTC.B $90,306.00 -2.34% OHM $22.16 -0.70% NFT $0.00000036 0.39% PENDLE $2.18 -4.81% CRVUSD $0.998366 -0.09% DCR $20.64 -0.95% DOGE $0.137777 -2.01% BEAT $2.53 25.82% THETA $0.350283 0.08% SAND $0.132847 -3.26% S $0.091229 -5.23% HNT $1.84 -1.39% CHZ $0.0334522 0.31% EURC $1.17 -0.09% GALA $0.00719725 -2.08% GNO $126.01 -2.81% SAVAX $16.42 -2.62% KAU $138.33 0.26% JASMY $0.00666361 -3.35% USX $0.999196 0.01% PIPPIN $0.321318 5.02% FLOW $0.1969 -5.58% WEETH $3,349.46 -4.59% CUSD $1.001 0.05% VSN $0.091559 -2.02% BUSD $0.999829 -0.06% ZRO $1.51 6.71% USR $1.00 0.03% FRXETH $3,060.31 -4.77% XPL $0.152484 -5.10% SYRUP $0.26412 -3.26% BORG $0.302885 -2.09% WSTX $0.297007 -0.00% UBTC $90,398.00 -2.16% WSTUSR $1.12 0.04% MWC $26.67 -1.59% WETH $3,095.47 -4.76% CMETH $3,335.41 -5.13% RAY $1.078 -5.19% NEO $4.08 -2.41% COMP $29.58 -1.25% A $0.176442 -2.91% ASBNB $940.56 -0.13% STABLE $0.01564763 8.63% MANA $0.145516 -3.89% FRAX $0.993486 0.02% GTBTC $90,497.00 -2.27% WHYPE $28.04 -4.97% ZBCN $0.00282314 -2.14% ZK $0.03130422 -5.24% FF $0.113407 -1.21% UDS $2.58 0.18% FDIT $1.00 0.00% JTRSY $1.088 0.01% BBTC $90,715.00 -1.36% AR $3.97 -0.99% MON $0.02390516 -8.99% WETH $3,082.70 -4.62% LUNC $0.00004616 -1.56% EETH $3,094.97 -4.75% 1INCH $0.176346 0.35% FTN $0.569171 -2.46% Price data by
+
+Martin Young 5 hours ago Most crypto sectors lagged Bitcoin over past 3 months: Glassnode Bitcoin
+fell 26% in three months but outperformed most crypto sectors as Ether dropped 36%, AI tokens fell
+48%, and memecoins dipped 56%. Listen 0:00 News COINTELEGRAPH IN YOUR SOCIAL FEED Despite a decline
+from all-time highs, Bitcoin has still performed better than most other cryptocurrency sectors in
+recent months, indicating that capital and investment continue to favor Bitcoin, according to
+Glassnode. Over the past three months, “the average return across nearly all crypto sectors has
+underperformed Bitcoin,” reported onchain analytics platform Glassnode on Tuesday. “This persistent
+relative weakness highlights a market environment where capital concentration favours BTC.” The
+comments came in response to a post from institutional-grade reporting platform Bitcoin Vector
+stating that the first half of the year was Bitcoin-dominated, but “the picture flipped” in the
+second half. Bitcoin Vector explained that “dominance trended lower, making room for ETH rotation,
+but never fully reclaiming leadership afterward.” They added that recent attempts to rebuild after
+the deleverage event have weakened again by year-end, “signaling low conviction in BTC leadership
+and a market still searching for a clear anchor.” Ether, AI, memes and RWA all fell harder
+Glassnode’s latest post appears to disagree with this sentiment. Bitcoin ( BTC ) has retreated by
+around 26% over the past three months, reaching current levels of around $86,000. This is slightly
+better than the overall decline in total market capitalization of 27.5% over the same period,
+according to CoinMarketCap. Most other crypto sectors have seen larger declines than Bitcoin.
+Source: Glassnode Ether ( ETH ) has taken a significant hit since mid-September, falling
+approximately 36% to its current levels below $3,000. The same theme is true for many other sectors
+or token categories, such as AI, which has declined 48%, memecoin market cap, which has tanked 56%,
+and the real-world asset tokenization category, which is down 46% over the three-month period,
+according to CoinMarketCap. The DeFi token category is down 38% over the past three months,
+according to CoinGecko. Bitcoin remains a safer haven in crypto Nick Ruck, director of LVRG
+Research, agreed, telling Cointelegraph that the data over the past three months indicates that
+capital inflows continue to favor Bitcoin, “reflecting a strong investor preference for BTC’s
+stability.” Related: Bitcoin to hit new all-time high within 6 months: Grayscale “This capital
+concentration underscores Bitcoin’s dominant position in the market, leaving altcoins struggling to
+stay relevant amid the current environment,” he added. “This trend is likely driven by Bitcoin’s
+established reputation and increasing institutional interest, which bolster its appeal as a safer
+haven in the volatile crypto landscape.” Magazine: Do Kwon sentenced to 15 years, Bitcoin’s ‘choppy
+dance’: Hodler’s Digest # Bitcoin # Altcoins # Bitcoin Price # DeFi # Memecoin # RWA Add reaction
+https://cointelegraph.com/news/nearly-all-crypto-sectors-underperformed-btc-over-past-3-months-glassnode?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
 
 ================================================================================
 
-=== BLOCKCHAIN ===
-Title: XRP Is Launching on Ethereum and Solana—Here's Why (and How)
-Link: https://decrypt.co/352200/xrp-launching-ethereum-solana-why-how
-Published: Fri, 12 Dec 2025 20:17:21 +0000
+"Ripple pilots RLUSD on Ethereum L2s in multichain push"
+Tue, 16 Dec 2025 05:53:18 +0000
 
-Coin Prices BTC $90,332.00 -2.26% ETH $3,095.08 -4.71% XRP $2.03 -0.46% BNB $886.36 -0.37% USDC $0.999851 0.01% SOL $132.92 -4.57% STETH $3,094.17 -4.64% TRX $0.273369 -1.95% DOGE $0.137781 -2.03% ADA $0.410532 -3.66% FIGR_HELOC $1.031 0.05% WBT $60.55 -1.70% WSTETH $3,780.24 -4.66% BCH $573.65 -0.83% WBTC $90,258.00 -1.92% WBETH $3,357.42 -4.71% USDS $1.00 0.02% LINK $13.78 -1.97% WEETH $3,351.88 -4.68% BSC-USD $0.99998 0.00% LEO $9.52 0.16% WETH $3,094.39 -4.65% XLM $0.238433 -2.52% ZEC $464.93 1.68% HYPE $28.01 -5.11% XMR $410.28 0.52% CBBTC $90,324.00 -2.32% USDE $0.999183 0.00% LTC $81.79 -1.99% SUI $1.59 -4.26% AVAX $13.33 -2.59% HBAR $0.124364 -4.61% SHIB $0.00000836 -1.05% SUSDS $1.079 0.07% USDT0 $1.00 0.02% MNT $1.24 2.55% TON $1.61 -0.98% WLFI $0.144081 -1.51% PYUSD $0.999756 -0.01% CRO $0.100004 -1.73% SUSDE $1.21 0.10% UNI $5.43 -2.53% DOT $2.04 -0.99% AAVE $195.23 -4.44% TAO $291.91 -2.98% M $1.62 5.06% USD1 $0.99924 0.01% CC $0.070711 -3.28% BGB $3.60 -0.19% RAIN $0.00742787 -4.89% OKB $114.84 -1.49% XAUT $4,309.62 0.68% USDF $0.998962 -0.04% NEAR $1.65 -3.13% ETC $13.15 -0.77% ASTER $0.949525 -0.92% ENA $0.249605 -4.98% WETH $3,095.73 -4.65% JITOSOL $165.90 -4.44% PEPE $0.00000441 -3.68% BUIDL $1.00 0.00% ICP $3.25 -4.46% PI $0.20839 -0.25% SOL $132.88 -4.49% JLP $4.66 -2.47% PUMP $0.0027609 -3.74% SYRUPUSDC $1.14 0.01% HASH $0.03030378 5.04% HTX $0.00000163 -1.30% PAXG $4,317.02 0.46% ONDO $0.461055 -2.98% WLD $0.585334 -2.25% USDG $0.999791 0.00% KCS $10.66 -1.56% USYC $1.11 -0.02% SYRUPUSDT $1.11 -0.01% SKY $0.057498 2.22% BFUSD $0.999271 0.00% RLUSD $0.999613 -0.01% RETH $3,555.94 -4.59% USDC $0.999789 -0.00% POL $0.120764 -0.79% APT $1.66 -2.57% KAS $0.04600878 -3.04% GT $10.37 -0.93% QNT $82.06 -0.85% WBNB $886.25 -0.35% ARB $0.208239 -2.55% BNSOL $144.50 -4.40% RSETH $3,280.65 -4.66% TRUMP $5.58 -1.89% ALGO $0.122356 -5.95% FBTC $90,008.00 -1.83% ATOM $2.17 -0.71% LSETH $3,315.38 -4.66% VET $0.01175615 -2.46% FLR $0.01248769 -1.45% LBTC $90,346.00 -2.19% SOLVBTC $90,225.00 -2.07% FIL $1.34 -3.29% NEXO $0.973827 -1.25% XDC $0.04918216 -2.08% NIGHT $0.051485 2.71% USDTB $0.99981 0.03% USTB $10.92 0.01% SEI $0.129356 -3.04% OUSG $113.62 0.02% RENDER $1.55 -4.57% WM $0.999964 0.02% BONK $0.00000934 -2.38% KHYPE $28.23 -4.96% JAAA $1.017 0.01% CAKE $2.22 -1.99% USDD $1.00 -0.00% WBTC $90,119.00 -2.26% METH $3,338.47 -4.64% WFLR $0.0124809 -1.50% CLBTC $90,593.00 -2.66% FDUSD $0.998807 -0.03% PENGU $0.01095305 -3.15% USDY $1.10 1.57% ULTIMA $6,783.58 1.56% USDC.E $0.999807 -0.00% BDX $0.087888 1.25% EZETH $3,299.10 -4.79% USDAI $0.999794 0.00% JUP $0.205223 -4.30% IP $1.89 -5.86% JUPSOL $153.72 -4.51% DAI $1.00 0.01% FET $0.240357 -1.22% WETH $3,094.66 -4.68% MORPHO $1.15 -9.04% OP $0.311566 -1.12% OSETH $3,206.12 -4.47% MYX $3.10 0.89% DASH $46.22 -2.78% CRV $0.400411 -0.14% SPX $0.593995 -5.54% AERO $0.607445 -3.59% USD0 $0.99619 -0.16% TBTC $90,196.00 -1.99% WETH $3,094.64 -4.71% INJ $5.40 -4.20% XTZ $0.499554 -0.28% LDO $0.596194 -3.59% VIRTUAL $0.806219 -4.37% WETH $35,382,014.00 0.00% STX $0.287932 -3.13% STRK $0.10531 -1.28% TIA $0.586656 -0.96% GTETH $3,094.35 -4.74% TUSD $0.996475 -0.08% CGETH.HASHKEY $2,460.42 0.00% ETHFI $0.806259 -2.39% EUTBL $1.23 0.02% AB $0.0052568 12.50% MSOL $178.71 -4.57% TEL $0.00489876 -2.14% WAPE $0.230644 -2.14% ETHX $3,331.44 -4.73% GHO $0.999888 0.03% MERL $0.435555 16.76% FLOKI $0.0000467 -2.62% LIQUIDETH $3,275.64 -4.51% GRT $0.04127871 -7.44% KAIA $0.074783 -2.04% IOTA $0.100706 -1.28% BAT $0.281632 1.14% 2Z $0.121377 -3.44% ENS $10.89 -1.72% SWETH $3,404.74 -4.67% BTT $0.00000041 -1.79% SBTC $93,008.00 0.63% USDB $1.00 0.55% TWT $0.965383 -2.34% WIF $0.398496 0.88% CBETH $3,444.71 -4.81% STEAKUSDC $1.11 0.01% BSV $19.76 -1.72% SUN $0.02035796 -1.99% ENZOBTC $90,454.00 0.00% JST $0.03804879 -0.92% PYTH $0.064658 0.58% CFX $0.071868 -1.41% FARTCOIN $0.366264 -5.29% BTC.B $90,306.00 -2.34% OHM $22.16 -0.70% NFT $0.00000036 0.39% PENDLE $2.18 -4.81% CRVUSD $0.998366 -0.09% DCR $20.64 -0.95% DOGE $0.137777 -2.01% BEAT $2.53 25.82% THETA $0.350283 0.08% SAND $0.132847 -3.26% S $0.091229 -5.23% HNT $1.84 -1.39% CHZ $0.0334522 0.31% EURC $1.17 -0.09% GALA $0.00719725 -2.08% GNO $126.01 -2.81% SAVAX $16.42 -2.62% KAU $138.33 0.26% JASMY $0.00666361 -3.35% USX $0.999196 0.01% PIPPIN $0.321318 5.02% FLOW $0.1969 -5.58% WEETH $3,349.46 -4.59% CUSD $1.001 0.05% VSN $0.091559 -2.02% BUSD $0.999829 -0.06% ZRO $1.51 6.71% USR $1.00 0.03% FRXETH $3,060.31 -4.77% XPL $0.152484 -5.10% SYRUP $0.26412 -3.26% BORG $0.302885 -2.09% WSTX $0.297007 -0.00% UBTC $90,398.00 -2.16% WSTUSR $1.12 0.04% MWC $26.67 -1.59% WETH $3,095.47 -4.76% CMETH $3,335.41 -5.13% RAY $1.078 -5.19% NEO $4.08 -2.41% COMP $29.58 -1.25% A $0.176442 -2.91% ASBNB $940.56 -0.13% STABLE $0.01564763 8.63% MANA $0.145516 -3.89% FRAX $0.993486 0.02% GTBTC $90,497.00 -2.27% WHYPE $28.04 -4.97% ZBCN $0.00282314 -2.14% ZK $0.03130422 -5.24% FF $0.113407 -1.21% UDS $2.58 0.18% FDIT $1.00 0.00% JTRSY $1.088 0.01% BBTC $90,715.00 -1.36% AR $3.97 -0.99% MON $0.02390516 -8.99% WETH $3,082.70 -4.62% LUNC $0.00004616 -1.56% EETH $3,094.97 -4.75% 1INCH $0.176346 0.35% FTN $0.569171 -2.46% Price data by
+
+Stephen Katte 5 hours ago Ripple pilots RLUSD on Ethereum L2s in multichain push Ripple is testing
+RLUSD on layer 2s Optimism, Base, Ink, and Unichain, after the token initially launched on the XRP
+Ledger and Ethereum in 2024. Listen 0:00 News COINTELEGRAPH IN YOUR SOCIAL FEED Ripple Labs is
+expanding its US dollar-backed stablecoin RLUSD to Ethereum layer-2 blockchains as part of a pilot
+while it awaits regulatory approval for a full rollout next year. In partnership with Wormhole, a
+crosschain interoperability protocol that allows assets to move between different blockchains , the
+pilot will test RLUSD on Optimism, Base, Ink (an Ethereum layer 2 developed by Kraken), and
+Unichain, according to a statement from Ripple on Monday. Initially, RLUSD was issued on the XRP
+Ledger and Ethereum ; however, Ripple said that the latest expansion is “essential for a scalable,
+efficient, and interoperable future.” “The future of crypto is undeniably multichain, and to truly
+serve both institutional finance and the growing onchain economy, stablecoins must exist wherever
+demand and utility are.” Source: Ripple “As chains continue to build for real-world use, the need
+for a highly regulated stablecoin is stronger than ever,” the Ripple team added. RLUSD will avoid
+using wrapped copy across blockchains The Wormhole team said in an X post on Monday that its Native
+Token Transfers standard will allow RLUSD to move across blockchains as the real token, as opposed
+to a synthetic or wrapped copy, which will help maintain liquidity. In some multichain setups , when
+a token is transferred, it’s locked on its original blockchain while a wrapped copy version is
+minted on another. Source: Wormhole “With NTT, token issuers eliminate the need for fragmented
+liquidity or wrapped assets, allowing a single, canonical version of RLUSD to exist natively on each
+blockchain with Ripple owning the contracts,” the Wormhole team added. More chains are coming next
+year RLUSD will launch on subsequent chains next year, but the launch is still subject to final
+regulatory approval, according to Ripple. RLUSD is issued under the state-level New York Department
+of Financial Services Trust Company Charter, while the company has also applied for a federal trust
+bank charter from the Office of the Comptroller of the Currency, to add Federal oversight. Jack
+McDonald, senior vice president of stablecoins at Ripple, said stablecoins are the “gateway to DeFi
+and institutional adoption.” “By launching RLUSD—the first US Trust Regulated stablecoin on these L2
+networks—we are not just expanding utility; we are setting the definitive standard where compliance
+and onchain efficiency converge.” RLUSD market capitalization sits at $1.3 billion RLUSD, launched
+in December 2024, has a market capitalization of $1.3 billion, according to crypto data aggregator
+CoinGecko. Related: Ripple’s RLUSD enters top 10 USD stablecoins less than year after debut In
+comparison, the top stablecoin, Tether’s USDT, has a market cap of $186 billion, Circle’s USDC has a
+$78 billion market cap, and Sky Protocol’s USDS is the third-largest with $9.8 billion. RLUSD has
+gained traction among retail users , particularly through integrations with platforms like Transak
+and growing adoption across self-custodial wallets, like Xaman. Related: HIVE tests investor
+appetite for AI-Bitcoin infrastructure in Andean markets # Blockchain # Altcoins # Business # Ripple
+# Adoption # Stablecoin Add reaction
+https://cointelegraph.com/news/ripple-rlusd-multichain-ethereum-l2s-wormhole?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+================================================================================
+
+"MetaMask adds Bitcoin support after teasing it 10 months ago"
+Tue, 16 Dec 2025 04:47:18 +0000
+
+
+Brian Quarmby 6 hours ago MetaMask adds Bitcoin support after teasing it 10 months ago Users can now
+buy, swap, send, and receive Bitcoin directly within the popular Ethereum-focused wallet, expanding
+its multichain reach. Listen 0:00 News COINTELEGRAPH IN YOUR SOCIAL FEED Crypto wallet giant
+MetaMask has announced it has added support for Bitcoin, hinting that more blockchain integrations
+will be rolled out next year. MetaMask announced the rollout to social media on Monday, ten months
+after it first teased it in February, revealing that Bitcoin ( BTC ) has now joined the ranks of
+supported assets from the Ethereum, Solana, Monad and Sei blockchains. “Any Bitcoin transactions you
+make will appear in your asset list once confirmed. Remember: Bitcoin transactions are typically
+slower than those on EVM or Solana networks,” MetaMask said. The move enables users to buy BTC, swap
+to BTC, send and receive BTC, with users being incentivized to use the asset , with any swaps into
+BTC earning people MetaMask reward points. Source: MetaMask Prior to this, MetaMask users could only
+gain exposure to BTC via wrapped versions of the asset. The BTC integration was first discussed back
+in February, with MetaMask’s Dan Finlay suggesting it would go live in the third quarter of 2025.
+Related: Bitcoin, altcoins sell-off as Fed chair switch-up, AI bubble fears spook markets MetaMask
+goes from just Ethereum to multichain Initially developed to support the Ethereum ecosystem and EVM-
+compatible networks, MetaMask has been gradually expanding beyond this in 2025. MetaMask kicked
+things off with the Solana integration in May and followed that up with Sei in August and Monad in
+November. The firm has kept its cards close to its chest, but has indicated that more networks will
+be added next year. “Bitcoin support marks the latest step in our multichain expansion, following
+the launch of Monad and Sei earlier this year, with more networks to come in 2026,” MetaMask said.
+Magazine: Big questions: Would Bitcoin survive a 10-year power outage? # Bitcoin # Blockchain #
+Bitcoin Wallet # Business # Wallet # Ethereum # Integration # MetaMask Add reaction
+https://cointelegraph.com/news/metamask-adds-bitcoin-support-after-teasing-february?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+================================================================================
+
+"Crypto urges SEC to see the good in blockchain privacy tools"
+Tue, 16 Dec 2025 04:10:13 +0000
+
+
+Jesse Coghlan 7 hours ago Crypto urges SEC to see the good in blockchain privacy tools US Securities
+and Exchange Commission chair Paul Atkins says the agency must find how to allow people to use
+blockchain privacy tools “without immediately falling under suspicion.” Listen 0:00 News
+COINTELEGRAPH IN YOUR SOCIAL FEED Crypto industry executives have urged the US Securities and
+Exchange Commission to shift its thinking on blockchain privacy tools, pitching that there are
+legitimate applications for them outside of criminal use. The SEC hosted crypto and finance
+executives for a discussion and panel on financial surveillance and privacy on Monday, the agency’s
+sixth crypto-focused roundtable this year, as it seeks to overhaul its approach to crypto. StarkWare
+general counsel Katherine Kirkpatrick Bos, who participated in a panel discussion, told
+Cointelegraph after the event that a major takeaway was that there shouldn’t be an assumption that
+those using and creating privacy tools are “overwhelmed by wrongdoers.” “Why is the assumption that
+an individual needs to affirmatively prove that they are compliant or they’re using the tool for
+good?” “As opposed to it being the other way around, where the assumption is that this individual is
+using the tool for good until there is some sort of indication that they’re using it for bad,” she
+said. Kirkpatrick Bos added that “of course, wrongdoers were using, or are using those tools, but
+there needs to be a balance.” Katherine Kirkpatrick Bos (left) discussing financial privacy at an
+SEC roundtable on Monday. Source: Paul Brigner During the roundtable, Wayne Chang, the founder and
+CEO of the credential management company SpruceID, said some percentage of users of stablecoins , a
+crypto tool that is slowly becoming mainstream, will want privacy. “There are a ton of stablecoins
+that aren’t onchain yet that would come onchain if there is privacy,” he said. “We’re going to see
+an increase in demand for privacy-preserving blockchains.” “My hope is that regulators continue to
+engage industry, and we can have those discussions on how to keep privacy for folks while also
+having tools that are useful,” Chang said. Customer checks are becoming outdated Kirkpatrick Bos
+said a discussion on Know Your Customer ( KYC ) and Anti-Money Laundering (AML) measures focused on
+whether current rules are sufficient in the age of artificial intelligence . “The question arose and
+was debated on the panel, well, what is necessary for Anti-Money Laundering?” she said. “Now we have
+AI. It’s made manual, AML and KYC antiquated. How do we solve for that?” “There was a sense that the
+current system of AML and KYC is antiquated, it’s problematic, it’s ineffective,” she added. “But
+there needs to be some sort of check when it’s a centralized entity facilitating flows of money to
+ensure that they’re not helping wrongdoers.” Many financial institutions request a picture of a
+user’s driver’s license for its KYC checks, which Kirkpatrick Bos said was “absurd, because an
+individual can go on the internet and develop a fake driver’s license in a matter of seconds.” “So
+the question is, can cryptography-based tools improve that and make it harder for bad guys to do
+that? But can they also do that and make it harder for bad guys while preserving an individual’s
+privacy and not revealing data like an address, where it is not necessary to vet the legality of the
+funds?” she added. Some projects have begun to test crypto-based solutions for proving identity
+while claiming to preserve privacy , such as Sam Altman’s World, which gives users a cryptographic
+key they can use to prove they’re human. SEC’s Atkins warns of potential for crypto mass
+surveillance SEC chair Paul Atkins had given opening remarks at the roundtable, warning that if
+“pushed in the wrong direction, crypto could become the most powerful financial surveillance
+architecture ever invented.” “If the instinct of the government is to treat every wallet like a
+broker, every piece of software as an exchange, every transaction as a reportable event, and every
+protocol as a convenient surveillance node, then the government will transform this ecosystem into a
+financial panopticon,” he added. Related: SEC ’eased up on’ 60% of crypto enforcement cases under
+Trump: Report Atkins said that crypto allows for “privacy-preserving tools that the analog world
+could not provide,” which some institutions depend on to build positions or test strategies without
+“instantly telegraphing that activity to competitors.” He added that some of the technology could
+balance the government’s interest in deterring security threats and the public’s privacy. “But to
+best strike this balance, we must make certain that Americans can use these tools without
+immediately falling under suspicion.” Magazine: 2026 is the year of pragmatic privacy in crypto —
+Canton, Zcash and more # Privacy # SEC # Regulation Add reaction
+https://cointelegraph.com/news/crypto-urges-sec-see-good-in-blockchain-privacy-tools?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+================================================================================
+
+"Bitcoin, altcoins sell off as Fed chair switch-up, AI bubble fears spook markets"
+Tue, 16 Dec 2025 00:17:35 +0000
+
+
+Marcel Pechman 11 hours ago Bitcoin, altcoins sell off as Fed chair switch-up, AI bubble fears spook
+markets Crypto markets slid as traders turned risk-averse amid renewed Fed leadership speculation,
+tightening liquidity and broader macro uncertainty. Listen 0:00 Market Analysis COINTELEGRAPH IN
+YOUR SOCIAL FEED Key takeaways: Leverage surged in the crypto market, with $527 million in
+liquidations in 24 hours, signaling growing caution among traders. Tighter liquidity and increasing
+AI debt risks push traders to exit riskier assets, contributing to a market correction. The
+cryptocurrency market saw a correction on Monday, with Bitcoin ( BTC ) retesting the $85,000 level
+and Ether ( ETH ) dropping to $2,900. Traders became more risk-averse after a survey showed
+worsening economic conditions in the United States and changes in investor expectations regarding
+the proposed options for the next US Federal Reserve chair. US five-year Treasury (left) vs. Total
+crypto capitalization, USD. Source: TradingView The resilience of the US five-year Treasury after
+hitting a low of 98.64 on Wednesday points to a more defensive shift in positioning as liquidity
+conditions tightened across global markets. That caution comes amid mounting fiscal pressures after
+a recent tax and spending package extended credits and raised the US debt ceiling by $5 trillion.
+Also, the Federal Reserve said it will begin purchasing about $40 billion per month in short-dated
+Treasury bills as part of a technical reserve-management operation aimed at maintaining ample
+liquidity, a move policymakers have stressed is not a return to broad quantitative easing or a shift
+in the Fed’s monetary policy stance. The consumer sector remains a concern, as a CNBC survey
+revealed that 41% of Americans plan to spend less during the holidays this year, up from 35% in
+2024. Additionally, 61% of respondents cited affordability problems due to stagnant wages amid
+rising prices. US October retail sales data will be released on Tuesday, along with November nonfarm
+payrolls figures. Total crypto market open interest, USD. Source: CoinGlass Excessive leverage in
+the cryptocurrency market continues to be a major issue, with futures open interest standing at $135
+billion. Over $527 million worth of bullish leveraged positions have been liquidated in the past 24
+hours, causing traders to worry about further downside. Weakness in the artificial intelligence
+sector has also driven traders to increase cash positions, exiting riskier asset classes like
+cryptocurrencies. Hedge fund giant Bridgewater Associates reportedly said that tech firms’ heavy
+reliance on debt markets to fund AI investments has reached a dangerous phase, according to Reuters.
+“Going forward, there is a reasonable probability that we will soon find ourselves in a bubble,"
+Bridgewater's co-chief investment officer Greg Jensen wrote in a note. Annualized funding rate on
+Monday. Source: CoinGlass Demand for leverage on short (sellers) positions surged on Bybit, pushing
+the annualized funding rate below zero. This unusual situation, where longs (buyers) are paid to
+keep their leveraged positions open, rarely lasts as arbitrage opportunities emerge. Still, since
+the Oct. 10 crash, liquidity has become much tighter, with some market makers likely facing sizable
+losses. Part of Monday’s decline in the US stock market can be attributed to a decrease in Kevin
+Hassett’s odds of replacing Jerome Powell as the next Fed chair. CNBC reported that President Donald
+Trump’s inner circle pushed for someone perceived as more independent. Trump said on Friday that
+Kevin Warsh would also be a great fit, which eased concerns about the fragility of the US dollar.
+S&P 500 index (left) vs. US dollar strength Index (right). Source: TradingView The US Dollar Index
+(DXY) found support at the 98 level after four consecutive weeks of decline. This stability suggests
+higher confidence in the US government’s ability to avoid a recession, which is somewhat supportive
+for the stock market but less so for cryptocurrencies. Related: Bitcoin to $40K? Macro analyst Luke
+Gromen turns bearish on Bitcoin Bitcoin and Ether are generally seen as part of an independent
+financial system, so the relative strength of the US dollar reduces the demand for alternative
+hedges. The excessive leverage in the cryptocurrency market, combined with broader macroeconomic
+uncertainty, is likely to continue weighing on prices. This article is for general information
+purposes and is not intended to be and should not be taken as, legal, tax, investment, financial, or
+other advice. The views, thoughts, and opinions expressed here are the author’s alone and do not
+necessarily reflect or represent the views and opinions of Cointelegraph. While we strive to provide
+accurate and timely information, Cointelegraph does not guarantee the accuracy, completeness, or
+reliability of any information in this article. This article may contain forward-looking statements
+that are subject to risks and uncertainties. Cointelegraph will not be liable for any loss or damage
+arising from your reliance on this information. This article does not contain investment advice or
+recommendations. Every investment and trading move involves risk, and readers should conduct their
+own research when making a decision. While we strive to provide accurate and timely information,
+Cointelegraph does not guarantee the accuracy, completeness, or reliability of any information in
+this article. This article may contain forward-looking statements that are subject to risks and
+uncertainties. Cointelegraph will not be liable for any loss or damage arising from your reliance on
+this information. # Bitcoin # Cryptocurrencies # Altcoins # Federal Reserve # Government # Funding #
+Bitcoin Price # Economy # Markets # United States # Inflation # Leverage # Market Analysis Add
+reaction
+https://cointelegraph.com/news/bitcoin-altcoins-sell-off-as-fed-chair-switch-up-ai-bubble-fears-spook-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+================================================================================
+
+"Here’s what happened in crypto today"
+Mon, 15 Dec 2025 21:54:06 +0000
+
+
+Cointelegraph 13 hours ago Here’s what happened in crypto today Need to know what happened in crypto
+today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi,
+NFTs, Web3 and crypto regulation. Listen 0:00 News COINTELEGRAPH IN YOUR SOCIAL FEED Today in
+crypto: Crypto executives urged the SEC to shift its thinking on privacy tools, crypto ETFs had
+three straight weeks of inflows and JPMorgan launched its first money market fund. Crypto urges SEC
+to see good in privacy tools Crypto industry executives urged the Securities and Exchange Commission
+to shift its thinking on blockchain privacy tools at its sixth crypto-focused roundtable on Monday,
+saying there are legitimate applications for them outside of criminal use. StarkWare general counsel
+Katherine Kirkpatrick Bos participated in a panel discussion and told Cointelegraph that a major
+takeaway was that there shouldn’t be an assumption that those using and creating privacy tools are
+“overwhelmed by wrongdoers.” “Why is the assumption that an individual needs to affirmatively prove
+that they are compliant or they’re using the tool for good, as opposed to it being the other way
+around?” she said. Katherine Kirkpatrick Bos (left) discussing financial privacy at an SEC
+roundtable on Monday. Source: Paul Brigner In his opening remarks, SEC chair Paul Atkins said that
+if “pushed in the wrong direction, crypto could become the most powerful financial surveillance
+architecture ever invented,” with the government transforming it “into a financial panopticon.” He
+added his agency must strike a balance and “make certain that Americans can use these [privacy]
+tools without immediately falling under suspicion.” Digital asset ETPs post third straight week of
+net inflows, led by US demand Crypto exchange-traded products (ETPs) recorded about $864 million in
+inflows last week, according to a report on Monday by European digital asset manager CoinShares. The
+United States led regional inflows with about $796 million, followed by Germany with roughly $68.6
+million and Canada with about $26.8 million. Together, the three countries account for approximately
+98.6% of year-to-date (YTD) inflows into digital asset investment products. Switzerland-listed
+crypto ETPs recorded about $41.4 million in weekly outflows, while YTD net flows were about $622.4
+million, according to the data. Flows by Exchange Country. Source: CoinShares Bitcoin ( BTC )
+investment products recorded about $522 million in weekly inflows, while short-Bitcoin products
+posted roughly $1.8 million in net outflows, “signalling a recovery in sentiment,” according to the
+report. Ether ( ETH ) saw approximately $338 million in inflows during the week, lifting YTD to
+about $13.3 billion, up 148% from 2024. Beyond Bitcoin and Ether, Solana ( SOL ) investment products
+recorded about $65 million in weekly inflows, bringing YTD inflows to roughly $3.46 billion, a
+tenfold increase from last year. XRP ( XRP ) products also attracted fresh capital, with
+approximately $46.9 million added during the week and about $3.18 billion in inflows accumulated
+YTD, according to the data. Smaller-cap products saw more mixed results, with Aave ( AAVE )-linked
+products recording about $5.9 million in weekly inflows and Chainlink ( LINK ) adding roughly $4.1
+million. Hyperliquid ( HYPE ) products posted net outflows of around $14.1 million during the
+period. This is the third consecutive week of inflows for crypto ETPs, following about $716 million
+in inflows last week and roughly $1 billion the week before. Bitcoin has attracted around $27.7
+billion YTD, still below the $41 billion it recorded in 2024. JPMorgan launches its first tokenized
+money market fund on Ethereum JPMorgan, one of the world’s biggest banks, is advancing its presence
+in tokenized finance by launching its first money market fund through its $4 trillion asset
+management arm. The fund, My OnChain Net Yield Fund, will trade under the ticker MONY and is
+available on the public Ethereum blockchain , JPMorgan said in an announcement shared with
+Cointelegraph on Monday. Launched via Kinexys Digital Assets, JPMorgan’s proprietary tokenization
+platform, MONY is a 506(c) private placement fund providing qualified investors the opportunity to
+earn US dollar yields by subscribing through its institutional trading platform, Morgan Money. “With
+Morgan Money, tokenization can fundamentally change the speed and efficiency of transactions, adding
+new capabilities to traditional products,” said John Donohue, head of global liquidity at J.P.
+Morgan Asset Management. By launching MONY, JPMorgan has become the largest global systemically
+important bank to introduce a tokenized money market fund (MMF) on a public blockchain, the bank
+said in the announcement. The fund’s tokenization provides increased transparency, peer-to-peer
+transferability and the potential for broader collateral usage within the blockchain ecosystem, it
+said. J.P. Morgan Asset Management’s My OnChain Net Yield Fund (MONY) is issued through Kinexys
+Digital Assets and is available to investors via Morgan Money. Source: JPMorgan “This marks a
+significant step forward in how assets will be traded in the future,” Donohue said, highlighting the
+role of Morgan Money, where qualified investors can access the fund and receive tokens at their
+blockchain addresses. # Business # Privacy # JPMorgan Chase # Regulation # ETF # Tokenization Add
+reaction
+https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+================================================================================
+
+"Bitcoin drops under $86K as $2.78B in BTC whale selling overwhelms active dip buyers"
+Mon, 15 Dec 2025 20:30:00 +0000
+
+
+Biraajmaan Tamuly 15 hours ago Bitcoin drops under $86K as $2.78B in BTC whale selling overwhelms
+active dip buyers Data shows traders bought the Bitcoin price dip, but $2.78 billion in selling by
+larger entities overshadowed the bulls. Can BTC hold above $86,000? Listen 0:00 Market Analysis
+COINTELEGRAPH IN YOUR SOCIAL FEED Bitcoin ( BTC ) dropped below $86,000 on Monday, continuing to
+expand on a liquidity imbalance as smaller participants continued to buy dips. Still, large holders
+were using the demand to exit positions, keeping downside pressure firmly in place. Key takeaways:
+Retail and mid-sized Bitcoin wallets purchased $474 million in cumulative buy-side volume, while
+whales sold $2.78 billion during the same period. Short-term BTC holders continued to sell at a
+loss, a sign of capitulation, but a reversal has not been confirmed. Bitcoin could re-test quarterly
+lows at $80,600 after invalidating its short-term bull trend. Whales dominate the sell-side as
+retail bets on a bottom Order flow data from Hyblock Capital highlighted a sharp divergence in
+behavior across participant classes. Retail traders or wallets ($0–$10,000) have accumulated a
+cumulative volume delta of $169 million, consistently bidding into the downtrend. Mid-sized
+participants ($1,000–$100,000) also built a $305 million net spot position as they attempted to
+front-run a recovery. BTC price and volume delta (cumulative) between different wallet sizes.
+Source: Hyblock Whale wallets ($100,000–$10 million) remained the dominant force, with a negative
+$2.78 billion in cumulative volume delta. The combined buying power of retail and mid-sized traders
+was insufficient to absorb institutional-scale distribution. This results in a liquidity mismatch
+where smaller players interpret sub-$100,000 prices as a discount, while large holders treat the
+same zone as an opportunity to reduce exposure. Onchain analyst Axel Adler Jr pointed to the short-
+term holder spent output profit-ratio (seven-day SMA) slipping below 1, currently hovering near
+0.99. This indicated that coins held for less than 155 days are, on average, being sold at a loss.
+Historically, such conditions have aligned with local capitulation phases, when selling pressure
+peaks. Still, Adler emphasized that stress alone is not a reversal signal. A sustained recovery can
+begin after SOPR reclaims and holds above 1, confirming that demand has started to absorb supply.
+Bitcoin short-term holder SOPR. Source: Axel Adler Jr. Related: Bitcoin sees ‘pure manipulation’ as
+US sell-off liquidates $200M in an hour Bitcoin open to revisit lower liquidity targets From a
+technical standpoint, Bitcoin’s structure has weakened further. BTC’s price has broken down from a
+rising wedge pattern, sweeping the monthly VWAP (volume-weighted average price) before printing a
+bearish break of structure (BOS) below $87,600. Bitcoin four-hour chart analysis. Source:
+Cointelegraph/TradingView With the short-term bullish trend invalidated, BTC now faces downside
+targets near prior liquidity pools or external liquidity. The immediate targets remain the $83,800
+swing low, with a deeper retracement toward the $80,600 quarterly lows possible if sell pressure
+persists. For now, both order flow and onchain signals suggest that patience is required before
+declaring a durable bottom. Related: Bitcoin parabola breakdown raises chance for 80% correction:
+Veteran trader This article does not contain investment advice or recommendations. Every investment
+and trading move involves risk, and readers should conduct their own research when making a
+decision. While we strive to provide accurate and timely information, Cointelegraph does not
+guarantee the accuracy, completeness, or reliability of any information in this article. This
+article may contain forward-looking statements that are subject to risks and uncertainties.
+Cointelegraph will not be liable for any loss or damage arising from your reliance on this
+information. This article does not contain investment advice or recommendations. Every investment
+and trading move involves risk, and readers should conduct their own research when making a
+decision. While we strive to provide accurate and timely information, Cointelegraph does not
+guarantee the accuracy, completeness, or reliability of any information in this article. This
+article may contain forward-looking statements that are subject to risks and uncertainties.
+Cointelegraph will not be liable for any loss or damage arising from your reliance on this
+information. # Bitcoin # Cryptocurrencies # Bitcoin Price # Markets # Cryptocurrency Exchange #
+Price Analysis # Market Analysis # Liquidity # Whale Add reaction
+https://cointelegraph.com/news/bitcoin-slips-below-86k-as-2-78b-whale-selling-overwhelms-dip-buyers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+================================================================================
+
+"Crypto Markets Today: Bitcoin, ether extend pullback amid thin liquidity, macro jitters"
+Tue, 16 Dec 2025 11:30:00 +0000
+
+
+Markets Share Share this article Copy link X icon X (Twitter) LinkedIn Facebook Email Crypto Markets
+Today: Bitcoin, ether extend pullback amid thin liquidity, macro jitters Bitcoin and ether extended
+losses alongside weak equities, while oversold signals offered a tentative glimmer of hope for
+battered altcoins. By Oliver Knight , Omkar Godbole | Edited by Sheldon Reback Dec 16, 2025, 11:30
+a.m. Crypto market extends pullback amid macro weakness (Shutterstock modified by CoinDesk) What to
+know : Bitcoin fell 4% to $86,100, ether slid 6.7% to below $3,000. Crypto is tracking equities
+lower as concerns the AI bubble may collapse and weak U.S. jobs expectations hit the Nasdaq. Tokens
+like XRP, SOL and ADA are nearing key support levels, raising the chances of a short-term bounce.
+The crypto market failed to recover from Monday's sell-off, with bitcoin BTC $ 87,070.70 trading 4%
+lower at $86,100 and ether dropping back below $3,000 after slumping 6.7% in 24 hours. The slide
+sent the CoinDesk 20 Index down 4.3%, with all members of the index lower, alongside a move to the
+downside in traditional markets. The Nasdaq Composite fell for a second straight day on Monday,
+losing 2.6% in the period, on concerns over the potential of an AI bubble and weak employment data.
+The U.S. is due to report labor market statistics including November's nonfarm payrolls number later
+Tuesday. STORY CONTINUES BELOW Don't miss another story. Subscribe to the Crypto Daybook Americas
+Newsletter today . See all newsletters Sign me up By signing up, you will receive emails about
+CoinDesk products and you agree to our terms of use and privacy policy . "Consensus forecasts
+suggest around 50,000 new hires were made, less than half the 119,000 seen in September, but the
+range of expectations is much wider than usual," Derren Nathan, head of equity research at
+Hargreaves Lansdown, said in an email. "If recent private jobs data is anything to go by, the risk
+here is to the downside." The crypto market has significantly underperformed equities since the
+October wipeout, in part due to a lack of liquidity that means general price movements continue to
+be exaggerated. Derivatives positioning Volmex's one-day BVIV, which measures an annualized expected
+price turbulence over 24 hours, remains locked in recent ranges above 50%. This implies a 24-hour
+move of 2.6%, which is nothing out of ordinary even as key economic data are due for release.
+Exchanges liquidated over $660 million in leveraged futures bets in 24 hours. Most of these were
+longs, clearing bullish leverage from the market. The cumulative global open interest (OI) in BTC
+futures crossed above 700K BTC, the highest since Nov. 21. An uptick in OI alongside a drop in spot
+price is said to represent an influx of bearish short positions and confirm downtrend. XRP's futures
+OI rose to 1.96B XRP, the highest since Oct. 11. The OI-adjusted cumulative volume delta for most
+major tokens fell, indicating aggressive net selling pressure. On Deribit, BTC and ETH put options
+continue to trade pricier than calls, indicating persistent downside concerns. The persistent put
+premium also stems from institutional interest in call overwriting strategies . The $85K bitcoin put
+has emerged as the second-most popular option behind the $100K call. Block flows featured BTC put
+diagonal spreads, put ration spreads and straddles. In ETH's case, traders preferred put
+butterflies. Token talk The altcoin market continues to yearn for a bullish catalyst following a
+two-month period of corrective price action. ASTER, ONDO and STRK all lost more than 10% in the past
+24 hours, underperforming the wider market. One glimmer of hope for the altcoin market is that
+several tokens are now in "oversold" territory, according the average crypto relative strength index
+(RSI) indicator. This suggests that the market may be ready for a slight bounce before the U.S.
+employment figures are released. A number of tokens including XRP, SOL and ADA are also approaching
+key levels of support that provided a series of local bottoms over the past year, so while altcoin
+sentiment is low, this could be an area that sparks investor appetite. Crypto Markets Today
+Derivatives Markets market analysis More For You Protocol Research: GoPlus Security By CoinDesk
+Research Nov 14, 2025 Commissioned by GoPlus What to know : As of October 2025, GoPlus has generated
+$4.7M in total revenue across its product lines. The GoPlus App is the primary revenue driver,
+contributing $2.5M (approx. 53%), followed by the SafeToken Protocol at $1.7M. GoPlus Intelligence's
+Token Security API averaged 717 million monthly calls year-to-date in 2025 , with a peak of nearly 1
+billion calls in February 2025. Total blockchain-level requests, including transaction simulations,
+averaged an additional 350 million per month. Since its January 2025 launch , the $GPS token has
+registered over $5B in total spot volume and $10B in derivatives volume in 2025. Monthly spot volume
+peaked in March 2025 at over $1.1B , while derivatives volume peaked the same month at over $4B.
+View Full Report More For You KindlyMD faces Nasdaq delisting risk after failing to meet minimum
+share price levels By James Van Straten , AI Boost | Edited by Sheldon Reback 1 hour ago The health-
+care and bitcoin treasury firm has six months to lift its share price above $1 for 10 consecutive
+days. What to know : The Nasdaq exchange told KindlyMD (NAKA) that it faces being delisted after its
+share price dropped below $1 for 30 consecutive business days. The health-care company that is
+building a bitcoin treasury has until June 8 to regain compliance, which requires the stock to close
+at or above $1 for at least 10 consecutive business days. The shares first fell below $1 in late
+October, and closed Monday at $0.38. Read full story Latest Crypto News KindlyMD faces Nasdaq
+delisting risk after failing to meet minimum share price levels 1 hour ago Bitcoin slump deepens as
+most of top 100 tokens fall below key trading signals 3 hours ago Axelar token falls 15% after
+Circle deal takes the developer team, leaves AXL behind 4 hours ago StraitsX to debut Singapore and
+U.S. dollar stablecoins on Solana for quick currency exchange 4 hours ago New React bug that can
+drain all your tokens is impacting 'thousands of' websites 6 hours ago Cathie Wood's Ark goes on
+buying spree as crypto stocks extend multiday sell-off 6 hours ago Top Stories Bitcoin slump deepens
+as most of top 100 tokens fall below key trading signals 3 hours ago Axelar token falls 15% after
+Circle deal takes the developer team, leaves AXL behind 4 hours ago Why bitcoin ETFs look like
+they’re falling short, even as their role grows: Asia Morning Briefing 8 hours ago Why Dogecoin’s
+drop below $0.13 is drawing institutional attention 7 hours ago Cathie Wood's Ark goes on buying
+spree as crypto stocks extend multiday sell-off 6 hours ago Bitcoin, ether and XRP extend losses as
+year-end caution builds 6 hours ago In this article BTC BTC $ 87,070.70 ◢ 2.91 %
+https://www.coindesk.com/markets/2025/12/16/crypto-markets-today-bitcoin-ether-extend-pullback-amid-thin-liquidity-macro-jitters
+
+================================================================================
+
+"Quantum Computing Unlikely to Impact Bitcoin, Crypto Prices in 2026: Grayscale"
+Mon, 15 Dec 2025 23:39:51 +0000
+
+
+Coin Prices BTC $87,042.00 -3.08% ETH $2,953.68 -6.51% BNB $864.12 -2.85% XRP $1.91 -3.87% USDC
+$1.00 0.01% SOL $128.39 -3.25% TRX $0.279346 -0.82% STETH $2,950.08 -6.54% DOGE $0.131515 -3.97%
+FIGR_HELOC $1.031 1.88% ADA $0.38712 -4.34% WBT $58.01 -3.66% WSTETH $3,605.94 -6.54% WBTC
+$86,911.00 -3.05% BCH $539.06 -4.91% WBETH $3,204.13 -6.53% USDS $0.999847 0.07% LINK $12.89 -5.56%
+BSC-USD $0.999628 -0.03% WEETH $3,198.57 -6.51% LEO $9.24 -0.31% XMR $416.43 0.30% WETH $2,951.46
+-6.53% HYPE $27.08 -7.70% XLM $0.221899 -4.48% ZEC $395.90 -3.28% USDE $0.999026 -0.04% CBBTC
+$87,005.00 -3.17% LTC $78.59 -3.04% SUI $1.49 -4.90% AVAX $12.33 -7.11% HBAR $0.115395 -2.94% USDT0
+$0.999869 0.03% SUSDS $1.079 -0.07% SHIB $0.00000796 -2.94% MNT $1.25 -2.33% PYUSD $0.999776 0.01%
+TON $1.52 -3.20% WLFI $0.133417 -4.71% CRO $0.095332 -1.93% SUSDE $1.21 -0.03% UNI $5.14 -5.20% DOT
+$1.92 -3.87% M $1.69 0.97% AAVE $187.71 -3.94% USD1 $0.999003 -0.05% CC $0.073893 3.54% RAIN
+$0.00780711 -2.81% TAO $262.92 -6.49% BGB $3.54 -0.92% OKB $107.58 -2.67% XAUT $4,277.89 -1.38% USDF
+$0.998146 -0.09% NEAR $1.54 -5.10% ETC $12.47 -5.50% ASTER $0.815816 -10.80% BUIDL $1.00 0.00%
+JITOSOL $160.32 -3.23% WETH $2,952.09 -6.57% PEPE $0.00000408 -5.80% ENA $0.220521 -7.19% ICP $3.06
+-4.11% PI $0.196218 -4.36% HASH $0.03057654 12.26% JLP $4.55 -2.28% SOL $128.30 -3.34% SYRUPUSDC
+$1.14 0.00% HTX $0.00000164 -0.78% PAXG $4,287.54 -1.52% PUMP $0.00244005 -9.15% USDG $0.999798
+0.02% USYC $1.11 0.00% KCS $10.35 -3.46% SYRUPUSDT $1.11 0.07% SKY $0.057739 1.67% WLD $0.537848
+-7.37% BFUSD $0.999275 -0.01% RLUSD $0.99941 -0.01% ONDO $0.412747 -8.57% USDC $0.999801 0.00% RETH
+$3,394.82 -6.59% BNSOL $139.50 -3.24% GT $10.20 -2.93% POL $0.1133 -5.81% APT $1.59 -3.62% WBNB
+$863.63 -2.89% KAS $0.04296678 -3.49% ARB $0.199769 -5.81% QNT $75.62 -1.94% RSETH $3,132.59 -6.35%
+TRUMP $5.25 -4.16% ALGO $0.116281 -2.94% ATOM $2.06 -3.84% FBTC $86,839.00 -3.60% LSETH $3,150.82
+-6.70% LBTC $87,168.00 -2.95% SOLVBTC $86,927.00 -3.03% FIL $1.28 -3.80% VET $0.01079015 -3.80% NEXO
+$0.925 -3.52% FLR $0.01146908 -5.17% NIGHT $0.055631 -12.12% XDC $0.04905533 4.05% USTB $10.92 0.01%
+USDTB $0.999793 -0.08% OUSG $113.64 0.02% USDD $0.999735 -0.02% WM $0.999949 -0.00% SEI $0.119172
+-3.88% JAAA $1.017 0.06% RENDER $1.41 -6.47% KHYPE $27.26 -7.59% BONK $0.00000871 -4.99% WBTC
+$86,818.00 -3.23% METH $3,198.72 -6.38% USDY $1.11 0.33% BDX $0.09112 1.37% CAKE $2.03 -6.86% CLBTC
+$86,967.00 -3.85% USDC.E $0.999802 0.00% USDAI $1.006 0.59% EZETH $3,152.79 -6.44% MYX $3.42 -1.95%
+WFLR $0.01146735 -5.23% PENGU $0.01026865 -4.66% DAI $0.999762 -0.02% JUPSOL $148.51 -3.21% JUP
+$0.192225 -1.01% WETH $2,950.94 -6.58% MORPHO $1.097 -1.76% IP $1.72 -6.54% FET $0.223626 -6.88%
+OSETH $3,103.77 -6.07% OP $0.294198 -5.38% ULTIMA $5,481.28 -9.89% USD0 $0.997035 -0.17% WETH
+$2,953.55 -6.46% TBTC $87,004.00 -2.75% CRV $0.366712 -4.07% DASH $41.69 -2.23% WETH $35,382,014.00
+0.00% FDUSD $0.9987 -0.01% LDO $0.557565 -7.46% INJ $4.98 -6.07% XTZ $0.462398 -4.58% TUSD $0.996355
+0.02% CGETH.HASHKEY $2,460.42 0.00% AERO $0.537191 -5.99% STX $0.266197 -4.99% ETHFI $0.795214
+-3.50% EUTBL $1.23 0.06% SPX $0.51586 -8.18% STRK $0.095303 -9.11% GTETH $2,954.99 -6.44% VIRTUAL
+$0.719519 -8.46% GHO $0.999653 -0.05% PIPPIN $0.458805 19.87% AB $0.00500628 -6.87% MSOL $172.79
+-3.24% ETHX $3,178.76 -6.56% TIA $0.513249 -6.76% WAPE $0.214493 -4.06% LIQUIDETH $3,127.03 -6.31%
+MERL $0.39823 -16.82% FLOKI $0.00004277 -5.68% GRT $0.03882492 -4.10% KAIA $0.070212 -6.34% USDB
+$1.009 1.33% TWT $0.9719 -2.52% STEAKUSDC $1.11 0.05% SWETH $3,237.72 -6.63% JST $0.03967336 1.92%
+TEL $0.00410346 -10.70% ENZOBTC $90,454.00 0.00% BTT $0.0000004 -2.08% SUN $0.02024892 -0.95% IOTA
+$0.092281 -1.28% SBTC $87,073.00 -3.21% 2Z $0.109469 -3.63% CBETH $3,286.08 -6.54% ENS $9.87 -7.01%
+WIF $0.375672 -5.41% CFX $0.071407 -4.67% BSV $18.35 -5.05% OHM $22.07 -0.55% BTC.B $86,925.00
+-3.19% NFT $0.00000035 -3.54% PYTH $0.059474 -5.52% EURC $1.17 0.04% BAT $0.224872 -8.14% DOGE
+$0.131205 -4.16% FARTCOIN $0.333656 -5.66% PENDLE $2.00 -6.25% THETA $0.328133 -3.77% BEAT $2.36
+-17.03% KAU $137.45 -1.44% USX $0.999189 0.02% CRVUSD $0.999888 -0.07% DCR $18.49 -4.29% SAND
+$0.121367 -5.09% EETH $2,950.74 -6.53% HNT $1.69 -7.61% CUSD $1.002 0.20% S $0.083127 -7.50% BUSD
+$0.997434 -0.01% GALA $0.00664953 -4.39% GNO $116.98 -6.70% CHZ $0.0303486 -6.62% FLOW $0.188608
+-2.17% SAVAX $15.23 -7.13% USR $0.999106 -0.11% JASMY $0.00615069 -1.70% SYRUP $0.265101 -1.29%
+WEETH $3,198.40 -6.52% VSN $0.086692 -4.91% WSTUSR $1.12 -0.14% BORG $0.295758 -1.13% ZRO $1.42
+-2.81% FRXETH $2,908.71 -6.77% UBTC $87,027.00 -3.11% CMETH $3,195.00 -6.49% FRAX $0.992694 -0.04%
+ASBNB $914.78 -2.89% WSTX $0.275046 -3.45% WETH $2,951.31 -6.57% WHYPE $27.08 -7.72% STABLE
+$0.01476997 -2.38% XPL $0.135119 -6.43% NEO $3.78 -4.41% FDIT $1.00 0.00% A $0.164133 -2.65% JTRSY
+$1.089 0.03% COMP $27.13 -5.13% GTBTC $87,144.00 -3.07% MANA $0.134459 -4.78% MWC $23.07 -8.65% RAY
+$0.954633 -6.94% APEPE $0.00000121 5.31% ZK $0.02963575 -4.15% BBTC $87,115.00 -2.52% WETH $2,949.73
+-6.54% ZBCN $0.00252426 -2.02% FF $0.10336 -3.37% AR $3.63 -2.70% WAETHUSDC $1.16 0.02% KAG $62.99
+-1.34% WSTETH $3,607.17 -6.55% USDC.N $1.003 0.15% Price data by
+https://decrypt.co/352459/quantum-computing-bitcoin-crypto-prices-2026-grayscale
 
 ================================================================================
 

@@ -23,16 +23,15 @@ def summarize_articles(topic: str, articles: List[Dict]) -> str:
     ])
     
     prompt = f"""You are a professional tech news summarizer. 
-    Read these {topic.upper()} articles and provide a concise summary.
+ Read these {topic.upper()} articles and provide a concise summary.
+Format your response as:
+**SUMMARY:**
+[3-4 sentences summarizing the main points]
 
-    Format your response as:
-    **SUMMARY:**
-    [3-4 sentences summarizing the main points]
+Articles:
+{articles_text}
 
-    Articles:
-    {articles_text}
-
-    SUMMARY:"""
+SUMMARY:"""
     
     try:
         model = genai.GenerativeModel("gemini-2.5-flash")
@@ -53,28 +52,28 @@ def generate_insights(topic: str, articles: List[Dict]) -> str:
     ])
     
     prompt = f"""You are a tech industry analyst. 
-    Analyze these {topic.upper()} articles and extract KEY INSIGHTS and emerging TRENDS.
+Analyze these {topic.upper()} articles and extract KEY INSIGHTS and emerging TRENDS.
 
-    Format your response as:
-    **KEY INSIGHTS:**
-    - [Insight 1]
-    - [Insight 2]
-    - [Insight 3]
+Format your response as:
+**KEY INSIGHTS:**
+- [Insight 1]
+- [Insight 2]
+- [Insight 3]
 
-    **EMERGING TRENDS:**
-    - [Trend 1]
-    - [Trend 2]
+**EMERGING TRENDS:**
+- [Trend 1]
+- [Trend 2]
 
-    **WHY IT MATTERS:**
-    [2-3 sentences explaining the impact]
+**WHY IT MATTERS:**
+[2-3 sentences explaining the impact]
 
-    Articles:
-    {articles_text}
+Articles:
+{articles_text}
 
-    INSIGHTS AND TRENDS:"""
+INSIGHTS AND TRENDS:"""
     
     try:
-        model = genai.GenerativeModel("gemini-2.5-flash") 
+        model = genai.GenerativeModel("gemini-2.5-flash")
         response = model.generate_content(prompt)
         return response.text
     except Exception as e:

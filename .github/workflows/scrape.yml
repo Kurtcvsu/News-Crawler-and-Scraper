@@ -21,19 +21,19 @@ jobs:
           python-version: '3.11'
       
       # Step 3: Install dependencies
-      - run: pip install -r requirements.txt
+      - run: pip install -r requirement.txt
       
       # Step 4: Run your scraper
       - name: Run scraper and summarizer
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: python main.py
+        run: python Scraper_main.py
       
       # Optional Step 5: Commit and push results (if you want to save output)
       - name: Commit results
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add output.txt 2>/dev/null || true
-          git commit -m "Daily scrape results" 2>/dev/null || true
+          git add *.txt 2>/dev/null || true
+          git commit -m "Daily scrape results $(date)" 2>/dev/null || true
           git push 2>/dev/null || true

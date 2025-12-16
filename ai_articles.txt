@@ -1,18 +1,228 @@
 === AI ===
-Title: Parents call for New York governor to sign landmark AI safety bill
-Link: https://www.theverge.com/ai-artificial-intelligence/844062/parents-call-for-new-york-governor-to-sign-landmark-ai-safety-bill
-Published: 2025-12-12T17:16:09-05:00
 
-AI Close AI Posts from this topic will be added to your daily email digest and your homepage feed. Follow Follow See All AI Policy Close Policy Posts from this topic will be added to your daily email digest and your homepage feed. Follow Follow See All Policy Parents call for New York governor to sign landmark AI safety bill They called it “minimalist guardrails” that should set a standard. They called it “minimalist guardrails” that should set a standard. by Hayden Field Close Hayden Field Senior AI Reporter Posts from this author will be added to your daily email digest and your homepage feed. Follow Follow See All by Hayden Field Dec 12, 2025, 10:16 PM UTC Link Share Image: Cath Virginia / The Verge, Getty Images Hayden Field Close Hayden Field Posts from this author will be added to your daily email digest and your homepage feed. Follow Follow See All by Hayden Field is The Verge’s senior AI reporter. An AI beat reporter for more than five years, her work has also appeared in CNBC, MIT Technology Review, Wired UK, and other outlets. A group of more than 150 parents sent a letter on Friday to New York governor Kathy Hochul, urging her to sign the Responsible AI Safety and Education (RAISE) Act without changes. The RAISE Act is a buzzy bill that would require developers of large AI models — like Meta, OpenAI, Deepseek, and Google — to create safety plans and follow transparency rules about reporting safety incidents. The bill passed in both the New York State Senate and the Assembly in June. But this week, Hochul reportedly proposed a near-total rewrite of the RAISE Act that would make it more favorable to tech companies, akin to some of the changes made to California’s SB 53 after large AI companies weighed in on it. Many AI companies, unsurprisingly, are squarely against the legislation. The AI Alliance, which counts Meta, IBM, Intel, Oracle, Snowflake, Uber, AMD, Databricks, and Hugging Face among its members, sent a letter in June to New York lawmakers detailing their “deep concern” about the RAISE Act, calling it “unworkable.” And Leading the Future, the pro-AI super PAC backed by Perplexity AI, Andreessen Horowitz (a16z), OpenAI president Greg Brockman, and Palantir co-founder Joe Lonsdale, has been targeting New York State Assemblymember Alex Bores, who co-sponsored the RAISE Act, with recent ads. Two organizations, ParentsTogether Action and the Tech Oversight Project, put together Friday’s letter to Hochul , which states that some of the signees had “lost children to the harms of AI chatbots and social media.” The signatories called the RAISE Act as it stands now “minimalist guardrails” that should be made law. They also highlighted that the bill, as passed by the New York State Legislature, “does not regulate all AI developers – only the very largest companies, the ones spending hundreds of millions of dollars a year.” They would be required to disclose large-scale safety incidents to the attorney general and publish safety plans. The developers would also be prohibited from releasing a frontier model “if doing so would create an unreasonable risk of critical harm,” which is defined as the death or serious injury of 100 people or more, or $1 billion or more in damages to rights in money or property stemming from the creation of a chemical, biological, radiological, or nuclear weapon; or an AI model that “acts with no meaningful human intervention” and “would, if committed by a human,” fall under certain crimes. “Big Tech’s deep-pocketed opposition to these basic protections looks familiar because we have seen this pattern of avoidance and evasion before,” the letter states. “Widespread damage to young people — including to their mental health, emotional stability, and ability to function in school — has been widely documented ever since the biggest technology companies decided to push algorithmic social media platforms without transparency, oversight, or responsibility.” Follow topics and authors from this story to see more like this in your personalized homepage feed and to receive email updates. Hayden Field Close Hayden Field Senior AI Reporter Posts from this author will be added to your daily email digest and your homepage feed. Follow Follow See All by Hayden Field AI Close AI Posts from this topic will be added to your daily email digest and your homepage feed. Follow Follow See All AI Policy Close Policy Posts from this topic will be added to your daily email digest and your homepage feed. Follow Follow See All Policy Most Popular Most Popular Does the Trump phone exist yet? iOS 26.2 is here with Liquid Glass, AirDrop, and Apple Music updates Google is building an experimental new browser and a new kind of web app ChatGPT’s ‘adult mode’ is expected to debut in Q1 2026 The TCL QM9K is an excellent flagship TV, but I’m not sure who it’s for The Verge Daily A free daily digest of the news that matters most. Email (required) Sign Up By submitting your email, you agree to our Terms and Privacy Notice . This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. Advertiser Content From This is the title for the native ad
+"OpenAI-backed biotech firm Chai Discovery raises $130M Series B at $1.3B valuation"
+Mon, 15 Dec 2025 23:41:26 +0000
+
+
+In Brief Posted: 3:41 PM PST · December 15, 2025 Image Credits: Andrew Brookes / Getty Images Lucas
+Ropek OpenAI-backed biotech firm Chai Discovery raises $130M Series B at $1.3B valuation Chai
+Discovery , a biotech startup with backing from OpenAI, announced a $130 million Series B round at a
+$1.3 billion valuation on Monday. The round was led by General Catalyst and Oak HC/FT, the company
+said. Other participants include Menlo Ventures, OpenAI, Dimension, Thrive Capital, Neo, Yosemite
+venture fund, Lachy Groom, SV Angel, and new investors Glade Brook and Emerson Collective. The
+firm’s total funding now stands at over $225 million. The company is one in a growing industry that
+sees AI as a faster route toward drug development. In August, Menlo Ventures announced it was
+leading Chai’s $70 million Series A round. The investor described Chai as a startup that was
+building foundation models tuned for drug discovery, specifically to predict interactions between
+biochemical molecules so they could be reprogramed for cures. Chai says that its ambition is to
+“build the ‘computer-aided design suite’ for molecules.” Last year, the startup announced the Chai 1
+AI model and is now offering Chai 2, it’s latest model. The company says Chai 2 is achieving
+significant improvements in success rates over other methods for de novo antibody design, meaning
+building custom antibodies from scratch, not modifying existing ones. “Our latest models can design
+molecules that have properties we’d want from actual drugs, and tackle challenging targets that have
+been out of reach,” Josh Meier, Chai’s co-founder and CEO said in a prepared statement. Previously,
+Meier, whose background is in machine learning, worked in research and engineering at Facebook and,
+prior to that, worked for OpenAI, according to his LinkedIn . Chai Discovery was founded in 2024,
+the profile notes. Techcrunch event Join the Disrupt 2026 Waitlist Add yourself to the Disrupt 2026
+waitlist to be first in line when Early Bird tickets drop. Past Disrupts have brought Google Cloud,
+Netflix, Microsoft, Box, Phia, a16z, ElevenLabs, Wayve, Hugging Face, Elad Gil, and Vinod Khosla to
+the stages — part of 250+ industry leaders driving 200+ sessions built to fuel your growth and
+sharpen your edge. Plus, meet the hundreds of startups innovating across every sector. Join the
+Disrupt 2026 Waitlist Add yourself to the Disrupt 2026 waitlist to be first in line when Early Bird
+tickets drop. Past Disrupts have brought Google Cloud, Netflix, Microsoft, Box, Phia, a16z,
+ElevenLabs, Wayve, Hugging Face, Elad Gil, and Vinod Khosla to the stages — part of 250+ industry
+leaders driving 200+ sessions built to fuel your growth and sharpen your edge. Plus, meet the
+hundreds of startups innovating across every sector. San Francisco | October 13-15, 2026 W AITLIST
+NOW Topics AI , artificial intelligence , Biotech & Health , Chai Discovery , In Brief , OpenAI ,
+venture capital Dates TBD Locations TBA Plan ahead for the 2026 StrictlyVC events. Hear straight-
+from-the-source candid insights in on-stage fireside sessions and meet the builders and backers
+shaping the industry. Join the waitlist to get first access to the lowest-priced tickets and
+important updates. Waitlist Now Newsletters See More Subscribe for the industry’s biggest tech news
+TechCrunch Daily News Every weekday and Sunday, you can get the best of TechCrunch’s coverage.
+TechCrunch Mobility TechCrunch Mobility is your destination for transportation news and insight.
+Startups Weekly Startups are the core of TechCrunch, so get our best coverage delivered weekly.
+StrictlyVC Provides movers and shakers with the info they need to start their day. No newsletters
+selected. Subscribe By submitting your email, you agree to our Terms and Privacy Notice . Related AI
+Nvidia bulks up open source offerings with an acquisition and new open AI models Rebecca Szkutak 13
+hours ago AI Merriam-Webster names ‘slop’ the word of the year Lucas Ropek 16 hours ago Latest in AI
+AI VCs discuss why most consumer AI startups still lack staying power Marina Temkin 11 hours ago In
+Brief OpenAI-backed biotech firm Chai Discovery raises $130M Series B at $1.3B valuation Lucas Ropek
+12 hours ago In Brief Disney’s OpenAI deal is exclusive for just one year — then it’s open season
+Aisha Malik 13 hours ago
+https://techcrunch.com/2025/12/15/openai-backed-biotech-firm-chai-discovery-raises-130m-series-b-at-1-3b-valuation/
 
 ================================================================================
 
-=== AI ===
-Title: AI in 2026: Experimental AI concludes as autonomous systems rise
-Link: https://www.artificialintelligence-news.com/news/ai-in-2026-experimental-ai-concludes-autonomous-systems-rise/
-Published: Fri, 12 Dec 2025 16:59:18 +0000
+"Nvidia bulks up open source offerings with an acquisition and new open AI models"
+Mon, 15 Dec 2025 22:00:57 +0000
 
-Skip to content AI News is part of the TechForge Publications series Explore All Developer IoT News MarketingTech CloudTech Telecoms TechHQ TechWire Asia Explore All Developer IoT News MarketingTech CloudTech Telecoms TechHQ TechWire Asia TechForge News Categories AI and Us Environment & Sustainability Human-AI Relationships Open-Source & Democratised AI Trust, Bias & Fairness World of Work AI in Action Creative Industries Cybersecurity AI Education AI Entertainment & Media Finance AI Government & Public Sector AI Healthcare & Wellness AI Legal Industry AI Manufacturing & Engineering AI Marketing AI Utilities Workforce & HR AI Retail & Logistics AI Service Industry AI How It Works Computer Vision Data Engineering & MLOps Infrastructure & Hardware Multimodal AI Natural Language Processing (NLP) Reinforcement Learning Inside AI AI Business Strategy AI Hardware & Chips AI Market Trends AI Mergers & Acquisitions AI Startups & Funding Founders & Visionaries Governance, Regulation & Policy Features Deep Dives Interviews Opinion Special Reports & Series Sponsored Content TechEx Events All Categories Events Resources All Resources On Demand Webinars Exclusive Videos More About AI News Advertise Contact Us News Categories AI and Us Environment & Sustainability Human-AI Relationships Open-Source & Democratised AI Trust, Bias & Fairness World of Work AI in Action Creative Industries Cybersecurity AI Education AI Entertainment & Media Finance AI Government & Public Sector AI Healthcare & Wellness AI Legal Industry AI Manufacturing & Engineering AI Marketing AI Utilities Workforce & HR AI Retail & Logistics AI Service Industry AI How It Works Computer Vision Data Engineering & MLOps Infrastructure & Hardware Multimodal AI Natural Language Processing (NLP) Reinforcement Learning Inside AI AI Business Strategy AI Hardware & Chips AI Market Trends AI Mergers & Acquisitions AI Startups & Funding Founders & Visionaries Governance, Regulation & Policy Features Deep Dives Interviews Opinion Special Reports & Series Sponsored Content TechEx Events All Categories Events Resources All Resources On Demand Webinars Exclusive Videos More About AI News Advertise Contact Us Search Subscribe Subscribe News Categories AI and Us Environment & Sustainability Human-AI Relationships Open-Source & Democratised AI Trust, Bias & Fairness World of Work AI in Action Creative Industries Cybersecurity AI Education AI Entertainment & Media Finance AI Government & Public Sector AI Healthcare & Wellness AI Legal Industry AI Manufacturing & Engineering AI Marketing AI Utilities Workforce & HR AI Retail & Logistics AI Service Industry AI How It Works Computer Vision Data Engineering & MLOps Infrastructure & Hardware Multimodal AI Natural Language Processing (NLP) Reinforcement Learning Inside AI AI Business Strategy AI Hardware & Chips AI Market Trends AI Mergers & Acquisitions AI Startups & Funding Founders & Visionaries Governance, Regulation & Policy Features Deep Dives Interviews Opinion Special Reports & Series Sponsored Content TechEx Events All Categories Events Resources All Resources On Demand Webinars Exclusive Videos More About AI News Advertise Contact Us Hamburger Toggle Menu Features AI in 2026: Experimental AI concludes as autonomous systems rise Ryan Daws December 12, 2025 Share this story: Tags: agents ai enterprise governance sovereignty strategy work Categories: AI and Us AI Business Strategy Features Governance, Regulation & Policy Human-AI Relationships Inside AI Interviews Open-Source & Democratised AI Opinion Trust, Bias & Fairness World of Work Generative AI’s experimental phase is concluding, making way for truly autonomous systems in 2026 that act rather than merely summarise. 2026 will lose the focus on model parameters and be about agency, energy efficiency, and the ability to navigate complex industrial environments. The next twelve months represent a departure from chatbots toward autonomous systems executing workflows with minimal oversight; forcing organisations to rethink infrastructure, governance, and talent management. Autonomous AI systems take the wheel Hanen Garcia, Chief Architect for Telecommunications at Red Hat , argues that while 2025 was defined by experimentation, the coming year marks a “decisive pivot towards agentic AI, autonomous software entities capable of reasoning, planning, and executing complex workflows without constant human intervention.” Telecoms and heavy industry are the proving grounds. Garcia points to a trajectory toward autonomous network operations (ANO), moving beyond simple automation to self-configuring and self-healing systems. The business goal is to reverse commoditisation by “prioritising intelligence over pure infrastructure” and reduce operating expenditures. Technologically, service providers are deploying multiagent systems (MAS). Rather than relying on a single model, these allow distinct agents to collaborate on multi-step tasks, handling complex interactions autonomously. However, increased autonomy introduces new threats. Emmet King, Founding Partner of J12 Ventures , warns that “as AI agents gain the ability to autonomously execute tasks, hidden instructions embedded in images and workflows become potential attack vectors.” Security priorities must therefore shift from endpoint protection to “governing and auditing autonomous AI actions.” As organisations scale these autonomous AI workloads, they hit a physical wall: power. King argues energy availability, rather than model access, will determine which startups scale. “Compute scarcity is now a function of grid capacity,” King states, suggesting energy policy will become the de facto AI policy in Europe. KPIs must adapt. Sergio Gago, CTO at Cloudera , predicts enterprises will prioritise energy efficiency as a primary metric. “The new competitive edge won’t come from the largest models, but from the most intelligent, efficient use of resources.” Horizontal copilots lacking domain expertise or proprietary data will fail ROI tests as buyers measure real productivity. The “clearest enterprise ROI” will emerge from manufacturing , logistics, and advanced engineering—sectors where AI integrates into high-value workflows rather than consumer-facing interfaces. AI ends the static app in 2026 Software consumption is changing too. Chris Royles, Field CTO for EMEA at Cloudera , suggests the traditional concept of an “app” is becoming fluid. “In 2026, AI will start to radically change the way we think about apps, how they function and how they’re built.” Users will soon request temporary modules generated by code and a prompt, effectively replacing dedicated applications. “Once that function has served its purpose, it closes,” Royles explains, noting these “disposable” apps can be built and rebuilt in seconds. Rigorous governance is required here; organisations need visibility into the reasoning processes used to create these modules to ensure errors are corrected safely. Data storage faces a similar reckoning, especially as AI becomes more autonomous. Wim Stoop, Director of Product Marketing at Cloudera , believes the era of “digital hoarding” is ending as storage capacity hits its limit. “AI-generated data will become disposable, created and refreshed on demand rather than stored indefinitely,” Stoop predicts. Verified, human-generated data will rise in value while synthetic content is discarded. Specialist AI governance agents will pick up the slack. These “digital colleagues” will continuously monitor and secure data, allowing humans to “govern the governance” rather than enforcing individual rules. For example, a security agent could automatically adjust access permissions as new data enters the environment without human intervention. Sovereignty and the human element Sovereignty remains a pressing concern for European IT. Red Hat’s survey data indicates 92 percent of IT and AI leaders in EMEA view enterprise open-source software as vital for achieving sovereignty. Providers will leverage existing data centre footprints to offer sovereign AI solutions, ensuring data remains within specific jurisdictions to meet compliance demands. Emmet King, Founding Partner of J12 Ventures, adds that competitive advantage is moving from owning models to “controlling training pipelines and energy supply,” with open-source advancements allowing more actors to run frontier-scale workloads. Workforce integration is becoming personal. Nick Blasi, Co-Founder of Personos , argues tools ignoring human nuance – tone, temperament, and personality – will soon feel obsolete. By 2026, Blasi predicts “half of workplace conflict will be flagged by AI before managers know it exists.” These systems will focus on “communication, influence, trust, motivation, and conflict resolution,” Blasi suggests, adding that personality science will become the “operating system” for the next generation of autonomous AI, offering grounded understanding of human individuality rather than generic recommendations. The era of the “thin wrapper” is over. Buyers are now measuring real productivity, exposing tools built on hype rather than proprietary data. For the enterprise, competitive advantage will no longer come from renting access to a model, but from controlling the training pipelines and energy supply that power it. See also: BBVA embeds AI into banking workflows using ChatGPT Enterprise Want to learn more about AI and big data from industry leaders? Check out AI & Big Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of TechEx and is co-located with other leading technology events. Click here for more information. AI News is powered by TechForge Media . Explore other upcoming enterprise technology events and webinars here . About the Author Ryan Daws Senior Editor Ryan Daws is a senior editor at TechForge Media with over a decade of experience in weaving narratives and dissecting complex topics. His articles and interviews with industry leaders have earned him recognition as a key tech influencer from numerous organisations. Under his leadership, publications have been praised by analyst firms for their excellence and performance. Connect with him on X, Mastodon , Bluesky , Threads , and/or LinkedIn . Related BBVA embeds AI into
+
+Nvidia continues to expand its footprint in open source AI on two fronts: an acquisition and a new
+model release. The semiconductor giant announced Monday it acquired SchedMD, the leading developer
+of popular open source workload management system Slurm . Nvidia said the company will continue to
+operate the program, which is designed for high-performance computing and AI, as an open source,
+vendor-neutral software. Slurm was originally launched in 2002 and SchedMD was founded in 2010 by
+the lead Slurm developers Morris Jette and Danny Auble. Auble is the current CEO of SchedMD. Terms
+of the deal weren’t disclosed. Nvidia declined to comment on the news beyond the company’s blog post
+. Nvidia has been working with SchedMD for more than a decade and said in its blog post the
+technology is critical infrastructure for generative AI. The company plans to keep investing in the
+technology and “accelerate” its access to different systems. The semiconductor company also released
+a new family of open AI models on Monday. The company claimed this group of models, called Nvidia
+Nemotron 3 , is the most “efficient family of open models” for building accurate AI agents. This
+model family includes the Nemotron 3 Nano, a small model for targeted tasks, the Nemotron 3 Super, a
+model built for multi-AI agent applications, and Nemotron 3 Ultra, built for more complicated tasks.
+Techcrunch event Join the Disrupt 2026 Waitlist Add yourself to the Disrupt 2026 waitlist to be
+first in line when Early Bird tickets drop. Past Disrupts have brought Google Cloud, Netflix,
+Microsoft, Box, Phia, a16z, ElevenLabs, Wayve, Hugging Face, Elad Gil, and Vinod Khosla to the
+stages — part of 250+ industry leaders driving 200+ sessions built to fuel your growth and sharpen
+your edge. Plus, meet the hundreds of startups innovating across every sector. Join the Disrupt 2026
+Waitlist Add yourself to the Disrupt 2026 waitlist to be first in line when Early Bird tickets drop.
+Past Disrupts have brought Google Cloud, Netflix, Microsoft, Box, Phia, a16z, ElevenLabs, Wayve,
+Hugging Face, Elad Gil, and Vinod Khosla to the stages — part of 250+ industry leaders driving 200+
+sessions built to fuel your growth and sharpen your edge. Plus, meet the hundreds of startups
+innovating across every sector. San Francisco | October 13-15, 2026 W AITLIST NOW “Open innovation
+is the foundation of AI progress,” Jensen Huang, founder and CEO of Nvidia, wrote in the company’s
+press release. “With Nemotron, we’re transforming advanced AI into an open platform that gives
+developers the transparency and efficiency they need to build agentic systems at scale.” In recent
+months, Nvidia has pushed to bolster its open source and open AI offerings. Last week, the company
+announced a new open reasoning vision language model, Alpamayo-R1 , which is focused on autonomous
+driving research. The company also said at the time it added more workflows and guides covering its
+Cosmos world models, which are open source under a permissive license, to help developers better use
+the models to develop physical AI. The activity is reflective of Nvidia’s bet that physical AI will
+be the next frontier for its GPUs. Nvidia wants to be the go-to supplier for the many robotics — or
+self-driving vehicle — companies looking for the AI and software to develop the brains behind the
+technology. Topics AI , ai models , artificial intelligence , Enterprise , nvidia , open source ,
+open source ai , physical ai , Robotics , SchedMD , Slurm , TC , United States Rebecca Szkutak
+Senior Reporter, Venture Becca is a senior writer at TechCrunch that covers venture capital trends
+and startups. She previously covered the same beat for Forbes and the Venture Capital Journal. You
+can contact or verify outreach from Becca by emailing rebecca.szkutak@techcrunch.com . View Bio
+Dates TBD Locations TBA Plan ahead for the 2026 StrictlyVC events. Hear straight-from-the-source
+candid insights in on-stage fireside sessions and meet the builders and backers shaping the
+industry. Join the waitlist to get first access to the lowest-priced tickets and important updates.
+Waitlist Now Most Popular DoorDash driver faces felony charges after allegedly spraying customers’
+food Anthony Ha With iOS 26.2, Apple lets you roll back Liquid Glass again — this time on the Lock
+Screen Sarah Perez Google launched its deepest AI research agent yet — on the same day OpenAI
+dropped GPT-5.2 Julie Bort Disney hits Google with cease-and-desist claiming ‘massive’ copyright
+infringement Aisha Malik OpenAI fires back at Google with GPT-5.2 after ‘code red’ memo Rebecca
+Bellan Google debuts ‘Disco,’ a Gemini-powered tool for making web apps from browser tabs Sarah
+Perez Marco Rubio bans Calibri font at State Department for being too DEI Julie Bort
+https://techcrunch.com/2025/12/15/nvidia-bulks-up-open-source-offerings-with-an-acquisition-and-new-open-ai-models/
+
+================================================================================
+
+"JPMorgan Chase AI strategy: US$18B bet paying off"
+Tue, 16 Dec 2025 11:00:00 +0000
+
+
+Skip to content AI News is part of the TechForge Publications series Explore All Developer IoT News
+MarketingTech CloudTech Telecoms TechHQ TechWire Asia Explore All Developer IoT News MarketingTech
+CloudTech Telecoms TechHQ TechWire Asia TechForge News Categories AI and Us Environment &
+Sustainability Human-AI Relationships Open-Source & Democratised AI Trust, Bias & Fairness World of
+Work AI in Action Creative Industries Cybersecurity AI Education AI Entertainment & Media Finance AI
+Government & Public Sector AI Healthcare & Wellness AI Legal Industry AI Manufacturing & Engineering
+AI Marketing AI Utilities Workforce & HR AI Retail & Logistics AI Service Industry AI How It Works
+Computer Vision Data Engineering & MLOps Infrastructure & Hardware Multimodal AI Natural Language
+Processing (NLP) Reinforcement Learning Inside AI AI Business Strategy AI Hardware & Chips AI Market
+Trends AI Mergers & Acquisitions AI Startups & Funding Founders & Visionaries Governance, Regulation
+& Policy Features Deep Dives Interviews Opinion Special Reports & Series Sponsored Content TechEx
+Events All Categories Events Resources All Resources On Demand Webinars Exclusive Videos More About
+AI News Advertise Contact Us News Categories AI and Us Environment & Sustainability Human-AI
+Relationships Open-Source & Democratised AI Trust, Bias & Fairness World of Work AI in Action
+Creative Industries Cybersecurity AI Education AI Entertainment & Media Finance AI Government &
+Public Sector AI Healthcare & Wellness AI Legal Industry AI Manufacturing & Engineering AI Marketing
+AI Utilities Workforce & HR AI Retail & Logistics AI Service Industry AI How It Works Computer
+Vision Data Engineering & MLOps Infrastructure & Hardware Multimodal AI Natural Language Processing
+(NLP) Reinforcement Learning Inside AI AI Business Strategy AI Hardware & Chips AI Market Trends AI
+Mergers & Acquisitions AI Startups & Funding Founders & Visionaries Governance, Regulation & Policy
+Features Deep Dives Interviews Opinion Special Reports & Series Sponsored Content TechEx Events All
+Categories Events Resources All Resources On Demand Webinars Exclusive Videos More About AI News
+Advertise Contact Us Search Subscribe Subscribe News Categories AI and Us Environment &
+Sustainability Human-AI Relationships Open-Source & Democratised AI Trust, Bias & Fairness World of
+Work AI in Action Creative Industries Cybersecurity AI Education AI Entertainment & Media Finance AI
+Government & Public Sector AI Healthcare & Wellness AI Legal Industry AI Manufacturing & Engineering
+AI Marketing AI Utilities Workforce & HR AI Retail & Logistics AI Service Industry AI How It Works
+Computer Vision Data Engineering & MLOps Infrastructure & Hardware Multimodal AI Natural Language
+Processing (NLP) Reinforcement Learning Inside AI AI Business Strategy AI Hardware & Chips AI Market
+Trends AI Mergers & Acquisitions AI Startups & Funding Founders & Visionaries Governance, Regulation
+& Policy Features Deep Dives Interviews Opinion Special Reports & Series Sponsored Content TechEx
+Events All Categories Events Resources All Resources On Demand Webinars Exclusive Videos More About
+AI News Advertise Contact Us Hamburger Toggle Menu AI and Us JPMorgan Chase AI strategy: US$18B bet
+paying off Dashveenjit Kaur December 16, 2025 Share this story: Tags: ai artificial intelligence
+Categories: AI and Us AI in Action Deep Dives Features Finance AI World of Work JPMorgan Chase’s AI
+strategy is delivering measurable returns – but at a human cost. The bank isn’t hiding the fact.
+With 200,000 employees now using its proprietary LLM Suite platform daily and AI benefits growing
+30-40% annually, America’s largest bank is executing what Chief Analytics Officer Derek Waldron
+calls a plan to create the world’s first “ fully AI-connected enterprise .” What infrastructure
+backs this transformation? A US$18 billion annual technology budget, 450+ AI use cases in
+production, and a platform that won American Banker’s 2025 Innovation of the Year Grand Prize. But
+JPMorgan’s candour about workforce displacement – operations staff projected to fall at least 10% –
+reveals the complexity of enterprise AI beyond the promotional headlines. LLM suite: From zero to
+200,000 users in eight months Released in summer 2024, LLM Suite reached 200,000 users in eight
+months through an opt-in strategy that created what Waldron describes as “healthy competition,
+driving viral adoption. This isn’t just a chatbot : LLM Suite functions as a “full ecosystem”
+connecting AI to firm-wide data, applications, and workflows. The model-agnostic architecture
+integrates OpenAI and Anthropic models, with updates every eight weeks. Investment bankers create
+five-page decks in 30 seconds – work that previously took junior analysts hours. Lawyers scan and
+generate contracts. Credit professionals extract covenant information instantly. Call centre tool
+EVEE Intelligent Q&A improved resolution times through context-aware responses. “A little under half
+of JPMorgan employees use gen AI tools every single day,” Waldron told McKinsey in October 2025.
+“People use it in tens of thousands of ways specific to their jobs.” JPMorgan Chase AI strategy
+delivers 30-40% annual ROI growth JPMorgan tracks ROI at the individual initiative level – not
+platform-wide vanity metrics. Since inception, AI-attributed benefits have grown 30-40% year-over-
+year. The strategy combines top-down focus on transformative domains (credit, fraud, marketing,
+operations) with bottom-up democratisation, letting employees innovate in job families. McKinsey’s
+Kevin Buehler estimates US$700 billion in potential banking cost savings industry-wide. But much
+will be “competed away” to customers. Industry return on tangible equity could drop one to two
+points, while AI pioneers could see four-point increases versus slow movers. Waldron acknowledges
+productivity gains don’t automatically translate to cost reductions. “An hour saved here and three
+hours there may increase individual productivity, but in end-to-end processes these snips often just
+shift bottlenecks.” Operations staff to fall 10% as AI agents take complex tasks JPMorgan’s consumer
+banking chief announced operations staff would decline at least 10% as the bank deploys “agentic AI”
+– autonomous systems handling multi-step tasks. The bank is building AI agents that execute
+cascading actions independently. Waldron demonstrated to CNBC how the system creates investment
+banking presentations in 30 seconds and drafts confidential M&A memos. AI favours client-facing
+roles – private bankers, traders, investment bankers. At risk: operations staff handling account
+setup, fraud detection, and trade settlement. New job categories are emerging: “context engineers”
+ensuring AI systems have proper information, knowledge management specialists, and up-skilled
+software engineers building agentic systems. Stanford researchers analysing ADP data found early-
+career workers (ages 22-25) in AI-exposed occupations saw 6% employment decline from late 2022 to
+July 2025. Shadow IT, trust, and the “value gap” problem JPMorgan’s transparency extends to
+acknowledging significant execution risks. Without enterprise-grade tools, employees might use
+consumer-grade AI – exposing sensitive data. JPMorgan built an in-house system for security and
+control. When AI performs correctly 85-95% of the time, human reviewers may stop checking carefully.
+The error rate compounds at scale. “When an agentic system does a cascading series of analyses
+independently for a long time, it raises questions about how humans can trust that,” Waldron told
+McKinsey. Many enterprises face “proof-of-concept hell” – numerous pilots that never reach
+production because they underestimate integration complexity. “There is a value gap between what the
+technology is capable of and the ability to fully capture that in an enterprise,” Waldron told CNBC
+. Even with US$18 billion, full realisation takes years. The JPMorgan playbook: What enterprises can
+learn JPMorgan’s approach offers replicable principles despite scale advantages. Democratise access
+but mandate nothing – the opt-in strategy created viral adoption. Build for security first,
+particularly in regulated industries. Implement model-agnostic architecture to avoid vendor lock-in.
+Combine top-down transformation with bottom-up innovation. Segment training by audience. Track ROI
+with discipline at the initiative level. Acknowledge complexity and plan accordingly – JPMorgan took
+over two years to build the LLM Suite. Not every enterprise has US$18 billion for technology or
+200,000 employees. But core principles – democratisation, security-first architecture, avoiding
+vendor lock-in, and financial discipline – apply in industries and scale. Transformation with eyes
+wide open JPMorgan Chase’s AI strategy represents enterprise AI’s most transparent case study –
+complete with industry-leading adoption metrics, measurable ROI growth, and unflinching
+acknowledgement of workforce displacement. The bank’s success factors are clear: massive capital
+investment, model-agnostic infrastructure, democratised access paired with financial discipline, and
+realistic timelines. But Waldron’s candour about trust challenges, the “value gap” between
+capability and execution, and the multi-year journey ahead suggest that even US$18 billion and
+200,000 engaged employees don’t guarantee seamless transformation. For enterprises evaluating their
+AI strategies, JPMorgan’s lesson isn’t that scale solves everything – it’s that honest assessment of
+both opportunities and execution risks separates genuine transformation from expensive
+experimentation. The question isn’t whether JPMorgan’s AI strategy is working. It’s whether the 10%
+workforce reduction and years-long complexity represent acceptable trade-offs for 30-40% annual
+benefit growth – and how many other enterprises can afford to find out. Editor’s note: The analysis
+draws from McKinsey’s October 2025 interview with Derek Waldron and Kevin Buehler, CNBC’s September
+2025 exclusive demonstration of LLM Suite, American Banker’s June 2025 Innovation of the Year
+coverage, and Stanford University research on AI employment effects. See also: Walmart and Amazon
+drive retail transformation with AI Want to learn more about AI and big data from industry leaders?
+Check out AI & Big Data Expo taking place in Amsterdam, California, and London. This comprehensive
+event is part of TechEx
+https://www.artificialintelligence-news.com/news/jpmorgan-chase-ai-strategy-2025/
 
 ================================================================================
 
