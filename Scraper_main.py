@@ -1,5 +1,6 @@
 import json
 from scraper import fetch_rss_items, enrich_articles
+from summarizer import generate_separate_summaries
 import textwrap
 
 def main():
@@ -25,7 +26,7 @@ def main():
             articles_by_topic[topic] = []
         articles_by_topic[topic].append(article)
 
-    # Open one file per topic
+    # Open one file per topic for raw articles
     topic_files = {
         "ai": open("ai_articles.txt", "w", encoding="utf-8"),
         "cybersecurity": open("cybersecurity_articles.txt", "w", encoding="utf-8"),
@@ -56,6 +57,24 @@ def main():
         # Make sure files are closed even if something crashes
         for f in topic_files.values():
             f.close()
+    
+    # Load custom prompts and generate summaries
+    print("Loading custom prompts...")
+    try:
+        with open("prompts_config.json", "r", encoding="utf-8") as f:
+            prompts_config = json.load(f)
+        custom_prompts = {topic: config["prompt"] for topic, config in prompts_config.items()}
+    except FileNotFoundError:
+        print("prompts_config.json not found, using default prompts")
+        custom_prompts = {}
+    
+    # Generate AI summaries for each topic
+    print("Generating AI summaries with Gemini...")
+    summaries = generate_separate_summaries(articles_by_topic, custom_prompts)
+    
+    print("✅ All files generated successfully!")
+    print(f"📁 Raw articles: ai_articles.txt, cybersecurity_articles.txt, web3_articles.txt")
+    print(f"🤖 AI summaries: {', '.join([f'{topic}_summary.txt' for topic in summaries.keys()])}")
 
 
 if __name__ == "__main__":

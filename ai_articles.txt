@@ -30,12 +30,12 @@ TechCrunch Mobility is your destination for transportation news and insight. Sta
 Startups are the core of TechCrunch, so get our best coverage delivered weekly. StrictlyVC Provides
 movers and shakers with the info they need to start their day. No newsletters selected. Subscribe By
 submitting your email, you agree to our Terms and Privacy Notice . Related Government & Policy Why
-British politicians are flocking to American tech giants Anna Heim 14 hours ago Apps ChatGPT’s
-mobile app hits new milestone of $3B in consumer spending Sarah Perez 14 hours ago AI Google’s vibe-
+British politicians are flocking to American tech giants Anna Heim 15 hours ago Apps ChatGPT’s
+mobile app hits new milestone of $3B in consumer spending Sarah Perez 15 hours ago AI Google’s vibe-
 coding tool Opal comes to Gemini Sarah Perez 2 days ago Latest in AI In Brief ChatGPT launches an
-app store, lets developers know it’s open for business Lucas Ropek 14 hours ago In Brief Pickle
-Robot adds Tesla veteran as first CFO Rebecca Szkutak 14 hours ago Government & Policy Why British
-politicians are flocking to American tech giants Anna Heim 14 hours ago
+app store, lets developers know it’s open for business Lucas Ropek 15 hours ago In Brief Pickle
+Robot adds Tesla veteran as first CFO Rebecca Szkutak 15 hours ago Government & Policy Why British
+politicians are flocking to American tech giants Anna Heim 15 hours ago
 https://techcrunch.com/2025/12/18/chatgpt-launches-an-app-store-lets-developers-know-its-open-for-business/
 
 ================================================================================
@@ -86,6 +86,124 @@ iRobot lost its way home Connie Loizos DoorDash driver faces felony charges afte
 customers’ food Anthony Ha With iOS 26.2, Apple lets you roll back Liquid Glass again — this time on
 the Lock Screen Sarah Perez
 https://techcrunch.com/2025/12/18/chatgpts-mobile-app-hits-new-milestone-of-3b-in-consumer-spending/
+
+================================================================================
+
+"OpenAI and Anthropic will start predicting when users are underage"
+2025-12-18T16:55:59-05:00
+
+
+News Close News Posts from this topic will be added to your daily email digest and your homepage
+feed. Follow Follow See All News AI Close AI Posts from this topic will be added to your daily email
+digest and your homepage feed. Follow Follow See All AI Policy Close Policy Posts from this topic
+will be added to your daily email digest and your homepage feed. Follow Follow See All Policy OpenAI
+and Anthropic will start predicting when users are underage OpenAI is also updating ChatGPT’s
+guidelines on how to talk to teens. OpenAI is also updating ChatGPT’s guidelines on how to talk to
+teens. by Emma Roth Close Emma Roth News Writer Posts from this author will be added to your daily
+email digest and your homepage feed. Follow Follow See All by Emma Roth Dec 18, 2025, 9:55 PM UTC
+Link Share Illustration by Cath Virginia / The Verge | Photos by Getty Images Emma Roth Close Emma
+Roth Posts from this author will be added to your daily email digest and your homepage feed. Follow
+Follow See All by Emma Roth is a news writer who covers the streaming wars, consumer tech, crypto,
+social media, and much more. Previously, she was a writer and editor at MUO. OpenAI and Anthropic
+are rolling out new ways to detect underage users. As OpenAI has updated its guidelines on how
+ChatGPT should interact with users between the ages of 13 and 17, Anthropic is working on a new way
+to identify and boot users who are under 18. On Thursday, OpenAI announced that ChatGPT’s Model Spec
+— the guidelines for how its chatbot should behave — will include four new principles for users
+under 18. Now, it aims to have ChatGPT “put teen safety first, even when it may conflict with other
+goals.” That means guiding teens toward safer options when other user interests, like “maximum
+intellectual freedom,” conflict with safety concerns. It also says ChatGPT should “promote real-
+world support,” including by encouraging offline relationships, while laying out how ChatGPT should
+set clear expectations when interacting with younger users. The Model Spec says ChatGPT should
+“treat teens like teens” by offering “warmth and respect” instead of providing condescending answers
+or treating teens like adults. The change comes as lawmakers turn up the pressure on AI companies
+and their chatbots over their potential impact on mental health. OpenAI is currently facing a
+lawsuit alleging that ChatGPT provided instructions for self-harm and suicide to a teen who took his
+own life. OpenAI later rolled out parental controls and said ChatGPT will no longer talk about
+suicide with teens. It’s part of a larger push for online regulation that also includes mandatory
+age verification for a number of services. OpenAI says the update to ChatGPT’s Model Spec should
+result in “stronger guardrails, safer alternatives, and encouragement to seek trusted offline
+support when conversations move into higher-risk territory.” The company adds that ChatGPT will urge
+teens to contact emergency services or crisis resources if there are signs of “imminent risk.”
+Related OpenAI denies liability in teen suicide lawsuit, cites ‘misuse’ of ChatGPT The nine people
+trying to stop AI from ruining the world Along with this change, OpenAI says it’s in the “early
+stages” of launching an age prediction model that will attempt to estimate someone’s age. If it
+detects that someone may be under 18, OpenAI will automatically apply teen safeguards. It will also
+give adults the chance to verify their age if they were falsely flagged by the system. Anthropic,
+which doesn’t allow users under 18 to chat with Claude, is rolling out measures that it will use to
+detect and disable the accounts of underage users. It’s developing a new system capable of detecting
+“subtle conversational signs that a user might be underage,” and says it already flags users who
+self-identify as a minor during chats. Anthropic also outlines how it trains Claude to respond to
+prompts about suicide and self-harm, as well as its progress at reducing sycophancy, which can
+reaffirm harmful thinking. The company says its latest models “are the least sycophantic of any to
+date,” with Haiku 4.5 performing the best, as it corrected its sycophantic behavior 37 percent of
+the time. “On face value, this evaluation shows there is significant room for improvement for all of
+our models,” Anthropic says. “We think the results reflect a trade-off between model warmth or
+friendliness on the one hand, and sycophancy on the other.” Update, December 18th: Clarified that
+Anthropic doesn’t allow users under 18 to use Claude. Follow topics and authors from this story to
+see more like this in your personalized homepage feed and to receive email updates. Emma Roth Close
+Emma Roth News Writer Posts from this author will be added to your daily email digest and your
+homepage feed. Follow Follow See All by Emma Roth AI Close AI Posts from this topic will be added to
+your daily email digest and your homepage feed. Follow Follow See All AI Anthropic Close Anthropic
+Posts from this topic will be added to your daily email digest and your homepage feed. Follow Follow
+See All Anthropic News Close News Posts from this topic will be added to your daily email digest and
+your homepage feed. Follow Follow See All News OpenAI Close OpenAI Posts from this topic will be
+added to your daily email digest and your homepage feed. Follow Follow See All OpenAI Policy Close
+Policy Posts from this topic will be added to your daily email digest and your homepage feed. Follow
+Follow See All Policy Most Popular Most Popular Sony’s legal battle against Tencent’s Horizon
+‘clone’ is already over The ChatGPT app store is here 2025 was the beginning of the end of the TV
+brightness war Microsoft made another Copilot ad where nothing actually works It’s the great AGI
+rebrand The Verge Daily A free daily digest of the news that matters most. Email (required) Sign Up
+By submitting your email, you agree to our Terms and Privacy Notice . This site is protected by
+reCAPTCHA and the Google Privacy Policy and Terms of Service apply. Advertiser Content From This is
+the title for the native ad
+https://www.theverge.com/news/847780/openai-anthropic-teen-safety-chatgpt-claude
+
+================================================================================
+
+"Google&#8217;s Gemini app can check videos to see if they were made with Google AI"
+2025-12-18T15:31:22-05:00
+
+
+News Close News Posts from this topic will be added to your daily email digest and your homepage
+feed. Follow Follow See All News AI Close AI Posts from this topic will be added to your daily email
+digest and your homepage feed. Follow Follow See All AI Tech Close Tech Posts from this topic will
+be added to your daily email digest and your homepage feed. Follow Follow See All Tech Google’s
+Gemini app can check videos to see if they were made with Google AI And only if they were made with
+Google AI. And only if they were made with Google AI. by Elissa Welle Close Elissa Welle AI Reporter
+Posts from this author will be added to your daily email digest and your homepage feed. Follow
+Follow See All by Elissa Welle Dec 18, 2025, 8:31 PM UTC Link Share Image: Google Elissa Welle Close
+Elissa Welle Posts from this author will be added to your daily email digest and your homepage feed.
+Follow Follow See All by Elissa Welle is a NYC-based AI reporter and is currently supported by the
+Tarbell Center for AI Journalism. She covers AI companies, policies, and products. Google expanded
+Gemini’s AI verification feature to videos made or edited with the company’s own AI models. Users
+can now ask Gemini to determine if an uploaded video is AI-generated by asking, “Was this generated
+using Google AI?” Gemini will scan the video’s visuals and audio for Google’s proprietary watermark
+called SynthID . The response will be more than a yes or no, Google says. Gemini will point out
+specific times when the watermark appears in the video or audio. The company rolled out this
+capability for images in November, also limited to images made or edited with Google AI. Some
+watermarks can be easily scrubbed , as OpenAI learned when it launched its Sora app full of
+exclusively AI-generated videos. Google calls its own watermark “imperceptible.” Still, we don’t yet
+know how easy it will be to remove, or how readily other platforms will detect the SynthID
+information and tag the content as AI-generated. Google’s Nano Banano AI image generation model
+within the Gemini embeds C2PA metadata , but the general lack of coordinated tagging of AI-generated
+material across social media platforms allows deepfakes to go undetected. Gemini can handle videos
+up to 100 MB and 90 seconds for verification. The feature is available in every language and
+location that the Gemini app is available. Follow topics and authors from this story to see more
+like this in your personalized homepage feed and to receive email updates. Elissa Welle Close Elissa
+Welle AI Reporter Posts from this author will be added to your daily email digest and your homepage
+feed. Follow Follow See All by Elissa Welle AI Close AI Posts from this topic will be added to your
+daily email digest and your homepage feed. Follow Follow See All AI Google Close Google Posts from
+this topic will be added to your daily email digest and your homepage feed. Follow Follow See All
+Google News Close News Posts from this topic will be added to your daily email digest and your
+homepage feed. Follow Follow See All News Tech Close Tech Posts from this topic will be added to
+your daily email digest and your homepage feed. Follow Follow See All Tech Most Popular Most Popular
+Sony’s legal battle against Tencent’s Horizon ‘clone’ is already over The ChatGPT app store is here
+2025 was the beginning of the end of the TV brightness war Microsoft made another Copilot ad where
+nothing actually works It’s the great AGI rebrand The Verge Daily A free daily digest of the news
+that matters most. Email (required) Sign Up By submitting your email, you agree to our Terms and
+Privacy Notice . This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of
+Service apply. Advertiser Content From This is the title for the native ad
+https://www.theverge.com/news/847680/google-gemini-verification-ai-generated-videos
 
 ================================================================================
 

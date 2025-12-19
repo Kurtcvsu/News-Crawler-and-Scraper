@@ -12,8 +12,8 @@ def init_gemini():
         raise ValueError("GEMINI_API_KEY not set in .env")
     genai.configure(api_key=api_key)
 
-def summarize_articles(topic: str, articles: List[Dict]) -> str:
-    """Use Gemini to create a summary of articles."""
+def summarize_articles(topic: str, articles: List[Dict], custom_prompt: str = None) -> str:
+    """Use Gemini to create a summary of articles with customizable prompt."""
     if not articles:
         return f"No {topic} articles found."
     
@@ -22,16 +22,10 @@ def summarize_articles(topic: str, articles: List[Dict]) -> str:
         for a in articles
     ])
     
-    prompt = f"""You are a professional tech news summarizer. 
- Read these {topic.upper()} articles and provide a concise summary.
-Format your response as:
-**SUMMARY:**
-[3-4 sentences summarizing the main points]
-
-Articles:
-{articles_text}
-
-SUMMARY:"""
+    if custom_prompt:
+        prompt = custom_prompt.format(topic=topic.upper(), articles=articles_text)
+    else:
+        return f"No custom prompt found for {topic}"
     
     try:
         model = genai.GenerativeModel("gemini-2.5-flash")
@@ -41,82 +35,46 @@ SUMMARY:"""
         print(f"Error calling Gemini for summary: {e}")
         return f"Failed to summarize {topic} articles."
 
-def generate_insights(topic: str, articles: List[Dict]) -> str:
-    """Use Gemini to generate insights and key takeaways."""
+
+
+
+
+def generate_topic_summary(topic: str, articles: List[Dict], custom_prompt: str = None) -> str:
+    """Generate a complete summary for a single topic using prompts_config.json."""
     if not articles:
-        return f"No {topic} articles found."
+        return f"No {topic} articles found today."
     
-    articles_text = "\n\n".join([
-        f"Title: {a['title']}\nLink: {a['link']}\nBody: {a['body']}"
-        for a in articles
-    ])
-    
-    prompt = f"""You are a tech industry analyst. 
-Analyze these {topic.upper()} articles and extract KEY INSIGHTS and emerging TRENDS.
-
-Format your response as:
-**KEY INSIGHTS:**
-- [Insight 1]
-- [Insight 2]
-- [Insight 3]
-
-**EMERGING TRENDS:**
-- [Trend 1]
-- [Trend 2]
-
-**WHY IT MATTERS:**
-[2-3 sentences explaining the impact]
-
-Articles:
-{articles_text}
-
-INSIGHTS AND TRENDS:"""
-    
-    try:
-        model = genai.GenerativeModel("gemini-2.5-flash")
-        response = model.generate_content(prompt)
-        return response.text
-    except Exception as e:
-        print(f"Error calling Gemini for insights: {e}")
-        return f"Failed to generate insights for {topic}."
-
-def format_sources(articles: List[Dict]) -> str:
-    """Format article sources as a numbered list."""
-    if not articles:
-        return "No sources found."
-    
-    sources = "**SOURCES:**\n"
-    for i, article in enumerate(articles, start=1):
-        sources += f"{i}. [{article['title']}]({article['link']})\n"
-    
-    return sources
-
-def generate_daily_digest(articles_by_topic: Dict[str, List[Dict]]) -> str:
-    """Create a complete daily digest with summary, insights, and sources."""
     init_gemini()
     
-    digest = "📰 Daily Tech Digest\n"
-    digest += "=" * 50 + "\n\n"
+    # Load prompt from config file if no custom prompt provided
+    if not custom_prompt:
+        try:
+            import json
+            with open("prompts_config.json", "r", encoding="utf-8") as f:
+                prompts_config = json.load(f)
+            custom_prompt = prompts_config.get(topic, {}).get("prompt")
+        except FileNotFoundError:
+            print(f"prompts_config.json not found, using default for {topic}")
     
-    for topic in ["ai", "cybersecurity", "blockchain"]:
+    print(f"Generating summary for {topic}...")
+    summary = summarize_articles(topic, articles, custom_prompt)
+    
+    return summary
+
+def generate_separate_summaries(articles_by_topic: Dict[str, List[Dict]], custom_prompts: Dict[str, str] = None) -> Dict[str, str]:
+    """Generate separate summaries for each topic using prompts_config.json."""
+    summaries = {}
+    
+    for topic in ["ai", "cybersecurity", "web3"]:
         if topic in articles_by_topic and articles_by_topic[topic]:
-            digest += f"\n🔹 {topic.upper()}\n"
-            digest += "-" * 30 + "\n\n"
+            summary = generate_topic_summary(topic, articles_by_topic[topic])
+            summaries[topic] = summary
             
-            print(f"Generating summary for {topic}...")
-            summary = summarize_articles(topic, articles_by_topic[topic])
-            digest += summary + "\n\n"
-            
-            print(f"Generating insights for {topic}...")
-            insights = generate_insights(topic, articles_by_topic[topic])
-            digest += insights + "\n\n"
-            
-            print(f"Formatting sources for {topic}...")
-            sources = format_sources(articles_by_topic[topic])
-            digest += sources + "\n\n"
+            filename = f"{topic}_summary.txt"
+            with open(filename, "w", encoding="utf-8") as f:
+                f.write(summary)
+            print(f"✅ {topic.upper()} summary saved to {filename}")
     
-    digest += "\n" + "=" * 50 + "\n"
-    digest += "📌 Share your thoughts in the comments!\n"
-    digest += "🔗 Follow for daily tech insights\n"
-    
-    return digest
+    return summaries
+
+

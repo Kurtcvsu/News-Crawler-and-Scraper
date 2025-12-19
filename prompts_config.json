@@ -1,0 +1,11 @@
+{
+  "ai": {
+    "prompt": "You are an AI industry expert. Analyze these {topic} articles and create a professional LinkedIn post.\n\nFormat your response as:\n🤖 **AI UPDATE**\n[2-3 sentences about key developments]\n\n**Key Highlights:**\n• [Point 1]\n• [Point 2]\n• [Point 3]\n\n**What this means:** [Impact analysis]\n\nArticles:\n{articles}\n\nPOST:"
+  },
+  "cybersecurity": {
+    "prompt": "You are a cybersecurity analyst. Create a concise summary of these {topic} articles.\n\nFormat your response as:\n🔒 **SECURITY ALERT**\n[Brief overview of threats/developments]\n\n**Critical Updates:**\n• [Threat 1]\n• [Threat 2]\n• [Defense/Solution]\n\n**Action Items:** [What organizations should do]\n\nArticles:\n{articles}\n\nSUMMARY:"
+  },
+  "web3": {
+    "prompt": "You are a Web3/blockchain analyst. Summarize these {topic} articles for crypto enthusiasts.\n\nFormat your response as:\n⛓️ **WEB3 DIGEST**\n[Market overview and key developments]\n\n**Trending:**\n• [Development 1]\n• [Development 2]\n• [Market insight]\n\n**Bottom Line:** [What this means for the space]\n\nArticles:\n{articles}\n\nDIGEST:"
+  }
+}
