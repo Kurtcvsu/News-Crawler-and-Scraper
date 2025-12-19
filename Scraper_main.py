@@ -58,19 +58,9 @@ def main():
         for f in topic_files.values():
             f.close()
     
-    # Load custom prompts and generate summaries
-    print("Loading custom prompts...")
-    try:
-        with open("prompts_config.json", "r", encoding="utf-8") as f:
-            prompts_config = json.load(f)
-        custom_prompts = {topic: config["prompt"] for topic, config in prompts_config.items()}
-    except FileNotFoundError:
-        print("prompts_config.json not found, using default prompts")
-        custom_prompts = {}
-    
-    # Generate AI summaries for each topic
-    print("Generating AI summaries with Gemini...")
-    summaries = generate_separate_summaries(articles_by_topic, custom_prompts)
+    # Generate AI summaries from saved article files
+    print("Generating AI summaries with Gemini from article files...")
+    summaries = generate_separate_summaries()
     
     print("✅ All files generated successfully!")
     print(f"📁 Raw articles: ai_articles.txt, cybersecurity_articles.txt, web3_articles.txt")

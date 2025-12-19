@@ -12,15 +12,18 @@ def init_gemini():
         raise ValueError("GEMINI_API_KEY not set in .env")
     genai.configure(api_key=api_key)
 
-def summarize_articles(topic: str, articles: List[Dict], custom_prompt: str = None) -> str:
-    """Use Gemini to create a summary of articles with customizable prompt."""
-    if not articles:
-        return f"No {topic} articles found."
+def summarize_from_file(topic: str, custom_prompt: str = None) -> str:
+    """Read articles from file and use Gemini to create a summary."""
+    filename = f"{topic}_articles.txt"
     
-    articles_text = "\n\n".join([
-        f"Title: {a['title']}\nLink: {a['link']}\nBody: {a['body']}"
-        for a in articles
-    ])
+    try:
+        with open(filename, "r", encoding="utf-8") as f:
+            articles_text = f.read()
+    except FileNotFoundError:
+        return f"No {filename} found."
+    
+    if not articles_text.strip():
+        return f"No {topic} articles found in {filename}."
     
     if custom_prompt:
         prompt = custom_prompt.format(topic=topic.upper(), articles=articles_text)
@@ -39,11 +42,8 @@ def summarize_articles(topic: str, articles: List[Dict], custom_prompt: str = No
 
 
 
-def generate_topic_summary(topic: str, articles: List[Dict], custom_prompt: str = None) -> str:
+def generate_topic_summary(topic: str, custom_prompt: str = None) -> str:
     """Generate a complete summary for a single topic using prompts_config.json."""
-    if not articles:
-        return f"No {topic} articles found today."
-    
     init_gemini()
     
     # Load prompt from config file if no custom prompt provided
@@ -57,23 +57,25 @@ def generate_topic_summary(topic: str, articles: List[Dict], custom_prompt: str 
             print(f"prompts_config.json not found, using default for {topic}")
     
     print(f"Generating summary for {topic}...")
-    summary = summarize_articles(topic, articles, custom_prompt)
+    summary = summarize_from_file(topic, custom_prompt)
     
     return summary
 
-def generate_separate_summaries(articles_by_topic: Dict[str, List[Dict]], custom_prompts: Dict[str, str] = None) -> Dict[str, str]:
-    """Generate separate summaries for each topic using prompts_config.json."""
+def generate_separate_summaries() -> Dict[str, str]:
+    """Generate separate summaries for each topic from saved article files."""
     summaries = {}
     
     for topic in ["ai", "cybersecurity", "web3"]:
-        if topic in articles_by_topic and articles_by_topic[topic]:
-            summary = generate_topic_summary(topic, articles_by_topic[topic])
+        summary = generate_topic_summary(topic)
+        if "not found" not in summary.lower():
             summaries[topic] = summary
             
             filename = f"{topic}_summary.txt"
             with open(filename, "w", encoding="utf-8") as f:
                 f.write(summary)
             print(f"✅ {topic.upper()} summary saved to {filename}")
+        else:
+            print(f"⚠️ Skipping {topic}: {summary}")
     
     return summaries
 
