@@ -1,0 +1,262 @@
+=== WEB3 ===
+
+"Here’s what happened in crypto today"
+Thu, 18 Dec 2025 22:03:32 +0000
+
+
+Cointelegraph 12 hours ago Here’s what happened in crypto today Need to know what happened in crypto
+today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi,
+NFTs, Web3 and crypto regulation. Listen 0:00 News COINTELEGRAPH IN YOUR SOCIAL FEED Today in
+crypto: The US Senate confirmed pro-crypto leaders for the CFTC and FDIC, Bitcoin advocates warned
+that a US proposed de minimis tax relief may apply only to stablecoins transactions and spot Bitcoin
+ETFs posted their biggest inflows in over a month, Senate confirms Selig for CFTC, Hill for FDIC The
+US Senate has confirmed crypto-friendly lawyer Mike Selig as the new chair of the Commodity Futures
+Trading Commission and has elevated Travis Hill to chair the Federal Deposit Insurance Corp (FDIC)
+in a 53-43 vote on Thursday. The pair were confirmed in a package of nearly 100 other nominees that
+the Trump administration had picked for various roles across the government. The CFTC could soon
+receive more crypto authority with bills working their way through Congress, and the FDIC is poised
+to regulate some stablecoin issuers. Crypto executives, including Coinbase policy head Faryar
+Shirzad, welcomed Mike Selig’s confirmation. Source: Faryar Shirzad Selig’s term will expire in
+April 2029 once sworn in. He pledged to make crypto a priority when he was nominated in October
+after he was picked to take over from the previous nominee, Brian Quintenz. Hill has already been
+running the FDIC as the acting chairman and has also shared a friendly crypto stance, speaking at
+Congressional hearings about the alleged debanking of companies due to crypto ties. Bitcoin Policy
+Institute sounds alarm on de minimis tax exclusion Representatives of the Bitcoin Policy Institute
+(BPI), a nonprofit Bitcoin advocacy organization, warned that US lawmakers have not included a de
+minimis tax exemption for Bitcoin transactions below a certain threshold. “De Minimis tax
+legislation may be limited to only stablecoins, leaving everyday Bitcoin transactions without an
+exemption,” Conner Brown, BPI’s head of strategy, said on X, adding that the decision to exclude
+Bitcoin is a “severe mistake.” In July, Wyoming Senator Cynthia Lummis introduced a bill proposing a
+de minimis tax exemption for crypto transactions of $300 or less, with a $5,000 annual limit on tax-
+free transactions and sales. The bill proposal also included tax exemptions for digital assets used
+for charitable donations and tax deferment for crypto earned through mining proof-of-work (PoW)
+protocols or staking to secure blockchain networks . Allowing a tax exemption for small Bitcoin
+transactions would increase its use as a medium of exchange rather than just as a store of value
+asset, allowing a new financial system built on a Bitcoin standard, BTC advocates say. Spot Bitcoin
+ETFs record $457 million inflows in “early positioning” push Spot Bitcoin ETFs recorded $457 million
+in net inflows on Wednesday , marking their strongest single-day intake in more than a month as
+institutional demand showed signs of re-acceleration. Fidelity’s Wise Origin Bitcoin Fund (FBTC) led
+the inflows, recording the largest daily intake at roughly $391 million, accounting for the majority
+of the day’s net inflows. BlackRock’s iShares Bitcoin Trust (IBIT) followed with around $111
+million, according to data from Farside Investors. Last time spot Bitcoin ETFs saw inflows of over
+$450 million was on Nov. 11. Source: Farside Investors The inflows lifted cumulative net inflows for
+US spot Bitcoin ( BTC ) ETFs to more than $57 billion, while total net assets climbed above $112
+billion, equivalent to around 6.5% of Bitcoin’s total market capitalization. The rebound followed a
+choppy stretch in November and early December, when flows alternated between modest inflows and
+sharp outflows. Spot Bitcoin ETFs last saw inflows above $450 million on Nov. 11, when funds pulled
+in roughly $524 million in a single day. # Taxes # Business # Senate # CFTC # Regulation # ETF Add
+reaction
+https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound
+
+================================================================================
+
+"Anthropic’s Claude AI Predicts the Price of XRP, SOL and Ethereum By the End of 2025"
+Thu, 18 Dec 2025 22:30:00 +0000
+
+
+<p>Anthropic’s latest update to Claude AI, its rival to ChatGPT, has delivered fresh cryptocurrency
+price projections for XRP, Solana, and Ethereum as the month draws to a close. The AI model suggests
+that all three digital assets could experience heightened volatility in the next fortnight, with the
+potential for significant moves to the upside or [&#8230;]</p> <p>The post <a
+href="https://cryptonews.com/news/anthropics-claude-ai-predicts-the-price-of-xrp-sol-and-ethereum-
+by-the-end-of-2025/">Anthropic’s Claude AI Predicts the Price of XRP, SOL and Ethereum By the End of
+2025</a> appeared first on <a href="https://cryptonews.com">Cryptonews</a>.</p>
+https://cryptonews.com/news/anthropics-claude-ai-predicts-the-price-of-xrp-sol-and-ethereum-by-the-end-of-2025/
+
+================================================================================
+
+"Mining Pools as One-Stop Shops: How ViaBTC Is Redefining the Miner Experience"
+Fri, 19 Dec 2025 07:49:11 +0000
+
+
+Feed Newsletters Bonus Hunter Top Picks Markets Prices Exchanges Convert Advertise Remote Jobs
+English For Business Advertise Contact Us Company About Us Our Authors Careers 🚀 Our Team News Learn
+Bonus Hunter Feed Top Picks Special Edition Careers 🚀 Our Authors Our Team Advertise Contact Us
+About Us Crypto News Ripple (XRP) News Bitcoin (BTC) News Analysis Ethereum (ETH) News US Crypto
+News Cardano (ADA) News Solana (SOL) News Memecoins News ETF News Altcoins News Markets Prices
+Exchanges Convert Remote Jobs Fast News Newsletters More by the author Advertorial Press Release
+Press Releases 31 minutes ago Zoomex Lab Strategically Sponsors Web3 Year-End Gala Seoul 2025,
+Highlighting Real-World Web3 Adoption with Park Joo-Ho Press Release Press Releases 34 minutes ago
+Gate Year-End Summary Goes Live: Data-Driven Overview of Users’ Crypto Season Press Release Press
+Releases 19 hours ago $U Stablecoin Launches on BNB Сhain and Ethereum by United Stables Always late
+to trends? Join +100k subscribers getting the latest news, insights, airdrops & more. Subscribe
+Share Article Sponsored Sponsored Back Trusted Sponsored Businesses Mining Pools as One-Stop Shops:
+How ViaBTC Is Redefining the Miner Experience Written by Advertorial Edited by Dmitriy Maiorov 19
+December 2025 07:49 UTC Trusted For much of Bitcoin’s history, mining pools served a single, narrow
+purpose: aggregating hashpower and distributing block rewards. Miners were expected to manage
+everything else on their own—wallets, exchanges, liquidity, risk management, and operational
+financing—often across fragmented platforms with inconsistent security standards. That model is
+rapidly becoming obsolete. As mining margins tighten, competition intensifies, and institutional-
+grade professionalism becomes the norm, miners increasingly demand integrated ecosystems rather than
+isolated services. In response, forward-thinking mining pools are evolving into comprehensive
+financial hubs— one-stop shops that streamline operations while expanding growth opportunities. At
+the forefront of this evolution is ViaBTC , whose diversified business model demonstrates how mining
+pools can become strategic partners rather than simple service providers. Sponsored Sponsored Beyond
+Hashrate: The Rise of Integrated Mining Ecosystems Modern miners face a complex operational
+landscape. Profitability is no longer determined solely by hardware efficiency and electricity
+costs. Instead, success depends on liquidity management, capital access, asset security, and the
+ability to respond quickly to market conditions. This reality has driven a shift toward vertically
+integrated mining platforms —ecosystems that allow miners to operate, manage, and grow their
+holdings without constantly juggling assets between third-party services. ViaBTC has embraced this
+shift by building a tightly integrated suite of tools that addresses the full lifecycle of a miner’s
+activity—from block rewards to balance sheet management. Built-In Wallets: Security and Simplicity
+by Design At the foundation of ViaBTC’s ecosystem is its secure, built-in wallet infrastructure ,
+allowing miners to receive, store, and manage mining rewards directly within the platform. This
+integration offers several critical advantages: Reduced counterparty risk by minimizing external
+transfers Faster access to funds , without reliance on third-party wallets Unified account
+management , simplifying bookkeeping and oversight For both individual miners and large-scale
+operations, consolidating assets under a single, security-focused platform reduces operational
+friction while improving transparency. Sponsored Sponsored Automatic Coin Conversion: Flexibility
+Without Complexity Mining rewards do not always align with a miner’s preferred asset exposure.
+Whether managing volatility, covering operating expenses, or reallocating into long-term holdings,
+conversion flexibility is essential. ViaBTC’s automatic coin conversion functionality enables miners
+to seamlessly convert rewards into alternative cryptocurrencies without manual intervention. This
+allows miners to: Hedge against short-term volatility Align payouts with operational or treasury
+needs Reduce time spent managing trades across multiple platforms By embedding this capability
+directly into the mining workflow, ViaBTC removes unnecessary steps while empowering miners with
+greater financial control. Collateral-Pledged Loans: Unlocking Capital Without Selling Coins One of
+the most powerful features of ViaBTC’s diversified model is its collateral-pledged loan program —a
+solution that directly addresses a long-standing miner dilemma: accessing liquidity without
+sacrificing long-term upside. Sponsored Sponsored Instead of selling mined assets during unfavorable
+market conditions, miners can use their cryptocurrency holdings as collateral to secure loans. This
+enables them to: Fund hardware upgrades or facility expansion Cover electricity and operational
+expenses Navigate temporary market downturns without forced liquidation By preserving asset exposure
+while unlocking capital, collateral-backed lending transforms mining rewards into productive
+financial instruments rather than static balances. Exchange Access via CoinEx: From Mining to
+Markets Through its partnership with CoinEx , ViaBTC extends its ecosystem beyond mining into full
+market participation. This integration gives miners direct access to a robust cryptocurrency
+exchange, enabling: Efficient trading and liquidity access Portfolio diversification from a familiar
+interface Reduced reliance on external exchanges and asset transfers The result is a seamless
+transition from block rewards to broader market strategies—without leaving the ViaBTC ecosystem.
+Sponsored Sponsored Convenience, Security, & Growth—Unified What distinguishes ViaBTC’s approach is
+not merely the presence of individual features, but the cohesive integration of those features into
+a single platform. Each component—wallets, conversions, loans, and exchange access—reinforces the
+others. This unified design delivers three core benefits: Convenience – Fewer platforms, fewer
+logins, fewer points of failure Security – Reduced asset movement and consolidated safeguards Growth
+– Tools that enable strategic expansion, not just daily payouts In an industry where operational
+efficiency can determine survival, these advantages are increasingly decisive. The Future of Mining
+Pools Is Financial Infrastructure As cryptocurrency mining continues to mature, the role of mining
+pools will continue to expand. The most successful platforms will not be those offering the lowest
+fees alone, but those providing holistic financial infrastructure tailored to miners’ real-world
+needs. ViaBTC’s evolution into a one-stop mining ecosystem reflects this future—one where miners are
+empowered not only to earn, but to manage, leverage, and grow their digital assets with confidence.
+For miners navigating an increasingly complex landscape, that transformation may be the most
+valuable reward of all. You might also like Sponsored Businesses 19 hours ago XRP Asset Efficiency
+Upgrade: Exploring Alternative Participation Models with PEPPER Mining Newsletter Subscribe Daily
+Crypto Insights Insights, news and analysis of the crypto market straight to your inbox Crypto
+Exchanges 2 months ago Best Crypto Platforms for DePIN Tokens in 2026 Disclaimer This content is
+part of a paid partnership. While BeInCrypto verifies partners before publication, the information
+presented in this article was provided by a third party and is not authored by our editorial team.
+The partner is solely responsible for the accuracy and reliability of the content. 👉 Disclosure
+Sponsored Sponsored Read Next Guest Post Businesses 18 minutes ago Eightcap Insights: Why
+Institutions Are Buying Bitcoin’s Fear Most read Opinion Markets 3 days ago Why Embedded Trading Is
+Becoming the New Standard: Eightcap’s Patrick Murphy Explains What’s Driving It News Markets 9 days
+ago “I Wasted 8 Years in Crypto”: A Builder’s Exit Note Goes Viral Across Asia Learn Reviews 20
+hours ago Inside Midnight Network: Rational Privacy for the Real World News Markets 3 days ago 5
+Reasons Bitcoin Fell to $85,000 and Why More Downside Is Possible Analysis Markets 6 days ago
+Bitcoin Weekly Forecast: Fed Delivers, Yet Fails to Impress BTC Traders News Markets 1 day ago
+Bitcoin Added And Lost Nearly $100 Billion In Hours, What Just Happened? Want access to pro
+insights? Join our Telegram Group and get trading signals, fast market news and ask questions
+directly to our analyst. Stay ahead of the market every day! Join our Telegram Sponsored Sponsored
+Sign up for our newsletters Bonus Hunter A curated list of top giveaways, airdrops and special
+activation offers Daily Crypto Insights Insights, news and analysis of the crypto market straight to
+your inbox Crypto Leaders Outlook of the industry, market trends and key opinions from leaders
+within the industry Web3 jobs Information, advice and the latest vacancies to help you get into the
+Web3 world Subscribe Company About Us Our Authors Careers 🚀 Products News Learn Markets Learn-to-
+Earn Bonus Hunter Newsletters Top Picks Special Edition Fast News Resources Advertise Remote Jobs
+Contact Us The Trust Project Verification Methodology Advertiser Disclosure © 2025 BeInNews Academy
+Terms Privacy Disclaimer Cookie Settings
+https://beincrypto.com/how-viabtc-is-redefining-the-miner-experience/
+
+================================================================================
+
+"$3.16 Billion Crypto Options Expiry Puts Bitcoin and Ethereum’s Next Move in Question"
+Fri, 19 Dec 2025 05:26:03 +0000
+
+
+Feed Newsletters Bonus Hunter Top Picks Markets Prices Exchanges Convert Advertise Remote Jobs
+English For Business Advertise Contact Us Company About Us Our Authors Careers 🚀 Our Team News Learn
+Bonus Hunter Feed Top Picks Special Edition Careers 🚀 Our Authors Our Team Advertise Contact Us
+About Us Crypto News Ripple (XRP) News Bitcoin (BTC) News Analysis Ethereum (ETH) News US Crypto
+News Cardano (ADA) News Solana (SOL) News Memecoins News ETF News Altcoins News Markets Prices
+Exchanges Convert Remote Jobs Fast News Newsletters More by the author Lockridge Okoth News Markets
+2 hours ago $4 Billion Lawsuit Claims Jump Trading Helped Engineer Terraform’s Collapse News Markets
+3 hours ago BOJ Raises Interest Rates to 0.75%, But Bitcoin Stands Unshaken—Is the Crypto Calm a
+Warning or Opportunity? News Markets 18 hours ago Ethereum Dip Pressures BitMine, but Tom Lee and
+Ark Keep Buying | US Crypto News Always late to trends? Join +100k subscribers getting the latest
+news, insights, airdrops & more. Subscribe Share Article Sponsored Sponsored Back Trusted News
+Markets $3.16 Billion Crypto Options Expiry Puts Bitcoin and Ethereum’s Next Move in Question
+Written & Edited by Lockridge Okoth 19 December 2025 05:31 UTC Trusted $3.16 billion in Bitcoin and
+Ethereum options expire, heightening volatility ahead of thin holiday liquidity. Bitcoin clusters
+near $88,000 max pain, signaling range-bound action unless a breakout emerges. Ethereum positioning
+is wider, keeping larger moves possible if volatility reaccelerates. Promo # News About Ethereum
+(ETH) # News about Bitcoin (BTC) # Cryptocurrency Market News # Bitcoin (BTC) Analysis Over $3.16
+billion worth of Bitcoin and Ethereum options are set to expire on Friday at 08:00 UTC on Deribit,
+marking the final major derivatives settlement before Christmas. With liquidity thinning out as the
+holiday period approaches and positioning tightly clustered around key price levels, traders appear
+cautious, waiting for a clearer catalyst before committing to a direction. Sponsored What to Expect
+as Nearly $3 Billion Bitcoin Options Expire Bitcoin accounts for the bulk of the expiry, with
+roughly $2.69 billion in notional value rolling off. At the time of writing, BTC was trading at
+$87,194 , representing a 0.54% increase over the past 24 hours. The max pain level for today’s
+expiring Bitcoin options sits at $88,000, placing the spot price just below the strike. This is
+where the greatest number of options expire worthless. Meanwhile, open interest data suggests a
+relatively balanced but slightly defensive stance. Bitcoin call open interest stands at 17,506
+contracts, compared with 13,309 puts, resulting in a total open interest of 30,815 contracts and a
+put-to-call ratio of 0.76. Expiring Bitcoin Options. Source: Deribit While calls still dominate
+numerically, the concentration of positioning near $88,000 points to limited upside momentum unless
+the spot decisively breaks higher. Deribit analysts highlighted this dynamic in a market update.
+“BTC open interest is concentrated around 88K, with slightly heavier put positioning, pointing to a
+relatively contained expiry unless spot breaks range,” they wrote . Sponsored The commentary
+reinforces the view that Bitcoin could remain range-bound through settlement, especially amid pre-
+holiday caution . Over $470 Million Ethereum Options Expire Today: What Investors Should Know
+Ethereum presents a different setup. Approximately $473 million in ETH options are expiring, with
+the asset trading at $2,928, representing a 3.37% increase in the last 24 hours . ETH’s max pain
+level is higher, at $3,100, leaving spot price meaningfully below the key strike. Ethereum’s open
+interest profile is more evenly split, with 78,524 call contracts versus 83,547 puts. This results
+in a put-to-call ratio of 1.06 and a total open interest of 162,071 contracts. Sponsored Expiring
+Ethereum Options. Source: Deribit Unlike Bitcoin, ETH positioning is spread across a wider range of
+strikes, indicating greater uncertainty about the near-term direction. “ETH positioning is more
+distributed across strikes, with notable upside interest above 3.4K, keeping larger moves in play if
+volatility reaccelerates,” Deribit analysts indicated. The analysts added that positioning suggests
+patience into settlement, which happens at 08:00 UTC today, with traders waiting for a clearer
+catalyst rather than forcing direction . Beyond today’s options expiry, attention is already
+shifting to December 26 and early 2026 positioning. Sponsored “December 26 85k Put OI now ~15k
+($1.25bn notional) on Deribit, and bears+FUD currently in control with ATM 86k,” Deribit Insights
+noted . At the same time, upside bets appear less aggressive in the near term, with analysts
+observing that “the Dec26 100k+ $1.75bn Call condor feels a distant punt now.” However, longer-dated
+flows tell a more constructive story, with recent flows continuing to show upside bias into 2026.
+According to the analysts, this suggests that while short-term sentiment remains cautious, longer-
+horizon traders are still positioning for a renewed bullish phase. As the final options expiry
+before Christmas approaches , both Bitcoin and Ethereum appear caught between near-term restraint
+and longer-term optimism, leaving their next decisive move unresolved. Traders and investors may
+experience some volatility, which the BOJ’s interest rate decision could exacerbate. However,
+markets tend to stabilize as traders adjust to new market conditions. You might also like News
+Markets 2 hours ago $4 Billion Lawsuit Claims Jump Trading Helped Engineer Terraform’s Collapse
+Newsletter Subscribe Daily Crypto Insights Insights, news and analysis of the crypto market straight
+to your inbox Crypto Exchanges 2 months ago Best Crypto Platforms for DePIN Tokens in 2026
+Disclaimer In adherence to the Trust Project guidelines, BeInCrypto is committed to unbiased,
+transparent reporting. This news article aims to provide accurate, timely information. However,
+readers are advised to verify facts independently and consult with a professional before making any
+decisions based on this content. Please note that our Terms and Conditions , Privacy Policy , and
+Disclaimers have been updated. Sponsored Sponsored Read Next News Markets 2 hours ago $4 Billion
+Lawsuit Claims Jump Trading Helped Engineer Terraform’s Collapse Most read Opinion Markets 3 days
+ago Why Embedded Trading Is Becoming the New Standard: Eightcap’s Patrick Murphy Explains What’s
+Driving It News Markets 9 days ago “I Wasted 8 Years in Crypto”: A Builder’s Exit Note Goes Viral
+Across Asia Learn Reviews 20 hours ago Inside Midnight Network: Rational Privacy for the Real World
+News Markets 3 days ago 5 Reasons Bitcoin Fell to $85,000 and Why More Downside Is Possible Analysis
+Markets 6 days ago Bitcoin Weekly Forecast: Fed Delivers, Yet Fails to Impress BTC Traders News
+Markets 1 day ago Bitcoin Added And Lost Nearly $100 Billion In Hours, What Just Happened? Want
+access to pro insights? Join our Telegram Group and get trading signals, fast market news and ask
+questions directly to our analyst. Stay ahead of the market every day! Join our Telegram Sponsored
+Sponsored Sign up for our newsletters Bonus Hunter A curated list of top giveaways, airdrops and
+special activation offers Daily Crypto Insights Insights, news and analysis of the crypto market
+straight to your inbox Crypto Leaders Outlook of the industry, market trends and key opinions from
+leaders within the industry Web3 jobs Information, advice and the latest vacancies to help you get
+into the Web3 world Subscribe Company About Us Our Authors Careers 🚀 Products News Learn Markets
+Learn-to-Earn Bonus Hunter Newsletters Top Picks Special Edition Fast News Resources Advertise
+Remote Jobs Contact Us The Trust Project Verification Methodology Advertiser Disclosure © 2025
+BeInNews Academy Terms Privacy Disclaimer Cookie Settings
+https://beincrypto.com/bitcoin-ethereum-options-december-expiry/
+
+================================================================================
+

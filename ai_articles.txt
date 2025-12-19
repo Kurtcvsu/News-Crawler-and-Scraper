@@ -1,117 +1,96 @@
 === AI ===
 
-"OpenAI-backed biotech firm Chai Discovery raises $130M Series B at $1.3B valuation"
-Mon, 15 Dec 2025 23:41:26 +0000
+"ChatGPT launches an app store, lets developers know it’s open for business"
+Thu, 18 Dec 2025 20:22:50 +0000
 
 
-In Brief Posted: 3:41 PM PST · December 15, 2025 Image Credits: Andrew Brookes / Getty Images Lucas
-Ropek OpenAI-backed biotech firm Chai Discovery raises $130M Series B at $1.3B valuation Chai
-Discovery , a biotech startup with backing from OpenAI, announced a $130 million Series B round at a
-$1.3 billion valuation on Monday. The round was led by General Catalyst and Oak HC/FT, the company
-said. Other participants include Menlo Ventures, OpenAI, Dimension, Thrive Capital, Neo, Yosemite
-venture fund, Lachy Groom, SV Angel, and new investors Glade Brook and Emerson Collective. The
-firm’s total funding now stands at over $225 million. The company is one in a growing industry that
-sees AI as a faster route toward drug development. In August, Menlo Ventures announced it was
-leading Chai’s $70 million Series A round. The investor described Chai as a startup that was
-building foundation models tuned for drug discovery, specifically to predict interactions between
-biochemical molecules so they could be reprogramed for cures. Chai says that its ambition is to
-“build the ‘computer-aided design suite’ for molecules.” Last year, the startup announced the Chai 1
-AI model and is now offering Chai 2, it’s latest model. The company says Chai 2 is achieving
-significant improvements in success rates over other methods for de novo antibody design, meaning
-building custom antibodies from scratch, not modifying existing ones. “Our latest models can design
-molecules that have properties we’d want from actual drugs, and tackle challenging targets that have
-been out of reach,” Josh Meier, Chai’s co-founder and CEO said in a prepared statement. Previously,
-Meier, whose background is in machine learning, worked in research and engineering at Facebook and,
-prior to that, worked for OpenAI, according to his LinkedIn . Chai Discovery was founded in 2024,
-the profile notes. Techcrunch event Join the Disrupt 2026 Waitlist Add yourself to the Disrupt 2026
-waitlist to be first in line when Early Bird tickets drop. Past Disrupts have brought Google Cloud,
-Netflix, Microsoft, Box, Phia, a16z, ElevenLabs, Wayve, Hugging Face, Elad Gil, and Vinod Khosla to
-the stages — part of 250+ industry leaders driving 200+ sessions built to fuel your growth and
-sharpen your edge. Plus, meet the hundreds of startups innovating across every sector. Join the
-Disrupt 2026 Waitlist Add yourself to the Disrupt 2026 waitlist to be first in line when Early Bird
-tickets drop. Past Disrupts have brought Google Cloud, Netflix, Microsoft, Box, Phia, a16z,
-ElevenLabs, Wayve, Hugging Face, Elad Gil, and Vinod Khosla to the stages — part of 250+ industry
-leaders driving 200+ sessions built to fuel your growth and sharpen your edge. Plus, meet the
-hundreds of startups innovating across every sector. San Francisco | October 13-15, 2026 W AITLIST
-NOW Topics AI , artificial intelligence , Biotech & Health , Chai Discovery , In Brief , OpenAI ,
-venture capital Dates TBD Locations TBA Plan ahead for the 2026 StrictlyVC events. Hear straight-
-from-the-source candid insights in on-stage fireside sessions and meet the builders and backers
-shaping the industry. Join the waitlist to get first access to the lowest-priced tickets and
-important updates. Waitlist Now Newsletters See More Subscribe for the industry’s biggest tech news
-TechCrunch Daily News Every weekday and Sunday, you can get the best of TechCrunch’s coverage.
-TechCrunch Mobility TechCrunch Mobility is your destination for transportation news and insight.
-Startups Weekly Startups are the core of TechCrunch, so get our best coverage delivered weekly.
-StrictlyVC Provides movers and shakers with the info they need to start their day. No newsletters
-selected. Subscribe By submitting your email, you agree to our Terms and Privacy Notice . Related AI
-Nvidia bulks up open source offerings with an acquisition and new open AI models Rebecca Szkutak 14
-hours ago AI Merriam-Webster names ‘slop’ the word of the year Lucas Ropek 17 hours ago Latest in AI
-Climate Everbloom built an AI to turn chicken feathers into cashmere Tim De Chant 23 minutes ago AI
-VCs discuss why most consumer AI startups still lack staying power Marina Temkin 12 hours ago In
-Brief OpenAI-backed biotech firm Chai Discovery raises $130M Series B at $1.3B valuation Lucas Ropek
-13 hours ago
-https://techcrunch.com/2025/12/15/openai-backed-biotech-firm-chai-discovery-raises-130m-series-b-at-1-3b-valuation/
-
-================================================================================
-
-"Nvidia bulks up open source offerings with an acquisition and new open AI models"
-Mon, 15 Dec 2025 22:00:57 +0000
-
-
-Nvidia continues to expand its footprint in open source AI on two fronts: an acquisition and a new
-model release. The semiconductor giant announced Monday it acquired SchedMD, the leading developer
-of popular open source workload management system Slurm . Nvidia said the company will continue to
-operate the program, which is designed for high-performance computing and AI, as an open source,
-vendor-neutral software. Slurm was originally launched in 2002 and SchedMD was founded in 2010 by
-the lead Slurm developers Morris Jette and Danny Auble. Auble is the current CEO of SchedMD. Terms
-of the deal weren’t disclosed. Nvidia declined to comment on the news beyond the company’s blog post
-. Nvidia has been working with SchedMD for more than a decade and said in its blog post the
-technology is critical infrastructure for generative AI. The company plans to keep investing in the
-technology and “accelerate” its access to different systems. The semiconductor company also released
-a new family of open AI models on Monday. The company claimed this group of models, called Nvidia
-Nemotron 3 , is the most “efficient family of open models” for building accurate AI agents. This
-model family includes the Nemotron 3 Nano, a small model for targeted tasks, the Nemotron 3 Super, a
-model built for multi-AI agent applications, and Nemotron 3 Ultra, built for more complicated tasks.
-Techcrunch event Join the Disrupt 2026 Waitlist Add yourself to the Disrupt 2026 waitlist to be
-first in line when Early Bird tickets drop. Past Disrupts have brought Google Cloud, Netflix,
-Microsoft, Box, Phia, a16z, ElevenLabs, Wayve, Hugging Face, Elad Gil, and Vinod Khosla to the
-stages — part of 250+ industry leaders driving 200+ sessions built to fuel your growth and sharpen
-your edge. Plus, meet the hundreds of startups innovating across every sector. Join the Disrupt 2026
-Waitlist Add yourself to the Disrupt 2026 waitlist to be first in line when Early Bird tickets drop.
-Past Disrupts have brought Google Cloud, Netflix, Microsoft, Box, Phia, a16z, ElevenLabs, Wayve,
-Hugging Face, Elad Gil, and Vinod Khosla to the stages — part of 250+ industry leaders driving 200+
-sessions built to fuel your growth and sharpen your edge. Plus, meet the hundreds of startups
-innovating across every sector. San Francisco | October 13-15, 2026 W AITLIST NOW “Open innovation
-is the foundation of AI progress,” Jensen Huang, founder and CEO of Nvidia, wrote in the company’s
-press release. “With Nemotron, we’re transforming advanced AI into an open platform that gives
-developers the transparency and efficiency they need to build agentic systems at scale.” In recent
-months, Nvidia has pushed to bolster its open source and open AI offerings. Last week, the company
-announced a new open reasoning vision language model, Alpamayo-R1 , which is focused on autonomous
-driving research. The company also said at the time it added more workflows and guides covering its
-Cosmos world models, which are open source under a permissive license, to help developers better use
-the models to develop physical AI. The activity is reflective of Nvidia’s bet that physical AI will
-be the next frontier for its GPUs. Nvidia wants to be the go-to supplier for the many robotics — or
-self-driving vehicle — companies looking for the AI and software to develop the brains behind the
-technology. Topics AI , ai models , artificial intelligence , Enterprise , nvidia , open source ,
-open source ai , physical ai , Robotics , SchedMD , Slurm , TC , United States Rebecca Szkutak
-Senior Reporter, Venture Becca is a senior writer at TechCrunch that covers venture capital trends
-and startups. She previously covered the same beat for Forbes and the Venture Capital Journal. You
-can contact or verify outreach from Becca by emailing rebecca.szkutak@techcrunch.com . View Bio
-Dates TBD Locations TBA Plan ahead for the 2026 StrictlyVC events. Hear straight-from-the-source
-candid insights in on-stage fireside sessions and meet the builders and backers shaping the
+In Brief Posted: 12:22 PM PST · December 18, 2025 Image Credits: Silas Stein/picture alliance /
+Getty Images Lucas Ropek ChatGPT launches an app store, lets developers know it’s open for business
+App developers looking to launch their programs in ChatGPT can now submit them for review and
+potential publication, OpenAI said Wednesday. The company also introduced a new app directory within
+Chat’s tools menu that has swiftly been dubbed an “app store.” In October, the company announced the
+arrival of apps in its chatbot, explaining that the move would bring a broader suite of capabilities
+to ChatGPT users. Major platforms — including Expedia, Spotify, Zillow, and Canva — announced
+integrations that would allow users to access their services directly from Chat conversations. Now,
+the company is opening up the field to a broader array of players. “Apps extend ChatGPT
+conversations by bringing in new context and letting users take actions like order groceries, turn
+an outline into a slide deck, or search for an apartment,” the company said Wednesday. OpenAI’s Apps
+SDK, which is still in beta, currently provides a toolkit for developers looking to create new
+experiences for ChatGPT users. Once developers are ready, they can submit their apps to the
+company’s OpenAI Developer platform , where they will be able to track its approval status, the
+company said. A number of approved apps will start launching within Chat in the coming year, it
+added. This is a big step for OpenAI toward expanding the app ecosystem within Chat and, at the same
+time, giving users more reasons to use the app and stay on it. Topics AI , Apps , ChatGPT , In Brief
+, OpenAI Dates TBD Locations TBA Plan ahead for the 2026 StrictlyVC events. Hear straight-from-the-
+source candid insights in on-stage fireside sessions and meet the builders and backers shaping the
 industry. Join the waitlist to get first access to the lowest-priced tickets and important updates.
-Waitlist Now Most Popular DoorDash driver faces felony charges after allegedly spraying customers’
-food Anthony Ha With iOS 26.2, Apple lets you roll back Liquid Glass again — this time on the Lock
-Screen Sarah Perez Google launched its deepest AI research agent yet — on the same day OpenAI
-dropped GPT-5.2 Julie Bort Disney hits Google with cease-and-desist claiming ‘massive’ copyright
-infringement Aisha Malik OpenAI fires back at Google with GPT-5.2 after ‘code red’ memo Rebecca
-Bellan Google debuts ‘Disco,’ a Gemini-powered tool for making web apps from browser tabs Sarah
-Perez Marco Rubio bans Calibri font at State Department for being too DEI Julie Bort
-https://techcrunch.com/2025/12/15/nvidia-bulks-up-open-source-offerings-with-an-acquisition-and-new-open-ai-models/
+Waitlist Now Newsletters See More Subscribe for the industry’s biggest tech news TechCrunch Daily
+News Every weekday and Sunday, you can get the best of TechCrunch’s coverage. TechCrunch Mobility
+TechCrunch Mobility is your destination for transportation news and insight. Startups Weekly
+Startups are the core of TechCrunch, so get our best coverage delivered weekly. StrictlyVC Provides
+movers and shakers with the info they need to start their day. No newsletters selected. Subscribe By
+submitting your email, you agree to our Terms and Privacy Notice . Related Government & Policy Why
+British politicians are flocking to American tech giants Anna Heim 14 hours ago Apps ChatGPT’s
+mobile app hits new milestone of $3B in consumer spending Sarah Perez 14 hours ago AI Google’s vibe-
+coding tool Opal comes to Gemini Sarah Perez 2 days ago Latest in AI In Brief ChatGPT launches an
+app store, lets developers know it’s open for business Lucas Ropek 14 hours ago In Brief Pickle
+Robot adds Tesla veteran as first CFO Rebecca Szkutak 14 hours ago Government & Policy Why British
+politicians are flocking to American tech giants Anna Heim 14 hours ago
+https://techcrunch.com/2025/12/18/chatgpt-launches-an-app-store-lets-developers-know-its-open-for-business/
 
 ================================================================================
 
-"JPMorgan Chase AI strategy: US$18B bet paying off"
-Tue, 16 Dec 2025 11:00:00 +0000
+"ChatGPT’s mobile app hits new milestone of $3B in consumer spending"
+Thu, 18 Dec 2025 19:50:02 +0000
+
+
+ChatGPT has hit a new milestone of $3 billion in worldwide consumer spending on mobile as of this
+week, according to estimates from app intelligence provider Appfigures . This figure represents the
+total spending on iOS and Android devices since the app’s launch in May 2023, when it first arrived,
+then only on iOS. Image Credits: Appfigures What’s notable is that the bulk of that spending took
+place this year. Worldwide, consumers spent an estimated $2.48 billion in the ChatGPT mobile app in
+2025, representing a 408% year-over-year increase from the $487 million spent in 2024. In 2023, the
+app’s first year of availability, it earned $42.9 million, before growing 1,036% to reach the 2024
+figure. Image Credits: Appfigures These numbers represent a sharp rise in consumer adoption,
+compared with other popular apps. For instance, it took ChatGPT 31 months to reach $3 billion in
+consumer spending, but the top earner, TikTok, took 58 months to do so, Appfigures told TechCrunch.
+ChatGPT also reached the milestone faster than top streaming apps like Disney+ and HBO Max, which
+hit the $3 billion figure in 42 months and 46 months, respectively. Image Credits: Appfigures xAI’s
+Grok, however, is seeing a similar revenue trajectory to ChatGPT, compared with other AI rivals.
+Grok was released in late 2023 to X Premium Plus subscribers before becoming more broadly available
+last year. But if you compare the pace of consumer spending across AI apps, Grok came the closest to
+matching ChatGPT’s cumulative revenue at the same point, once it began monetizing. (You can see this
+on the chart below, which plots the AI apps’ spending aligned to when each app began monetizing.)
+Image Credits: Appfigures While the $3 billion in spending represents a significant uptake by
+consumers, it’s not the only way to measure AI app adoption or potential long-term revenue.
+ChatGPT’s mobile customers are buying paid subscriptions, like the $20 per month ChatGPT Plus or the
+$200 per month ChatGPT Pro for advanced users. But AI apps can generate revenue in other ways,
+including through developer offerings and, perhaps soon for ChatGPT , ads. In addition, ChatGPT on
+Wednesday launched its own app store of sorts, which the company suggests will be monetized in some
+way in the future, its blog post noted . Google, meanwhile, is exploring the potential to transition
+its healthy search ads business to AI-powered search, placing ads in AI Mode , AI Overviews , AI
+shopping , and an increasingly AI-powered Discover page , among other things. Anthropic is aiming at
+the business market and is reportedly on track for $70 billion in revenue by 2028. Topics AI , AI ,
+Apps , ChatGPT , mobile apps Sarah Perez Consumer News Editor Sarah has worked as a reporter for
+TechCrunch since August 2011. She joined the company after having previously spent over three years
+at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of
+industries, including banking, retail and software. You can contact or verify outreach from Sarah by
+emailing sarahp@techcrunch.com or via encrypted message at sarahperez.01 on Signal. View Bio Dates
+TBD Locations TBA Plan ahead for the 2026 StrictlyVC events. Hear straight-from-the-source candid
+insights in on-stage fireside sessions and meet the builders and backers shaping the industry. Join
+the waitlist to get first access to the lowest-priced tickets and important updates. Waitlist Now
+Most Popular Google’s vibe-coding tool Opal comes to Gemini Sarah Perez Google tests an email-based
+productivity assistant Ivan Mehta Hacking group says it’s extorting Pornhub after stealing users’
+viewing data Lorenzo Franceschi-Bicchierai Lidar-maker Luminar files for bankruptcy Sean O'Kane How
+iRobot lost its way home Connie Loizos DoorDash driver faces felony charges after allegedly spraying
+customers’ food Anthony Ha With iOS 26.2, Apple lets you roll back Liquid Glass again — this time on
+the Lock Screen Sarah Perez
+https://techcrunch.com/2025/12/18/chatgpts-mobile-app-hits-new-milestone-of-3b-in-consumer-spending/
+
+================================================================================
+
+"Zara’s use of AI shows how retail workflows are quietly changing"
+Fri, 19 Dec 2025 10:00:00 +0000
 
 
 Skip to content AI News is part of the TechForge Publications series Explore All Developer IoT News
@@ -146,83 +125,77 @@ Processing (NLP) Reinforcement Learning Inside AI AI Business Strategy AI Hardwa
 Trends AI Mergers & Acquisitions AI Startups & Funding Founders & Visionaries Governance, Regulation
 & Policy Features Deep Dives Interviews Opinion Special Reports & Series Sponsored Content TechEx
 Events All Categories Events Resources All Resources On Demand Webinars Exclusive Videos More About
-AI News Advertise Contact Us Hamburger Toggle Menu AI and Us JPMorgan Chase AI strategy: US$18B bet
-paying off Dashveenjit Kaur December 16, 2025 Share this story: Tags: ai artificial intelligence
-Categories: AI and Us AI in Action Deep Dives Features Finance AI World of Work JPMorgan Chase’s AI
-strategy is delivering measurable returns – but at a human cost. The bank isn’t hiding the fact.
-With 200,000 employees now using its proprietary LLM Suite platform daily and AI benefits growing
-30-40% annually, America’s largest bank is executing what Chief Analytics Officer Derek Waldron
-calls a plan to create the world’s first “ fully AI-connected enterprise .” What infrastructure
-backs this transformation? A US$18 billion annual technology budget, 450+ AI use cases in
-production, and a platform that won American Banker’s 2025 Innovation of the Year Grand Prize. But
-JPMorgan’s candour about workforce displacement – operations staff projected to fall at least 10% –
-reveals the complexity of enterprise AI beyond the promotional headlines. LLM suite: From zero to
-200,000 users in eight months Released in summer 2024, LLM Suite reached 200,000 users in eight
-months through an opt-in strategy that created what Waldron describes as “healthy competition,
-driving viral adoption. This isn’t just a chatbot : LLM Suite functions as a “full ecosystem”
-connecting AI to firm-wide data, applications, and workflows. The model-agnostic architecture
-integrates OpenAI and Anthropic models, with updates every eight weeks. Investment bankers create
-five-page decks in 30 seconds – work that previously took junior analysts hours. Lawyers scan and
-generate contracts. Credit professionals extract covenant information instantly. Call centre tool
-EVEE Intelligent Q&A improved resolution times through context-aware responses. “A little under half
-of JPMorgan employees use gen AI tools every single day,” Waldron told McKinsey in October 2025.
-“People use it in tens of thousands of ways specific to their jobs.” JPMorgan Chase AI strategy
-delivers 30-40% annual ROI growth JPMorgan tracks ROI at the individual initiative level – not
-platform-wide vanity metrics. Since inception, AI-attributed benefits have grown 30-40% year-over-
-year. The strategy combines top-down focus on transformative domains (credit, fraud, marketing,
-operations) with bottom-up democratisation, letting employees innovate in job families. McKinsey’s
-Kevin Buehler estimates US$700 billion in potential banking cost savings industry-wide. But much
-will be “competed away” to customers. Industry return on tangible equity could drop one to two
-points, while AI pioneers could see four-point increases versus slow movers. Waldron acknowledges
-productivity gains don’t automatically translate to cost reductions. “An hour saved here and three
-hours there may increase individual productivity, but in end-to-end processes these snips often just
-shift bottlenecks.” Operations staff to fall 10% as AI agents take complex tasks JPMorgan’s consumer
-banking chief announced operations staff would decline at least 10% as the bank deploys “agentic AI”
-– autonomous systems handling multi-step tasks. The bank is building AI agents that execute
-cascading actions independently. Waldron demonstrated to CNBC how the system creates investment
-banking presentations in 30 seconds and drafts confidential M&A memos. AI favours client-facing
-roles – private bankers, traders, investment bankers. At risk: operations staff handling account
-setup, fraud detection, and trade settlement. New job categories are emerging: “context engineers”
-ensuring AI systems have proper information, knowledge management specialists, and up-skilled
-software engineers building agentic systems. Stanford researchers analysing ADP data found early-
-career workers (ages 22-25) in AI-exposed occupations saw 6% employment decline from late 2022 to
-July 2025. Shadow IT, trust, and the “value gap” problem JPMorgan’s transparency extends to
-acknowledging significant execution risks. Without enterprise-grade tools, employees might use
-consumer-grade AI – exposing sensitive data. JPMorgan built an in-house system for security and
-control. When AI performs correctly 85-95% of the time, human reviewers may stop checking carefully.
-The error rate compounds at scale. “When an agentic system does a cascading series of analyses
-independently for a long time, it raises questions about how humans can trust that,” Waldron told
-McKinsey. Many enterprises face “proof-of-concept hell” – numerous pilots that never reach
-production because they underestimate integration complexity. “There is a value gap between what the
-technology is capable of and the ability to fully capture that in an enterprise,” Waldron told CNBC
-. Even with US$18 billion, full realisation takes years. The JPMorgan playbook: What enterprises can
-learn JPMorgan’s approach offers replicable principles despite scale advantages. Democratise access
-but mandate nothing – the opt-in strategy created viral adoption. Build for security first,
-particularly in regulated industries. Implement model-agnostic architecture to avoid vendor lock-in.
-Combine top-down transformation with bottom-up innovation. Segment training by audience. Track ROI
-with discipline at the initiative level. Acknowledge complexity and plan accordingly – JPMorgan took
-over two years to build the LLM Suite. Not every enterprise has US$18 billion for technology or
-200,000 employees. But core principles – democratisation, security-first architecture, avoiding
-vendor lock-in, and financial discipline – apply in industries and scale. Transformation with eyes
-wide open JPMorgan Chase’s AI strategy represents enterprise AI’s most transparent case study –
-complete with industry-leading adoption metrics, measurable ROI growth, and unflinching
-acknowledgement of workforce displacement. The bank’s success factors are clear: massive capital
-investment, model-agnostic infrastructure, democratised access paired with financial discipline, and
-realistic timelines. But Waldron’s candour about trust challenges, the “value gap” between
-capability and execution, and the multi-year journey ahead suggest that even US$18 billion and
-200,000 engaged employees don’t guarantee seamless transformation. For enterprises evaluating their
-AI strategies, JPMorgan’s lesson isn’t that scale solves everything – it’s that honest assessment of
-both opportunities and execution risks separates genuine transformation from expensive
-experimentation. The question isn’t whether JPMorgan’s AI strategy is working. It’s whether the 10%
-workforce reduction and years-long complexity represent acceptable trade-offs for 30-40% annual
-benefit growth – and how many other enterprises can afford to find out. Editor’s note: The analysis
-draws from McKinsey’s October 2025 interview with Derek Waldron and Kevin Buehler, CNBC’s September
-2025 exclusive demonstration of LLM Suite, American Banker’s June 2025 Innovation of the Year
-coverage, and Stanford University research on AI employment effects. See also: Walmart and Amazon
-drive retail transformation with AI Want to learn more about AI and big data from industry leaders?
-Check out AI & Big Data Expo taking place in Amsterdam, California, and London. This comprehensive
-event is part of TechEx
-https://www.artificialintelligence-news.com/news/jpmorgan-chase-ai-strategy-2025/
+AI News Advertise Contact Us Hamburger Toggle Menu AI in Action Zara’s use of AI shows how retail
+workflows are quietly changing Muhammad Zulhusni December 19, 2025 Share this story: Tags: ai
+artificial intelligence enterprise generative ai image generation retail Categories: AI Business
+Strategy AI in Action Artificial Intelligence Creative Industries Deep Dives Features Inside AI
+Marketing AI Retail & Logistics AI Zara is testing how far generative AI can be pushed into everyday
+retail operations, starting with a part of the business that rarely gets attention in technology
+discussions: product imagery. Recent reporting shows the retailer using AI to generate new images of
+real models wearing different outfits, based on existing photoshoots. Models remain involved in the
+process, including consent and compensation, but AI is used to extend and adapt imagery without
+repeating production from scratch. The stated aim is to speed up content creation and reduce the
+need for repeated shoots. On the surface, the change looks incremental. In practice, it reflects a
+familiar pattern in enterprise AI adoption, where technology is introduced not to overhaul how a
+business works, but to remove friction from tasks that repeat at scale. How Zara uses AI to reduce
+friction in repeatable retail work For a global retailer like Zara, imagery is not a creative
+afterthought. It is a production requirement tied directly to how quickly products can be launched,
+refreshed, and sold across markets. Each item typically needs multiple visual variations for
+different regions, digital channels, and campaign cycles. Even when garments change only slightly,
+the surrounding production work often starts again from scratch. That repetition creates delays and
+cost that are easy to overlook precisely because they are routine. AI offers a way to compress those
+cycles by reusing approved material and generating variations without resetting the entire process.
+AI enters the production pipeline The placement of the technology is as important as the capability
+itself. Zara is not positioning AI as a separate creative product or asking teams to adopt an
+entirely new workflow. The tools are being used inside an existing production pipeline, supporting
+the same outputs with fewer handoffs. That keeps the focus on throughput and coordination rather
+than experimentation. This kind of deployment is typical once AI moves beyond pilot stages. Rather
+than asking organisations to rethink how work is done, the technology is introduced where
+constraints already exist. The question becomes whether teams can move faster and with less
+duplication, not whether AI can replace human judgement. The imagery initiative also sits alongside
+a broader set of data-driven systems that Zara has built up over time. The retailer has long relied
+on analytics and machine learning to forecast demand, allocate inventory, and respond quickly to
+changes in customer behaviour. Those systems depend on fast feedback loops between what customers
+see, what they buy, and how stock moves through the network. From that perspective, faster content
+production supports the wider operation even if it is not framed as a strategic shift. When product
+imagery can be updated or localised more quickly, it reduces lag between physical inventory, online
+presentation, and customer response. Each improvement is small, but together they help maintain the
+pace that fast fashion relies on. From experimentation to routine use Notably, the company has
+avoided framing this move in grand terms. There are no published figures on cost savings or
+productivity gains, and no claims that AI is transforming the creative function. The scope remains
+narrow and operational, which limits both risk and expectation. That restraint is often a sign that
+AI has moved out of experimentation and into routine use. Once technology becomes part of day-to-day
+operations, organisations tend to talk about it less, not more. It stops being an innovation story
+and starts being treated as infrastructure. There are also constraints that remain visible. The
+process still relies on human models and creative oversight, and there is no suggestion that AI-
+generated imagery operates independently. Quality control, brand consistency, and ethical
+considerations continue to shape how the tools are applied. AI extends existing assets rather than
+generating content in isolation. This is consistent with how enterprises typically approach creative
+automation. Rather than replacing subjective work outright, they target the repeatable components
+around it. Over time, those changes accumulate and reshape how teams allocate effort, even if the
+core roles remain intact. Zara’s use of generative AI does not signal a reinvention of fashion
+retail. It shows how AI is beginning to touch parts of the organisation that were previously
+considered manual or difficult to standardise, without changing how the business fundamentally
+operates. In large enterprises, that is often how AI adoption becomes durable. It does not arrive
+through sweeping strategy announcements or dramatic claims. It takes hold through small, practical
+changes that make everyday work move a little faster — until those changes become hard to imagine
+doing without. (Photo by M. Rennim ) See also: Walmart’s AI strategy: Beyond the hype, what’s
+actually working Want to learn more about AI and big data from industry leaders? Check out AI & Big
+Data Expo taking place in Amsterdam, California, and London. The comprehensive event is part of
+TechEx and is co-located with other leading technology events, click here for more information. AI
+News is powered by TechForge Media . Explore other upcoming enterprise technology events and
+webinars here . About the Author Muhammad Zulhusni Journalist As a tech journalist, Zul focuses on
+topics including cloud computing, cybersecurity, and disruptive technology in the enterprise
+industry. He has expertise in moderating webinars and presenting content on video, in addition to
+having a background in networking technology. Related AI in Human Resources: the real operational
+impact December 18, 2025 Wall Street’s AI gains are here — banks plan for fewer people December 18,
+2025 Ensuring effective AI in insurance operations December 18, 2025 AstraZeneca leads big pharma’s
+AI clinical trials revolution with real-world patient impact December 18, 2025 Join our Community
+Subscribe now to get all our premium content and latest tech news delivered straight to your inbox
+Click here Popular Artificial Intelligence , How It Works , Inside AI , Utilities The role of
+machine learning in enhancing cloud-native container security 64272 view(s) AI in Action , AI Market
+Trends ,
+https://www.artificialintelligence-news.com/news/zara-use-of-ai-shows-how-retail-workflows-are-quietly-changing/
 
 ================================================================================
 

@@ -17,7 +17,7 @@ Status = Literal["ok", "not-modified", "error"]
 TOPIC_KEYWORDS = {
     "ai": ["artificial intelligence", "AI", "machine learning", "neural", "GPT", "model", "LLM", "deep learning", "transformer", "Philippines", "Llama", "Gemini", "Claude", "ChatGPT", "fine-tune", "RAG", "NAIS", "DOST AI"],
     "cybersecurity": ["cybersecurity", "security", "vulnerability", "breach", "malware", "exploit", "ransomware", "hacking", "cyber", "threat", "Philippines", "LockBit", "Conti", "Emotet", "Qakbot", "BlackCat", "zero-day", "APT", "Cobalt Strike", "CIRT", "DICT-CERT", "PNP-ACG"],
-    "blockchain": ["blockchain", "crypto", "bitcoin", "ethereum", "Web3", "NFT", "decentralized", "smart contract", "Philippines", "BTC", "Solana", "zkSync", "Arbitrum", "Optimism", "Axie Infinity", "P2E", "BSP", "PDAX", "Coins.ph", "Maya crypto"]
+    "web3": ["Web3", "blockchain", "cryptocurrency", "bitcoin", "ethereum", "NFT", "DeFi", "decentralized finance", "smart contract", "dApp", "decentralized application", "DAO", "decentralized autonomous organization", "metaverse", "tokenization", "digital assets", "crypto wallet", "DeFi protocol", "layer 2", "cross-chain", "GameFi", "play-to-earn", "P2E", "yield farming", "staking", "liquidity mining", "Web3 infrastructure", "decentralized web", "IPFS", "consensus mechanism", "proof of stake", "proof of work"]
 }
 
 def fetch_rss_items(feeds_dict: Dict[str, List[str]]) -> List[Dict]:

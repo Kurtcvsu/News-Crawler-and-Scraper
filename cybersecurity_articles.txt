@@ -1,118 +1,36 @@
 === CYBERSECURITY ===
 
-"Fortinet FortiGate Under Active Attack Through SAML SSO Authentication Bypass"
-Tue, 16 Dec 2025 16:28:00 +0530
+"New UEFI Flaw Enables Early-Boot DMA Attacks on ASRock, ASUS, GIGABYTE, MSI Motherboards"
+Fri, 19 Dec 2025 13:55:00 +0530
 
 
 The Essential Checklist for Modern AI-Driven Cloud Defense Discover how agentic AI transforms cloud
 security from reactive to real-time protection.
-https://thehackernews.com/2025/12/fortinet-fortigate-under-active-attack.html
+https://thehackernews.com/2025/12/new-uefi-flaw-enables-early-boot-dma.html
 
 ================================================================================
 
-"React2Shell Vulnerability Actively Exploited to Deploy Linux Backdoors"
-Tue, 16 Dec 2025 13:51:00 +0530
+"SonicWall Edge Access Devices Hit by Zero-Day Attacks"
+Thu, 18 Dec 2025 22:25:46 GMT
 
 
-The Essential Checklist for Modern AI-Driven Cloud Defense Discover how agentic AI transforms cloud
-security from reactive to real-time protection.
-https://thehackernews.com/2025/12/react2shell-vulnerability-actively.html
-
-================================================================================
-
-"Google to Shut Down Dark Web Monitoring Tool in February 2026"
-Tue, 16 Dec 2025 11:32:00 +0530
-
-
-The Essential Checklist for Modern AI-Driven Cloud Defense Discover how agentic AI transforms cloud
-security from reactive to real-time protection.
-https://thehackernews.com/2025/12/google-to-shut-down-dark-web-monitoring.html
+In the latest attacks against the vendor's SMA1000 devices, threat actors have chained a new zero-
+day flaw with a critical vulnerability disclosed earlier this year.
+https://www.darkreading.com/vulnerabilities-threats/sonicwall-edge-devices-zero-day-attacks
 
 ================================================================================
 
-"SoundCloud confirms breach after member data stolen, VPN access disrupted"
-Mon, 15 Dec 2025 19:38:47 -0500
+"North Korea’s Digital Surge: $2B Stolen in Crypto as Amazon Blocks 1,800 Fake IT Workers"
+Fri, 19 Dec 2025 10:01:36 +0000
 
 
-SoundCloud confirms breach after member data stolen, VPN access disrupted By Lawrence Abrams
-December 15, 2025 07:38 PM 0 Audio streaming platform SoundCloud has confirmed that outages and VPN
-connection issues over the past few days were caused by a security breach in which threat actors
-stole a database exposing users' email addresses and profile information. The disclosure follows
-widespread reports over the past four days from users who were unable to access SoundCloud when
-connecting via VPN, with attempts resulting in the site displaying 403 "forbidden" errors. In a
-statement shared with BleepingComputer, SoundCloud said it recently detected unauthorized activity
-involving an ancillary service dashboard and activated its incident response procedures. SoundCloud
-acknowledged that a threat actor accessed some of its data but said the exposure was limited in
-scope. "We understand that a purported threat actor group accessed certain limited data that we
-hold," SoundCloud told BleepingComputer. "We have completed an investigation into the data that was
-impacted, and no sensitive data (such as financial or password data) has been accessed. The data
-involved consisted only of email addresses and information already visible on public SoundCloud
-profiles." BleepingComputer has learned that the breach affects 20% of SoundCloud’s users, which,
-based on publicly reported user figures, could impact roughly 28 million accounts. The company said
-it is confident that all unauthorized access to SoundCloud systems has been blocked and that there
-is no ongoing risk to the platform. Working with third-party cybersecurity experts, the company said
-it took additional steps to strengthen its security, including improving monitoring and threat
-detection, reviewing identity and access controls, and conducting an assessment of related systems.
-However, the company's response included a configuration change that disrupted VPN connectivity to
-the site. SoundCloud has not provided a timeline for when VPN access will be fully restored.
-Following the response, SoundCloud experienced denial-of-service attacks that temporarily disabled
-the platform's web availability. After publishing our story, SoundCloud published a security notice
-with this information. While SoundCloud has not shared details about the threat actor behind the
-breach, BleepingComputer received a tip earlier today stating that the ShinyHunters extortion gang
-was responsible. Our source said that ShinyHunters is now extorting SoundCloud after allegedly
-stealing a database containing information about its users. ShinyHunters is also responsible for the
-PornHub data breach that was first reported today by BleepingComputer. This is a developing story,
-and we will update it as more information becomes available. Break down IAM silos like Bitpanda,
-KnowBe4, and PathAI Broken IAM isn't just an IT problem - the impact ripples across your whole
-business. This practical guide covers why traditional IAM practices fail to keep up with modern
-demands, examples of what "good" IAM looks like, and a simple checklist for building a scalable
-strategy. Get the guide Related Articles: Checkout.com snubs hackers after data breach, to donate
-ransom instead PornHub extorted after hackers steal Premium member activity data Askul confirms
-theft of 740k customer records in ransomware attack University of Phoenix discloses data breach
-after Oracle hack University of Pennsylvania confirms new data breach after Oracle hack
-https://www.bleepingcomputer.com/news/security/soundcloud-confirms-breach-after-member-data-stolen-vpn-access-disrupted/
-
-================================================================================
-
-"Google is shutting down its dark web report feature in January"
-Mon, 15 Dec 2025 18:24:57 -0500
-
-
-Google is shutting down its dark web report feature in January By Mayank Parmar December 15, 2025
-06:24 PM 0 Google is discontinuing its "dark web report" security tool, stating that it wants to
-focus on other tools it believes are more helpful. Google's dark web report tool is a security
-feature that notifies users if their email address or other personal information was found on the
-dark web. After Google scans the dark web and identifies your personal information, it will notify
-you where the data was found and what type of data was exposed, encouraging users to take action to
-protect their data. Example of Google Dark Web Report tool Source: BleepingComputer For example, if
-Google identifies your email on the dark web, you will be advised to turn on two-step authentication
-to protect your Google account. Google sunsets the dark web report tool In an email seen by
-BleepingComputer, Google confirmed it will stop monitoring for new dark web results on January 15,
-2026, and its data will no longer be available from February 16, 2026. "We are discontinuing the
-dark web report, which was meant to scan the dark web for your personal information," reads an email
-seen by BleepingComputer. "It will stop monitoring for new results on January 15, 2026 and its data
-will no longer be available from February 16, 2026. While the report offered general information,
-feedback showed that it did not provide helpful next steps." "We're making this change to instead
-focus on tools that give you more clear, actionable steps to protect your information online. We
-will continue to track and defend you from online threats, including the dark web, and build tools
-that help protect you and your personal information." Google Dark Web Report tool sunset
-announcement Source: BleepingComputer Google will continue to invest in other tools, such as Google
-Password Manager and the Password Checkup tool. "In the meantime, we encourage you to use the
-existing tools we offer to strengthen your security and privacy, including Security and Privacy
-Checkups, Passkey, 2-Step Verification, Google Password Manager, and Password Checkup," Google
-explained in an email. Google says users can also use the " Results about you " tool to find and
-request the removal of their personal information from Google Search results, like their phone
-number and home address. However, some of you might miss Google's dark web report, which notified
-users even when their address was found on the dark web. In addition, Google's dark web report
-consolidated all potential dark web leaks in one place so that you could act quickly. Break down IAM
-silos like Bitpanda, KnowBe4, and PathAI Broken IAM isn't just an IT problem - the impact ripples
-across your whole business. This practical guide covers why traditional IAM practices fail to keep
-up with modern demands, examples of what "good" IAM looks like, and a simple checklist for building
-a scalable strategy. Get the guide Related Articles: Comcast to pay $1.5M fine for vendor breach
-affecting 270K customers Hacker claims to steal 2.3TB data from Italian rail group, Almaviva Google
-begins showing ads in AI Mode (AI answers) Google Search is now using AI to create interactive UI to
-answer your questions French agency Pajemploi reports data breach affecting 1.2M people
-https://www.bleepingcomputer.com/news/google/google-is-shutting-down-its-dark-web-report-feature-in-january/
+<p>Data from Chainalysis and Amazon offers a glimpse into North Korea’s cyber activities surrounding
+cryptocurrency theft and fake IT workers.</p> <p>The post <a
+href="https://www.securityweek.com/north-koreas-digital-surge-2b-stolen-in-crypto-as-amazon-
+blocks-1800-fake-it-workers/">North Korea&#8217;s Digital Surge: $2B Stolen in Crypto as Amazon
+Blocks 1,800 Fake IT Workers</a> appeared first on <a
+href="https://www.securityweek.com">SecurityWeek</a>.</p>
+https://www.securityweek.com/north-koreas-digital-surge-2b-stolen-in-crypto-as-amazon-blocks-1800-fake-it-workers/
 
 ================================================================================
 

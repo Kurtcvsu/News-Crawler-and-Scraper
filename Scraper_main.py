@@ -29,7 +29,7 @@ def main():
     topic_files = {
         "ai": open("ai_articles.txt", "w", encoding="utf-8"),
         "cybersecurity": open("cybersecurity_articles.txt", "w", encoding="utf-8"),
-        "blockchain": open("blockchain_articles.txt", "w", encoding="utf-8"),
+        "web3": open("web3_articles.txt", "w", encoding="utf-8"),
     }
 
     try:
@@ -51,7 +51,7 @@ def main():
                 f.write("\n" + "=" *80 + "\n\n")
 
 
-        print("✅ Articles saved to ai_articles.txt, cybersecurity_articles.txt, blockchain_articles.txt")
+        print("✅ Articles saved to ai_articles.txt, cybersecurity_articles.txt, web3_articles.txt")
     finally:
         # Make sure files are closed even if something crashes
         for f in topic_files.values():

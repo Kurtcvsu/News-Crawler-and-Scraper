@@ -8,7 +8,6 @@ AI Keywords + Explanations
     "LLM",                      # Large Language Model (big AI brains)
     "deep learning",            # Advanced neural networks
     "transformer",              # Core AI architecture behind GPT/Llama
-    "Philippines",              # PH location filter
     "Llama",                    # Meta's open-source AI models (Llama 3.1)
     "Gemini",                   # Google's AI model family (Gemini 2.0)
     "Claude",                   # Anthropic's AI chatbot models
@@ -20,7 +19,6 @@ AI Keywords + Explanations
 
 CYBERSECURITY Keywords + Explanations
    "cybersecurity",            # General cybersecurity term
-    "security",                 # Broad security term (needs context)
     "vulnerability",            # Software weakness hackers exploit
     "breach",                   # Data leak/exposure incident
     "malware",                  # Malicious software (viruses, trojans)
@@ -42,24 +40,36 @@ CYBERSECURITY Keywords + Explanations
     "DICT-CERT",                # Philippines CERT team (govt cybersecurity)
     "PNP-ACG"                   # PNP Anti-Cybercrime Group (PH police)
 
-BLOCKCHAIN Keywords + Explanations
-    "blockchain",               # Distributed ledger technology
-    "crypto",                   # Cryptocurrency shorthand
-    "bitcoin",                  # Original cryptocurrency (#1 market cap)
-    "ethereum",                 # #2 blockchain/smart contracts
-    "Web3",                     # Decentralized web (blockchain apps)
-    "NFT",                      # Non-Fungible Token (digital collectibles)
-    "decentralized",            # No central authority (blockchain core)
-    "smart contract",           # Self-executing blockchain code
-    "Philippines",              # PH location filter
-    "BTC",                      # Bitcoin symbol/ticker
-    "Solana",                   # Fast blockchain (Axie uses it)
-    "zkSync",                   # Zero-knowledge scaling (Layer 2)
-    "Arbitrum",                 # Ethereum Layer 2 scaling solution
-    "Optimism",                 # Ethereum Layer 2 scaling solution
-    "Axie Infinity",            # PH-famous blockchain game (P2E pioneer)
-    "P2E",                      # Play-to-Earn gaming (huge in PH)
-    "BSP",                      # Bangko Sentral ng Pilipinas (PH central bank)
-    "PDAX",                     # Philippine Digital Asset Exchange
-    "Coins.ph",                 # PH crypto exchange/wallet
-    "Maya crypto"               # Maya bank's crypto services
+WEB3 Keywords + Explanations
+    "Web3",                              # Decentralized web (blockchain apps)
+    "blockchain",                        # Distributed ledger technology
+    "cryptocurrency",                    # Digital currency (bitcoin, ethereum)
+    "bitcoin",                           # Original cryptocurrency (#1 market cap)
+    "ethereum",                          # #2 blockchain/smart contracts platform
+    "NFT",                               # Non-Fungible Token (digital collectibles)
+    "DeFi",                              # Decentralized Finance (no banks)
+    "decentralized finance",             # Finance without central authority
+    "smart contract",                    # Self-executing blockchain code
+    "dApp",                              # Decentralized application
+    "decentralized application",         # Apps running on blockchain
+    "DAO",                               # Decentralized Autonomous Organization
+    "decentralized autonomous organization", # Community-governed blockchain org
+    "metaverse",                         # Virtual worlds (blockchain-based)
+    "tokenization",                      # Converting assets to blockchain tokens
+    "digital assets",                    # Blockchain-based assets (NFTs, tokens)
+    "crypto wallet",                     # Digital wallet for crypto storage
+    "DeFi protocol",                     # Decentralized finance platform
+    "layer 2",                           # Blockchain scaling solution
+    "cross-chain",                       # Connecting different blockchains
+    "GameFi",                            # Gaming + DeFi (play-to-earn)
+    "play-to-earn",                      # Earn crypto by playing games
+    "P2E",                               # Play-to-Earn gaming (huge in PH)
+    "yield farming",                     # Earning crypto through DeFi
+    "staking",                           # Locking crypto to earn rewards
+    "liquidity mining",                  # Providing liquidity for rewards
+    "Web3 infrastructure",               # Core Web3 technology/platforms
+    "decentralized web",                 # Web without central servers
+    "IPFS",                              # InterPlanetary File System (decentralized storage)
+    "consensus mechanism",               # How blockchain validates transactions
+    "proof of stake",                    # Energy-efficient blockchain validation
+    "proof of work"                      # Mining-based blockchain validation
