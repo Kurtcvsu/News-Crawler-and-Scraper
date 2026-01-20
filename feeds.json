@@ -11,8 +11,7 @@
     "https://feeds.feedburner.com/TheHackersNews",
     "https://bleepingcomputer.com/feed/",
     "https://www.darkreading.com/rss.xml",
-    "https://threatpost.com/feed/",
-    "https://www.securityweek.com/feed/"
+    "https://threatpost.com/feed/"
   ],
   "web3": [
     "https://cointelegraph.com/rss",
@@ -22,7 +21,6 @@
     "https://www.theblockcrypto.com/rss.xml",
     "https://blockworks.co/rss",
     "https://www.coinbureau.com/feed/",
-    "https://cryptonews.com/news/feed/",
     "https://beincrypto.com/feed/"
   ]
 }
