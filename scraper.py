@@ -23,7 +23,7 @@ TOPIC_KEYWORDS = {
 def fetch_rss_items(feeds_dict: Dict[str, List[str]]) -> List[Dict]:
     """Fetch RSS feeds and filter articles by topic keywords."""
     items = []
-    cutoff = datetime.now() - timedelta(hours=48)
+    cutoff = datetime.now() - timedelta(hours=24)
     
     for topic, urls in feeds_dict.items():
         keywords = TOPIC_KEYWORDS.get(topic, [])
@@ -54,6 +54,8 @@ def fetch_rss_items(feeds_dict: Dict[str, List[str]]) -> List[Dict]:
                     has_keyword = counter >= 2
 
                     date_released = datetime(*published_struct[:6])
+
+                    formatted_date = date_released.strftime('%b %d, %Y')
                     
                     latest_date = date_released >= cutoff
 
@@ -62,7 +64,7 @@ def fetch_rss_items(feeds_dict: Dict[str, List[str]]) -> List[Dict]:
                             "topic": topic,
                             "title": entry.get("title", ""),
                             "link": entry.get("link", ""),
-                            "published": entry.get("published", ""),
+                            "published": formatted_date,
                             "summary": entry.get("summary", "")
                         })
             
