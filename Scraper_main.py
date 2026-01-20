@@ -1,6 +1,5 @@
 import json
 from scraper import fetch_rss_items, enrich_articles
-from summarizer import generate_separate_summaries
 import textwrap
 
 def main():
@@ -8,7 +7,7 @@ def main():
     print("Loading feeds from feeds.json...")
     with open("feeds.json", "r", encoding="utf-8") as f:
         feeds = json.load(f)
-
+            
     print("Fetching RSS feeds...")
     raw_items = fetch_rss_items(feeds)
     print(f"Found {len(raw_items)} items from RSS")
@@ -26,7 +25,7 @@ def main():
             articles_by_topic[topic] = []
         articles_by_topic[topic].append(article)
 
-    # Open one file per topic for raw articles
+    # Open one file per topic
     topic_files = {
         "ai": open("ai_articles.txt", "w", encoding="utf-8"),
         "cybersecurity": open("cybersecurity_articles.txt", "w", encoding="utf-8"),
@@ -57,14 +56,6 @@ def main():
         # Make sure files are closed even if something crashes
         for f in topic_files.values():
             f.close()
-    
-    # Generate AI summaries from saved article files
-    print("Generating AI summaries with Gemini from article files...")
-    summaries = generate_separate_summaries()
-    
-    print("✅ All files generated successfully!")
-    print(f"📁 Raw articles: ai_articles.txt, cybersecurity_articles.txt, web3_articles.txt")
-    print(f"🤖 AI summaries: {', '.join([f'{topic}_summary.txt' for topic in summaries.keys()])}")
 
 
 if __name__ == "__main__":
