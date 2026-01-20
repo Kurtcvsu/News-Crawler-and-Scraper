@@ -5,6 +5,8 @@ from typing import List, Dict
 
 load_dotenv()
 
+import json
+
 def init_gemini():
     """Initialize the Gemini API client."""
     api_key = os.environ.get("GEMINI_API_KEY")
@@ -38,10 +40,6 @@ def summarize_from_file(topic: str, custom_prompt: str = None) -> str:
         print(f"Error calling Gemini for summary: {e}")
         return f"Failed to summarize {topic} articles."
 
-
-
-
-
 def generate_topic_summary(topic: str, custom_prompt: str = None) -> str:
     """Generate a complete summary for a single topic using prompts_config.json."""
     init_gemini()
@@ -49,34 +47,46 @@ def generate_topic_summary(topic: str, custom_prompt: str = None) -> str:
     # Load prompt from config file if no custom prompt provided
     if not custom_prompt:
         try:
-            import json
             with open("prompts_config.json", "r", encoding="utf-8") as f:
                 prompts_config = json.load(f)
             custom_prompt = prompts_config.get(topic, {}).get("prompt")
         except FileNotFoundError:
             print(f"prompts_config.json not found, using default for {topic}")
     
-    print(f"Generating summary for {topic}...")
+    print(f"Generating summary for {topic}...") 
     summary = summarize_from_file(topic, custom_prompt)
     
     return summary
 
-def generate_separate_summaries() -> Dict[str, str]:
+def generate_separate_summaries(articles_by_topic: dict, today_date: str):
     """Generate separate summaries for each topic from saved article files."""
+    prompts = json.load(open("prompts_config.json"))
     summaries = {}
     
     for topic in ["ai", "cybersecurity", "web3"]:
-        summary = generate_topic_summary(topic)
-        if "not found" not in summary.lower():
-            summaries[topic] = summary
-            
-            filename = f"{topic}_summary.txt"
-            with open(filename, "w", encoding="utf-8") as f:
-                f.write(summary)
-            print(f"✅ {topic.upper()} summary saved to {filename}")
-        else:
-            print(f"⚠️ Skipping {topic}: {summary}")
+        if topic not in articles_by_topic or not articles_by_topic[topic]:
+            print(f"⚠️ No {topic} articles")
+            continue
+
+        articles = articles_by_topic[topic][:5]  # Top 5
+        sources = "\n".join([f"SOURCE {i+1}: {art['title']} - {art['published']}" 
+                           for i, art in enumerate(articles)])
+        
+        prompt = prompts[topic]["prompt"].format(today_date=today_date)
+        full_prompt = prompt + f"\n\nSources:\n{sources}"
+        
+        # Use your existing summarize_from_file logic but with articles
+        summary = call_gemini_directly(full_prompt)  # See below
+        
+        summaries[topic] = summary
+        with open(f"{topic}_summary.txt", "w") as f:
+            f.write(summary)
+        print(f"✅ {topic} summary saved")
     
     return summaries
 
-
+def call_gemini_directly(prompt: str) -> str:
+    init_gemini()
+    model = genai.GenerativeModel("gemini-2.5-flash")
+    response = model.generate_content(prompt)
+    return response.text
